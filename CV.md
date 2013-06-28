@@ -1,4 +1,4 @@
-Ethan White's Curriculum Vitae
+	Ethan White's Curriculum Vitae
 ==============================
 
 Contact
@@ -49,7 +49,7 @@ Publications
 
 J.R. Coyle, A.H. Hurlbert, and E.P. White. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://dx.doi.org/10.1086/669903](http://dx.doi.org/10.1086/669903)
 
-Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. In press. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://dx.doi.org/10.1890/12-0370.1](http://dx.doi.org/10.1890/12-0370.1)
+Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://dx.doi.org/10.1890/12-0370.1](http://dx.doi.org/10.1890/12-0370.1)
 
 White, E.P., K.M. Thibault+, and X. Xiao\*. 2012. Characterizing species-abundance distributions across taxa and ecosystems using a simple maximum entropy model. Ecology 93:1772-1778. [http://dx.doi.org/10.1890/11-2177.1](http://dx.doi.org/10.1890/11-2177.1). *White and Thibault contributed equally to this work*.
 
