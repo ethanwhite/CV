@@ -47,7 +47,9 @@ Publications
 
 ### Journal Articles
 
-J.R. Coyle, A.H. Hurlbert, and E.P. White. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://dx.doi.org/10.1086/669903](http://dx.doi.org/10.1086/669903)
+Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://dx.doi.org/doi:10.1371/journal.pone.0065848](http://dx.doi.org/doi:10.1371/journal.pone.0065848)
+
+Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://dx.doi.org/10.1086/669903](http://dx.doi.org/10.1086/669903)
 
 Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://dx.doi.org/10.1890/12-0370.1](http://dx.doi.org/10.1890/12-0370.1)
 
@@ -141,8 +143,6 @@ White, E.P., and J.H. Brown. 2005. The template: patterns and processes of spati
 Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species invasions: Insights into the mechanisms that limit species diversity. Pages 447-465 in D.F. Sax, S.D. Gaines, and J.J. Stachowicz, editors. Species Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates, Sunderland, MA.
 
 ### Manuscripts & Preprints
-
-B.D. Morris and E.P. White. The EcoData Retriever: improving access to existing ecological data. In review at PLOS ONE.
 
 D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Katy Huff, Ian Mitchell, Mark Plumbley, Ben Waugh, Ethan P. White, Greg Wilson and Paul Wilson. Best Practices for Scientific Computing. http://arxiv.org/abs/1210.0530
 
