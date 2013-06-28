@@ -43,7 +43,7 @@ Phi Beta Kappa 1998
 
 Publications
 ------------
-**undergraduate, *graduate student, +postdoc; citations =  1485, h-index = 19
+**undergraduate, *graduate student, +postdoc; citations =  1551, h-index = 20
 
 ### Journal Articles
 
