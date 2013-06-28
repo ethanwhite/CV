@@ -1,4 +1,4 @@
-	Ethan White's Curriculum Vitae
+Ethan White's Curriculum Vitae
 ==============================
 
 Contact
