@@ -144,7 +144,9 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 ### Manuscripts & Preprints
 
-D. A. Aruliah, C. Titus Brown, Neil P. Chue Hong, Matt Davis, Richard T. Guy, Steven H. D. Haddock, Katy Huff, Ian Mitchell, Mark Plumbley, Ben Waugh, Ethan P. White, Greg Wilson and Paul Wilson. Best Practices for Scientific Computing. http://arxiv.org/abs/1210.0530
+Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. Best Practices for Scientific Computing. http://arxiv.org/abs/1210.0530
+
+
 
 Grants and Contracts*
 ---------------------
