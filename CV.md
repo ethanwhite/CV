@@ -47,6 +47,10 @@ Publications
 
 ### Journal Articles
 
+White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. In press. Preprint: [http://dx.doi.org/10.7287/peerj.preprints.7v2](http://dx.doi.org/10.7287/peerj.preprints.7v2)
+
+Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://dx.doi.org/10.1371/journal.pbio.1001563](http://dx.doi.org/10.1371/journal.pbio.1001563)
+
 Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://dx.doi.org/doi:10.1371/journal.pone.0065848](http://dx.doi.org/doi:10.1371/journal.pone.0065848)
 
 Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://dx.doi.org/10.1086/669903](http://dx.doi.org/10.1086/669903)
@@ -146,7 +150,11 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2012. Best Practices for Scientific Computing. [http://arxiv.org/abs/1210.0530](http://arxiv.org/abs/1210.0530)
 
-White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn\+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. PeerJ Preprints 1:e7v1. [http://dx.doi.org/10.7287/peerj.preprints.7v1](http://dx.doi.org/10.7287/peerj.preprints.7v1)
+White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. PeerJ Preprints 1:e7v1. [http://dx.doi.org/10.7287/peerj.preprints.7v1](http://dx.doi.org/10.7287/peerj.preprints.7v1)
+
+Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [http://arxiv.org/abs/1308.0731](http://arxiv.org/abs/1308.0731)
+
+McGlinn, D.J.+, X. Xiao, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. [http://arxiv.org/abs/1308.0655](http://arxiv.org/abs/1308.0655)
 
 Grants and Contracts*
 ---------------------
