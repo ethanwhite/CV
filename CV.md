@@ -183,6 +183,8 @@ METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of E
 Invited Seminars
 ----------------
 
+"Evaluating a general theory of macroecology" July 10th, 2013. Keynote for the British Ecological Society's Macroecology Special Interest Group Annual Meeting. http://dx.doi.org/10.6084/m9.figshare.155707
+
 "Evaluating a general theory of macroecology using big(ish) data" February 8th, 2013. Michigan State University. http://dx.doi.org/10.6084/m9.figshare.155707
 
 "Evaluating a general theory of macroecology using big(ish) data" February 4th, 2013. University of British Columbia. http://dx.doi.org/10.6084/m9.figshare.155707
@@ -200,8 +202,10 @@ Invited Seminars
 "A metabolic zero-sum approach to community ecology?". March 28th, 2008. Keynote speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 
-Invited Workshops and Working Groups
-------------------------------------
+Invited Workshops, Symposia, and Working Groups
+-----------------------------------------------
+
+"Israeli-American Kavli Frontiers of Science Symposium". University of California Irvine. 2013. Irvine, CA. Organizers: National Academy of Sciences.
 
 "Frontiers of Macroecological Theory". University of California Berkeley. 2013. Berkeley, CA. Organizers: John Harte.
 
@@ -298,6 +302,8 @@ Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD
 
 Presentations   (**undergraduate, *graduate student, +postdoc)
 --------------------------------------------------------------
+
+White, E.P., X. Xiao\*, D.J. McGlinn, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://dx.doi.org/10.6084/m9.figshare.719779](http://dx.doi.org/10.6084/m9.figshare.719779)
 
 Wolf, P.G., K.E. Mock, E.P. White, H.S. Rai, and B.A. Richardson. 2013. Genotyping-by-Sequencing (GBS) for Population Genomics of Aspen (Populus tremuloides). Plant & Animal Genome XXI. San Diego, CA.
 
