@@ -146,11 +146,9 @@ White, E.P., and J.H. Brown. 2005. The template: patterns and processes of spati
 
 Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species invasions: Insights into the mechanisms that limit species diversity. Pages 447-465 in D.F. Sax, S.D. Gaines, and J.J. Stachowicz, editors. Species Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates, Sunderland, MA.
 
-### Preprints
+### Preprints (not yet formally published)
 
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2012. Best Practices for Scientific Computing. [http://arxiv.org/abs/1210.0530](http://arxiv.org/abs/1210.0530)
-
-White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. PeerJ Preprints 1:e7v1. [http://dx.doi.org/10.7287/peerj.preprints.7v1](http://dx.doi.org/10.7287/peerj.preprints.7v1)
 
 Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [http://arxiv.org/abs/1308.0731](http://arxiv.org/abs/1308.0731)
 
