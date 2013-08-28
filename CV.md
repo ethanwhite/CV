@@ -265,6 +265,22 @@ Neutral Theories in Ecology (2010)
 
 Biogeography (2008, 2009)
 
+### Software Carpentry
+I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), [create material](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) for the
+program, and [organize and teach at workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/).
+
+#### Lead Instructor
+University of British Columbia (February 2013), Utah State
+University (March 2013)
+
+#### Instructor
+University of North Carolina (October 2012), CUAHSI Water Data Center
+(July 2013), Ecological Society of American Annual Meeting (August 2013)
+
+#### Organizer
+Utah State University (April 2012), Utah State University (March 2013)
+
+
 ### Training
 * Utah State University Teaching Academy
 * 30 hours of instruction on contemporary approaches to teaching (Fall 2007)
