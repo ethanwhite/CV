@@ -47,7 +47,7 @@ Publications
 
 ### Journal Articles
 
-White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution. In press. Preprint: [http://dx.doi.org/10.7287/peerj.preprints.7v2](http://dx.doi.org/10.7287/peerj.preprints.7v2)
+White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://library.queensu.ca/ojs/index.php/IEE/article/view/4608](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608). [Preprint](http://dx.doi.org/10.7287/peerj.preprints.7)
 
 Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://dx.doi.org/10.1371/journal.pbio.1001563](http://dx.doi.org/10.1371/journal.pbio.1001563)
 
