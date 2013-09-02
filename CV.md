@@ -148,11 +148,11 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 ### Preprints (not yet formally published)
 
-Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2012. Best Practices for Scientific Computing. [http://arxiv.org/abs/1210.0530](http://arxiv.org/abs/1210.0530)
+Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2012. Best Practices for Scientific Computing. [arXiv:1210.0530](http://arxiv.org/abs/1210.0530)
 
-Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [http://arxiv.org/abs/1308.0731](http://arxiv.org/abs/1308.0731)
+Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
 
-McGlinn, D.J.+, X. Xiao, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. [http://arxiv.org/abs/1308.0655](http://arxiv.org/abs/1308.0655)
+McGlinn, D.J.+, X. Xiao, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. [arXiv:1308.0655](http://arxiv.org/abs/1308.0655)
 
 Grants and Contracts*
 ---------------------
