@@ -47,6 +47,8 @@ Publications
 
 ### Journal Articles
 
+Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. In Press. Best Practices for Scientific Computing. PLOS Biology. [Preprint](http://arxiv.org/abs/1210.0530)
+
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://library.queensu.ca/ojs/index.php/IEE/article/view/4608](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608). [Preprint](http://dx.doi.org/10.7287/peerj.preprints.7)
 
 Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://dx.doi.org/10.1371/journal.pbio.1001563](http://dx.doi.org/10.1371/journal.pbio.1001563)
@@ -148,8 +150,6 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 ### Preprints (not yet formally published)
 
-Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2012. Best Practices for Scientific Computing. [arXiv:1210.0530](http://arxiv.org/abs/1210.0530)
-
 Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
 
 McGlinn, D.J.+, X. Xiao, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. [arXiv:1308.0655](http://arxiv.org/abs/1308.0655)
@@ -182,6 +182,9 @@ METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of E
 
 Invited Seminars
 ----------------
+"Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. http://dx.doi.org/10.6084/m9.figshare.155707
+
+"Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. http://dx.doi.org/10.6084/m9.figshare.155707
 
 "Evaluating a general theory of macroecology" July 10th, 2013. Keynote for the British Ecological Society's Macroecology Special Interest Group Annual Meeting. http://dx.doi.org/10.6084/m9.figshare.155707
 
