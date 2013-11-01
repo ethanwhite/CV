@@ -55,7 +55,7 @@ Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance con
 
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://library.queensu.ca/ojs/index.php/IEE/article/view/4608](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608). [Preprint](http://doi.org/10.7287/peerj.preprints.7)
 
-Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563)
+Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710)
 
 Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848)
 
