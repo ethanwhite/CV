@@ -23,6 +23,8 @@ Associate Professor, Utah State University (2012-present)
 
 Senior Scientist, Sevilleta LTER (2012-present)
 
+Visiting Scholar, University of North Carolina (2013-2014)
+
 Assistant Professor, Utah State University (2007-2012)
 
 NSF Postdoctoral Fellow in Biological Informatics, Univ. of Arizona. & U.C. Merced (2005-2007)
