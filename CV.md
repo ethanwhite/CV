@@ -51,7 +51,7 @@ Publications
 
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. In Press. Best Practices for Scientific Computing. PLOS Biology. [Preprint](http://arxiv.org/abs/1210.0530)
 
-McGlinn, D.J.+, X. Xiao, and E.P. White. In press. An empirical comparison of four variants of a universal species-area relationship. PeerJ. [Preprint](http://arxiv.org/abs/1308.0655)
+McGlinn, D.J.+, X. Xiao\*, and E.P. White. In press. An empirical comparison of four variants of a universal species-area relationship. PeerJ. [Preprint](http://arxiv.org/abs/1308.0655)
 
 Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance constrain the distribution of abundance. Ecology Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154)
 
