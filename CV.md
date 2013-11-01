@@ -49,6 +49,8 @@ Publications
 
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. In Press. Best Practices for Scientific Computing. PLOS Biology. [Preprint](http://arxiv.org/abs/1210.0530)
 
+McGlinn, D.J.+, X. Xiao, and E.P. White. In press. An empirical comparison of four variants of a universal species-area relationship. PeerJ. [Preprint](http://arxiv.org/abs/1308.0655)
+
 Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance constrain the distribution of abundance. Ecology Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154)
 
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://library.queensu.ca/ojs/index.php/IEE/article/view/4608](http://library.queensu.ca/ojs/index.php/IEE/article/view/4608). [Preprint](http://doi.org/10.7287/peerj.preprints.7)
@@ -153,8 +155,6 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 ### Preprints (not yet formally published)
 
 Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
-
-McGlinn, D.J.+, X. Xiao, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. [arXiv:1308.0655](http://arxiv.org/abs/1308.0655)
 
 Grants and Contracts*
 ---------------------
