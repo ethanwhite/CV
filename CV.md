@@ -45,17 +45,17 @@ Phi Beta Kappa 1998
 
 Publications
 ------------
-**undergraduate, *graduate student, +postdoc; citations =  1551, h-index = 20
+**undergraduate, *graduate student, <sup>+</sup>postdoc; citations =  1551, h-index = 20
 
 ### Journal Articles
 
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. In Press. Best Practices for Scientific Computing. PLOS Biology. [Preprint](http://arxiv.org/abs/1210.0530)
 
-McGlinn, D.J.+, X. Xiao\*, and E.P. White. In press. An empirical comparison of four variants of a universal species-area relationship. PeerJ. [Preprint](http://arxiv.org/abs/1308.0655)
+McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. In press. An empirical comparison of four variants of a universal species-area relationship. PeerJ. [Preprint](http://arxiv.org/abs/1308.0655)
 
 Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance constrain the distribution of abundance. Ecology Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154)
 
-White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn+, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f). [Preprint](http://doi.org/10.7287/peerj.preprints.7)
+White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f). [Preprint](http://doi.org/10.7287/peerj.preprints.7)
 
 Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710)
 
@@ -65,9 +65,9 @@ Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive dive
 
 Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1)
 
-White, E.P., K.M. Thibault+, and X. Xiao\*. 2012. Characterizing species-abundance distributions across taxa and ecosystems using a simple maximum entropy model. Ecology 93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1). *White and Thibault contributed equally to this work*.
+White, E.P., K.M. Thibault<sup>+</sup>, and X. Xiao\*. 2012. Characterizing species-abundance distributions across taxa and ecosystems using a simple maximum entropy model. Ecology 93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1). *White and Thibault contributed equally to this work*.
 
-Thibault, K.M.+, S. Supp, M. Giffen**, E.P. White, S.K.M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology 92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1)
+Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen**, E.P. White, S.K.M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology 92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1)
 
 Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of log-transformation vs. nonlinear regression for analyzing biological power-laws. Ecology 92: 1887-1894. [http://doi.org/10.1890/11-0538.1](http://doi.org/10.1890/11-0538.1)
 
@@ -75,7 +75,7 @@ Stegen, J.C., N.G. Swenson, B.J. Enquist, E.P. White, O.L. Phillips, P.M. Jorgen
 
 Locey, K.J.\* and E.P. White. 2011. Simple structural differences between coding and noncoding DNA. PLOS One 6:e14651. [http://doi.org/10.1371/journal.pone.0014651](http://doi.org/10.1371/journal.pone.0014651)
 
-Thibault, K.M.+, E.P. White, A.H. Hurlbert, and S.K.M. Ernest. 2011. Multimodality in the individual size distribution of bird communities. Global Ecology and Biogeography 20:145-153. [http://doi.org/10.1111/j.1466-8238.2010.00576.x](http://doi.org/10.1111/j.1466-8238.2010.00576.x)
+Thibault, K.M.<sup>+</sup>, E.P. White, A.H. Hurlbert, and S.K.M. Ernest. 2011. Multimodality in the individual size distribution of bird communities. Global Ecology and Biogeography 20:145-153. [http://doi.org/10.1111/j.1466-8238.2010.00576.x](http://doi.org/10.1111/j.1466-8238.2010.00576.x)
 
 White, E.P., S.K.M. Ernest, P.B. Adler, A.H. Hurlbert, S.K. Lyons. 2010. Integrating spatial and temporal approaches to understanding species richness. Philosophical Transactions of the Royal Society B 365:3633-3643. [http://doi.org/10.1098/rstb.2010.0280](http://doi.org/10.1098/rstb.2010.0280)
 
@@ -83,7 +83,7 @@ White, E.P. and A.H. Hurlbert. 2010. The combined influence of the local environ
 
 Supp, S.R.\* and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution 3:16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c)
 
-Thibault, K.M.+, S.K.M. Ernest, E.P. White, J.H. Brown, and J.R. Goheen. 2010. Complex dynamics of rodent response to precipitation in the Chihuahuan Desert. Journal of Mammalogy 91:787-797. [http://doi.org/10.1644/09-MAMM-S-142.1](http://doi.org/10.1644/09-MAMM-S-142.1)
+Thibault, K.M.<sup>+</sup>, S.K.M. Ernest, E.P. White, J.H. Brown, and J.R. Goheen. 2010. Complex dynamics of rodent response to precipitation in the Chihuahuan Desert. Journal of Mammalogy 91:787-797. [http://doi.org/10.1644/09-MAMM-S-142.1](http://doi.org/10.1644/09-MAMM-S-142.1)
 
 Price, C.A., K. Ogle, E.P. White, and J.S. Weitz. 2009. Evaluating allometric scaling models in biology using hierarchical Bayesian approaches. Ecology Letters 12:641-651. [http://doi.org/10.1111/j.1461-0248.2009.01316.x](http://doi.org/10.1111/j.1461-0248.2009.01316.x)
 
@@ -156,7 +156,7 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 ### Preprints (not yet formally published)
 
-Xiao, X.\*, D.J. McGlinn+, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
+Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
 
 Grants and Contracts*
 ---------------------
@@ -323,16 +323,16 @@ Mikaelle Giffen (2008-2009)
 ### Graduate Student Committees
 Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Mohlman (PhD), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni (PhD), Chris Feldman (PhD, 2008, Utah State University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
 
-Presentations   (**undergraduate, *graduate student, +postdoc)
+Presentations   (**undergraduate, *graduate student, <sup>+</sup>postdoc)
 --------------------------------------------------------------
 
-White, E.P., X. Xiao\*, D.J. McGlinn, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://doi.org/10.6084/m9.figshare.719779](http://doi.org/10.6084/m9.figshare.719779)
+White, E.P., X. Xiao\*, D.J. McGlinn<sup>+</sup>, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://doi.org/10.6084/m9.figshare.719779](http://doi.org/10.6084/m9.figshare.719779)
 
 Wolf, P.G., K.E. Mock, E.P. White, H.S. Rai, and B.A. Richardson. 2013. Genotyping-by-Sequencing (GBS) for Population Genomics of Aspen (Populus tremuloides). Plant & Animal Genome XXI. San Diego, CA.
 
 Xiao, X.* and E.P. White. 2012. The adequate currency for community-level energetic constraint based on Maximum Entropy. 97th Annual Meeting of the Ecological Society of America. Austin, TX.
 
-McGlinn, D.+, X. Xiao*, J. Kitzes, and E.P. White. 2012. Testing the Spatial Predictions of the Maximum Entropy Theory of Ecology. Gordon Research Conference on the Metabolic Basis of Ecology.
+McGlinn, D.<sup>+</sup>, X. Xiao*, J. Kitzes, and E.P. White. 2012. Testing the Spatial Predictions of the Maximum Entropy Theory of Ecology. Gordon Research Conference on the Metabolic Basis of Ecology.
 
 Xiao, X.* and E.P. White. 2012. Testing the individual- and species- level energy distributions of the Maximum Entropy Theory of Ecology (METE). Gordon Research Conference on the Metabolic Basis of Ecology.
 
@@ -340,7 +340,7 @@ E.P. White, B. Morris\*\*, S.K. Morgan Ernest, K.M. Thibault†, A.H. Hurlbert, 
 
 J.R. Coyle, A.H. Hurlbert, E.P. White. 95th Annual Meeting of the Ecological Society of America. Austin, TX.
 
-K.M. Thibault+, E.P. White, X. Xiao\*.  95th Annual Meeting of the Ecological Society of America. Austin, TX.
+K.M. Thibault<sup>+</sup>, E.P. White, X. Xiao\*.  95th Annual Meeting of the Ecological Society of America. Austin, TX.
 
 S.R. Supp, X. Xiao\*, S.K.M. Ernest, E.P. White. 95th Annual Meeting of the Ecological Society of America. Austin, TX.
 
