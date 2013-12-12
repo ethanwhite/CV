@@ -51,7 +51,7 @@ Publications
 
 [OA version]: Link to an open or free version of the paper if the published version is not open access
 
-citations =  1689, h-index = 22
+citations =  1718, h-index = 22
 
 ### Journal Articles
 
