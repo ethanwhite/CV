@@ -117,7 +117,7 @@ Savage, V.M., E.P. White, M.E. Moses, S.K.M. Ernest, B.J. Enquist, and E.L. Char
 
 Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2006. Intra-guild compensation regulates species richness in desert rodents: reply. Ecology 87:2121-2125. [http://doi.org/10.1890/0012-9658(2006)87[2121:ICRSRI]2.0.CO;2](http://dx.doi.org/10.1890/0012-9658\(2006\)87%5B2121:ICRSRI%5D2.0.CO;2)
 
-White, E.P., P.B. Adler, W.K. Lauenroth, R.A. Gill, D. Greenberg, D.M. Kaufman, A. Rassweiler, J.A. Rusak, M.D. Smith, J.R. Steinbeck, R.B. Waide and J. Yao. 2006. A comparison of the species-time relationship across ecosystems and taxonomic groups. Oikos 112:185-195. [http://doi.org/10.1111/j.0030-1299.2006.14223.x](http://doi.org/10.1111/j.0030-1299.2006.14223.x) [[http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1367&context=biology_facpub]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1367&context=biology_facpub)
+White, E.P., P.B. Adler, W.K. Lauenroth, R.A. Gill, D. Greenberg, D.M. Kaufman, A. Rassweiler, J.A. Rusak, M.D. Smith, J.R. Steinbeck, R.B. Waide and J. Yao. 2006. A comparison of the species-time relationship across ecosystems and taxonomic groups. Oikos 112:185-195. [http://doi.org/10.1111/j.0030-1299.2006.14223.x](http://doi.org/10.1111/j.0030-1299.2006.14223.x) [[OA Version]](http://works.bepress.com/ethan_white/15/)
 
 Adler, P.B., E.P. White, W.K. Lauenroth, D.M. Kaufman, A. Rassweiler, and J.A. Rusak. 2005. Evidence for a general species-time-area relationship. Ecology 86:2032-2039. [http://doi.org/10.1890/05-0067](http://doi.org/10.1890/05-0067)
 
@@ -133,7 +133,7 @@ White, E.P. 2004. Two-phase species-time relationships in North American land bi
 
 Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Testing the disease hypothesis for late-pleistocene extinctions using West Nile virus as a model. Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
 
-White, E.P. 2004. Factors affecting bat house occupancy in Colorado. The Southwestern Naturalist 49:344-349. [http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2](http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2)
+White, E.P. 2004. Factors affecting bat house occupancy in Colorado. The Southwestern Naturalist 49:344-349. [http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2](http://doi.org/10.1894/0038-4909\(2004\)049<0344:FABHOI>2.0.CO;2)
 
 Ernest, S.K.M., B.J. Enquist, J.H. Brown, E.L. Charnov, J.F. Gillooly, V.M. Savage, E.P. White, F.A. Smith, E.A. Hadly, J.P. Haskell, S.K. Lyons, B.A. Maurer, K.J. Niklas, and B. Tiffney. 2003. Thermodynamic and metabolic effects on the scaling of production and population energy use. Ecology Letters 6:990-995. [http://doi.org/10.1046/j.1461-0248.2003.00526.x](http://doi.org/10.1046/j.1461-0248.2003.00526.x)
 
