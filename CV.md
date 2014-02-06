@@ -116,7 +116,7 @@ Thibault, K.M., E.P. White, and S.K.M. Ernest. 2004. Temporal dynamics in the st
 
 White, E.P. 2004. Two-phase species-time relationships in North American land birds. Ecology Letters 7:329-336. [http://doi.org/10.1111/j.1461-0248.2004.00581.x](http://doi.org/10.1111/j.1461-0248.2004.00581.x)
 
-Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Testing the disease hypothesis for late-pleistocene extinctions using West Nile virus as a model. Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
+Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Was a ‘hyperdisease’ responsible for the late Pleistocene megafaunal extinction? Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
 
 White, E.P. 2004. Factors affecting bat house occupancy in Colorado. The Southwestern Naturalist 49:344-349. [http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2](http://doi.org/10.1894/0038-4909\(2004\)049<0344:FABHOI>2.0.CO;2)
 
