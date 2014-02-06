@@ -283,8 +283,10 @@ Mikaelle Giffen (2008-2009)
 ### Graduate Student Committees
 Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013, Utah State University), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni (PhD, 2013, Utah State University), Chris Feldman (PhD, 2008, Utah State University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
 
-Presentations   (**undergraduate, *graduate student, <sup>+</sup>postdoc)
---------------------------------------------------------------
+Presentations
+-------------
+
+**undergraduate, *graduate student, <sup>+</sup>postdoc)
 
 White, E.P., X. Xiao\*, D.J. McGlinn<sup>+</sup>, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://doi.org/10.6084/m9.figshare.719779](http://doi.org/10.6084/m9.figshare.719779)
 
