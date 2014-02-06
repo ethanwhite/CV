@@ -3,52 +3,37 @@ Ethan White's Curriculum Vitae
 
 Contact
 -------
-Email: [ethan.white@usu.edu](mailto:ethan.white@usu.edu)
-
-Twitter: [@ethanwhite](https://twitter.com/ethanwhite) (or app.net [@ethanwhite](https://alpha.app.net/ethanwhite))
-
-Snail Mail: Department of Biology, Utah State University, Logan, UT 84322
-
-Website: [whitelab.weecology.org](http://whitelab.weecology.org)
+Email: [ethan.white@usu.edu](mailto:ethan.white@usu.edu)  
+Twitter: [@ethanwhite](https://twitter.com/ethanwhite)  
+Website: [ethanwhite.org](http://ethanwhite.org)  
+Mail: Department of Biology, Utah State University, Logan, UT 84322  
 
 Education
 ---------
-Ph.D. 	Biology (Distinction). 2005. University of New Mexico, Albuquerque. Advisor: James H. Brown
-
+Ph.D. 	Biology (Distinction). 2005. University of New Mexico, Albuquerque. Advisor: James H. Brown  
 B.A. 	Biology (Magna Cum Laude, Distinction). 1998. Colorado College, Colorado Springs.
 
 Research and Professional Experience
 ------------------------------------
-Associate Professor, Utah State University (2012-present)
-
-Senior Scientist, Sevilleta LTER (2012-present)
-
-Visiting Scholar, University of North Carolina (2013-2014)
-
-Assistant Professor, Utah State University (2007-2012)
-
+Associate Professor, Utah State University (2012-present)  
+Senior Scientist, Sevilleta LTER (2012-present)  
+Visiting Scholar, University of North Carolina (2013-2014)  
+Assistant Professor, Utah State University (2007-2012)  
 NSF Postdoctoral Fellow in Biological Informatics, Univ. of Arizona. & U.C. Merced (2005-2007)
 
 Fellowships and Awards
 ----------------------
-NSF CAREER 'Young Investigators' Award 2010-2015
-
-NSF Postdoctoral Fellowship in Biological Informatics 2005-2007
-
-NSF Graduate Research Fellowship 2000-2005
-
-University of New Mexico Biocomplexity Fellowship 2002-2004
-
-Richard G. Beidleman Award 1998 (Colorado College)
-
+NSF CAREER 'Young Investigators' Award 2010-2015  
+NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
+NSF Graduate Research Fellowship 2000-2005  
+University of New Mexico Biocomplexity Fellowship 2002-2004  
+Richard G. Beidleman Award 1998 (Colorado College)  
 Phi Beta Kappa 1998
 
 Publications
 ------------
-**undergraduate, *graduate student, <sup>+</sup>postdoc
-
-[OA]: The published paper is open access (or at least free to read)
-
+**undergraduate, *graduate student, <sup>+</sup>postdoc  
+[OA]: The published paper is open access (or at least free to read)  
 [OA version]: Link to an open or free version of the paper if the published version is not open access
 
 citations =  1763, h-index = 23
@@ -164,14 +149,16 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
 
-Grants and Contracts*
----------------------
+Grants and Contracts
+--------------------
+
+National Science Foundation. SG: Distinguishing between core and transient species: new insights into the determinants of species richness. PIs: A.H. Hurlbert and E.P.White. 2014-2016.
 
 National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using informatics and entropy maximization. PI: E.P. White. 2010-2015. http://doi.org/10.6084/m9.figshare.93937 
 
-Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular and ecological neutral theories via genome based simulation. PIs: E.P. White and K.J. Locey. 2011-2013.
-
 ### Completed
+
+Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular and ecological neutral theories via genome based simulation. PIs: E.P. White and K.J. Locey. 2011-2013.
 
 National Ecological Observatory Network. Existing terrestrial organismal data survey and secure database interface development. PI: E.P. White. 2012.
 
@@ -237,16 +224,14 @@ Invited Workshops, Symposia, and Working Groups
 Professional and Community Service
 ----------------------------------
 ### Grant Panels and Reviewing
-National Science Foundation Panelist (2009, 2012)
-
+National Science Foundation Panelist (2009, 2012)  
 Review of grant applications for NSF (United States), NSERC (Canada), and NRF (South Africa)
 
 ### Advisory Boards
 Software Carpentry, Board Member (2012-present)
 
 ### Editorial Boards
-PLoS ONE (2011-present)
-
+PLoS ONE (2011-present)  
 PeerJ (2012-present)
 
 ### Manuscript Reviewing
@@ -256,78 +241,47 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 University Service
 ------------------
-Member, Promotion and tenure committees, Dept. of Biology (2012 - present)
-
-Chair, Adjunct appointment committee, Dept. of Biology (2011)
-
-Member, Faculty search committee, Dept. of Biology (2011)
-
+Member, Promotion and tenure committees, Dept. of Biology (2012 - present)  
+Chair, Adjunct appointment committee, Dept. of Biology (2011)  
+Member, Faculty search committee, Dept. of Biology (2011)  
 Member, Staff search committee (2011)
 
 Teaching
 --------
 
 ### Courses Taught
-Advanced Programming and Database Management for Biologists (2011 - present)
-
-Introduction to Programming and Database Management for Biologists (2010 - present)
-
-Maximum Entropy in Ecology (2011)
-
-Neutral Theories in Ecology (2010)
-
+Advanced Programming and Database Management for Biologists (2011 - present)  
+Introduction to Programming and Database Management for Biologists (2010 - present)  
+Maximum Entropy in Ecology (2011)  
+Neutral Theories in Ecology (2010)  
 Biogeography (2008, 2009)
 
 ### Software Carpentry
-I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), [create material](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) for the
-program, and [organize and teach at workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/).
+I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), one of the project leads on [material development](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/), and [organize and lead workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) including Utah State University (April 2012, March 2013), University of North Carolina (October 2012), University of British Columbia (February 2013), CUAHSI Water Data Center (July 2013), and the Ecological Society of American Annual Meeting (August 2013).
 
-#### Lead Instructor
-University of British Columbia (February 2013), Utah State
-University (March 2013)
-
-#### Instructor
-University of North Carolina (October 2012), CUAHSI Water Data Center
-(July 2013), Ecological Society of American Annual Meeting (August 2013)
-
-#### Organizer
-Utah State University (April 2012), Utah State University (March 2013)
-
-
-### Training
-* Utah State University Teaching Academy
-* 30 hours of instruction on contemporary approaches to teaching (Fall 2007)
-* Master Teacher Observation, Utah State University (Fall 2007)
-* Peer To Peer University Course: How to Teach Webcraft and Programming to Free-Range Students (Spring 2012)
 
 Research Mentoring
 ------------------
 ### Postdoctoral Associates
 
-Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.
-
+Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.  
 Daniel McGlinn (2011-present).
 
 ### Graduate Students
 
-Xiao Xiao (PhD student; 2008-present). USU College of Science Diversity Fellow.
-
-Kenneth Locey (PhD student; 2008-present). USU College of Science Eccles Fellow.
-
-Elita Baldridge (PhD Student; 2010-present).
-
+Kenneth Locey (PhD student; 2008-2013). Now a postdoctoral researcher at Indian University.  
+Xiao Xiao (PhD student; 2008-present). USU College of Science Diversity Fellow.  
+Elita Baldridge (PhD Student; 2010-present).  
 Kristina Riemer (PhD Student; 2013-present)
 
 ### Undergraduate Researchers
 
-Ben Morris (2010-present; NSF REU Summer 2011). NCUR participant.
-
-Clayton Bingham (2009-2010)
-
+Ben Morris (2010-2012; NSF REU Summer 2011). Now a graduate student at Univ. of North Carolina.  
+Clayton Bingham (2009-2010). Now a graduate student at Univ. of Southern California.  
 Mikaelle Giffen (2008-2009)
 
 ### Graduate Student Committees
-Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Mohlman (PhD), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni (PhD), Chris Feldman (PhD, 2008, Utah State University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
+Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013, Utah State University), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni (PhD, 2013, Utah State University), Chris Feldman (PhD, 2008, Utah State University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
 
 Presentations   (**undergraduate, *graduate student, <sup>+</sup>postdoc)
 --------------------------------------------------------------
