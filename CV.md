@@ -74,7 +74,7 @@ White, E.P. and A.H. Hurlbert. 2010. The combined influence of the local environ
 
 Supp, S.R.\* and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution 3:16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c) [OA]
 
-Thibault, K.M.<sup>+</sup>, S.K.M. Ernest, E.P. White, J.H. Brown, and J.R. Goheen. 2010. Complex dynamics of rodent response to precipitation in the Chihuahuan Desert. Journal of Mammalogy 91:787-797. [http://doi.org/10.1644/09-MAMM-S-142.1](http://doi.org/10.1644/09-MAMM-S-142.1)
+Thibault, K.M.<sup>+</sup>, S.K.M. Ernest, E.P. White, J.H. Brown, and J.R. Goheen. 2010. Long-term insights into the influence of precipitation on community dynamics in desert rodents. Journal of Mammalogy 91:787-797. [http://doi.org/10.1644/09-MAMM-S-142.1](http://doi.org/10.1644/09-MAMM-S-142.1)
 
 Price, C.A., K. Ogle, E.P. White, and J.S. Weitz. 2009. Evaluating allometric scaling models in biology using hierarchical Bayesian approaches. Ecology Letters 12:641-651. [http://doi.org/10.1111/j.1461-0248.2009.01316.x](http://doi.org/10.1111/j.1461-0248.2009.01316.x) [OA]
 
