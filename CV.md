@@ -88,33 +88,33 @@ Ernest, S.K.M., J.H. Brown, K.M. Thibault, E.P. White, and J.R. Goheen. 2008. Ze
 
 Stegen, J.C. and E.P. White. 2008. On the relationship between mass and diameter distributions in tree communities. Ecology Letters 11:1287-1293. [http://doi.org/10.1111/j.1461-0248.2008.01242.x](http://doi.org/10.1111/j.1461-0248.2008.01242.x) [[OA Version]](http://digitalcommons.usu.edu/biology_facpub/362/)
 
-White, E.P., S.K.M. Ernest, A.J. Kerkhoff, and B.J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology and Evolution 22:323-330. [http://doi.org/10.1016/j.tree.2007.03.007](http://doi.org/10.1016/j.tree.2007.03.007)
+White, E.P., S.K.M. Ernest, A.J. Kerkhoff, and B.J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology and Evolution 22:323-330. [http://doi.org/10.1016/j.tree.2007.03.007](http://doi.org/10.1016/j.tree.2007.03.007) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1326&context=biology_facpub)
 
-Hurlbert, A.H., and E.P. White. 2007. Ecological correlates of geographic range occupancy in North American birds. Global Ecology and Biogeography 16:764-773. [http://doi.org/10.1111/j.1466-8238.2007.00335.x](http://doi.org/10.1111/j.1466-8238.2007.00335.x)
+Hurlbert, A.H., and E.P. White. 2007. Ecological correlates of geographic range occupancy in North American birds. Global Ecology and Biogeography 16:764-773. [http://doi.org/10.1111/j.1466-8238.2007.00335.x](http://doi.org/10.1111/j.1466-8238.2007.00335.x) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1362&context=biology_facpub)
 
 McGill, B.J., R. Etienne, J. Gray, D. Alonso, M. Anderson, H. Benecha, M. Dornelas, B.J. Enquist, J.L. Green, F. He, A.H. Hurlbert, A.E. Magurran, P. Marquet, B. Maurer, A. Ostling, C. Soykan, K. Ugland, and E.P. White. 2007. Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework. Ecology Letters 10:995-1015. [http://doi.org/10.1111/j.1461-0248.2007.01094.x](http://doi.org/10.1111/j.1461-0248.2007.01094.x) [OA]
 
-McClain, C.R., E.P. White, and A.H. Hurlbert. 2007. Challenges in the application of geometric constraint models. Global Ecology and Biogeography 16:257-264. [http://doi.org/10.1111/j.1466-8238.2007.00286.x](http://doi.org/10.1111/j.1466-8238.2007.00286.x)
+McClain, C.R., E.P. White, and A.H. Hurlbert. 2007. Challenges in the application of geometric constraint models. Global Ecology and Biogeography 16:257-264. [http://doi.org/10.1111/j.1466-8238.2007.00286.x](http://doi.org/10.1111/j.1466-8238.2007.00286.x) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1365&context=biology_facpub)
 
 White, E.P., and M.A. Gilchrist. 2007. Effects of population level aggregation, autocorrelation, and interspecific association on the species-time relationship in two desert communities. Evolutionary Ecology Research 9:1329-1347. [[OA Version]](http://whitelab.weecology.org/sites/default/files/white_ep_2007_e9_1329.pdf)
 
 Savage, V.M., E.P. White, M.E. Moses, S.K.M. Ernest, B.J. Enquist, and E.L. Charnov. 2006. Comment on “The Illusion of Invariant Quantities in Life Histories”. Science 312:198b. [http://doi.org/10.1126/science.1123679](http://doi.org/10.1126/science.1123679) [OA]
 
-Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2006. Intra-guild compensation regulates species richness in desert rodents: reply. Ecology 87:2121-2125. [http://doi.org/10.1890/0012-9658(2006)87[2121:ICRSRI]2.0.CO;2](http://dx.doi.org/10.1890/0012-9658\(2006\)87%5B2121:ICRSRI%5D2.0.CO;2)
+Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2006. Intra-guild compensation regulates species richness in desert rodents: reply. Ecology 87:2121-2125. [http://doi.org/10.1890/0012-9658(2006)87[2121:ICRSRI]2.0.CO;2](http://dx.doi.org/10.1890/0012-9658\(2006\)87%5B2121:ICRSRI%5D2.0.CO;2) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1328&context=biology_facpub)
 
 White, E.P., P.B. Adler, W.K. Lauenroth, R.A. Gill, D. Greenberg, D.M. Kaufman, A. Rassweiler, J.A. Rusak, M.D. Smith, J.R. Steinbeck, R.B. Waide and J. Yao. 2006. A comparison of the species-time relationship across ecosystems and taxonomic groups. Oikos 112:185-195. [http://doi.org/10.1111/j.0030-1299.2006.14223.x](http://doi.org/10.1111/j.0030-1299.2006.14223.x) [[OA Version]](http://works.bepress.com/ethan_white/15/)
 
-Adler, P.B., E.P. White, W.K. Lauenroth, D.M. Kaufman, A. Rassweiler, and J.A. Rusak. 2005. Evidence for a general species-time-area relationship. Ecology 86:2032-2039. [http://doi.org/10.1890/05-0067](http://doi.org/10.1890/05-0067)
+Adler, P.B., E.P. White, W.K. Lauenroth, D.M. Kaufman, A. Rassweiler, and J.A. Rusak. 2005. Evidence for a general species-time-area relationship. Ecology 86:2032-2039. [http://doi.org/10.1890/05-0067](http://doi.org/10.1890/05-0067) [[OA Version]](http://works.bepress.com/cgi/viewcontent.cgi?article=1015&context=ethan_white)
 
 Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2005. Intra-guild compensation regulates species richness in desert rodents. Ecology 86:567-573. [http://doi.org/10.1890/04-1475](http://doi.org/10.1890/04-1475)
 
 Hurlbert, A.H., and E.P. White. 2005. Disparity between range map and survey based analyses of species richness: patterns, processes, and implications. Ecology Letters 8:319-327. [http://doi.org/10.1111/j.1461-0248.2005.00726.x](http://doi.org/10.1111/j.1461-0248.2005.00726.x)
 
-White, E.P., S.K.M. Ernest, and K.M. Thibault. 2004. Tradeoffs in community properties through time in a desert rodent community. American Naturalist 164:670-676. [http://doi.org/10.1086/424766](http://doi.org/10.1086/424766)
+White, E.P., S.K.M. Ernest, and K.M. Thibault. 2004. Tradeoffs in community properties through time in a desert rodent community. American Naturalist 164:670-676. [http://doi.org/10.1086/424766](http://doi.org/10.1086/424766) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1333&context=biology_facpub)
 
 Thibault, K.M., E.P. White, and S.K.M. Ernest. 2004. Temporal dynamics in the structure and composition of a desert rodent community. Ecology 85:2649-2655. [http://doi.org/10.1890/04-0321](http://doi.org/10.1890/04-0321)
 
-White, E.P. 2004. Two-phase species-time relationships in North American land birds. Ecology Letters 7:329-336. [http://doi.org/10.1111/j.1461-0248.2004.00581.x](http://doi.org/10.1111/j.1461-0248.2004.00581.x)
+White, E.P. 2004. Two-phase species-time relationships in North American land birds. Ecology Letters 7:329-336. [http://doi.org/10.1111/j.1461-0248.2004.00581.x](http://doi.org/10.1111/j.1461-0248.2004.00581.x) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1372&context=biology_facpub)
 
 Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Was a ‘hyperdisease’ responsible for the late Pleistocene megafaunal extinction? Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
 
@@ -137,7 +137,7 @@ White, E.P. In Press. Commentary on Arrhenius (1920). In F.A. Smith, J.L. Gittle
 
 White, E.P. In Press. Commentary on Fisher et al. (1943). In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
-White, E.P., X. Xiao*, N.J.B. Isaac, and R.M. Sibly. 2012. Methodological tools. Pages 9-20 in J.H. Brown, R.M. Sibley, and A. Kodric-Brown, editors. Metabolic Ecology. Wiley-Blackwell.
+White, E.P., X. Xiao*, N.J.B. Isaac, and R.M. Sibly. 2012. Methodological tools. Pages 9-20 in J.H. Brown, R.M. Sibley, and A. Kodric-Brown, editors. Metabolic Ecology. Wiley-Blackwell. [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1732&context=biology_facpub)
 
 White, E.P. 2007. Spatiotemporal scaling of species richness: patterns, processes and implications. Pages 325-346 in D. Storch, P.A. Marquet, and J.H. Brown, editors. Scaling Biodiversity. Cambridge University Press.
 
