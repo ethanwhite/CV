@@ -32,11 +32,15 @@ Phi Beta Kappa 1998
 
 Publications
 ------------
-**undergraduate, *graduate student, <sup>+</sup>postdoc  
+Publication Impact:
+[Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
+(citations =  1763, h-index = 23),
+[Impact Story](http://impactstory.org/ethanwhite#article)  
 [OA]: The published paper is open access (or at least free to read)  
-[OA version]: Link to an open or free version of the paper if the published version is not open access
+[OA version]: Link to an open or free version of the paper if the published
+  version is not open access
+**undergraduate, *graduate student, <sup>+</sup>postdoc
 
-citations =  1763, h-index = 23
 
 ### Journal Articles
 
@@ -172,6 +176,8 @@ LTER Network Office workshop grant. Species richness in space and time workshop.
 Software
 --------
 
+Software Impact: [Impact Story](http://impactstory.org/ethanwhite#software)
+
 EcoData Retriever: tool for easy acquisition of public ecological datasets. By B.D. Morris and E.P. White. https://github.com/weecology/retriever
 
 METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and S. Supp. https://github.com/weecology/METE
@@ -179,6 +185,9 @@ METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of E
 
 Invited Seminars
 ----------------
+
+Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
+
 "Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. http://doi.org/10.6084/m9.figshare.155707
 
 "Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. http://doi.org/10.6084/m9.figshare.155707
@@ -286,7 +295,8 @@ Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan Koch (PhD
 Presentations
 -------------
 
-**undergraduate, *graduate student, <sup>+</sup>postdoc)
+Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
+**undergraduate, *graduate student, <sup>+</sup>postdoc
 
 White, E.P., X. Xiao\*, D.J. McGlinn<sup>+</sup>, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://doi.org/10.6084/m9.figshare.719779](http://doi.org/10.6084/m9.figshare.719779)
 
