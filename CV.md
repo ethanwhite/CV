@@ -156,7 +156,7 @@ Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the
 Grants and Contracts
 --------------------
 
-National Science Foundation. SG: Distinguishing between core and transient species: new insights into the determinants of species richness. PIs: A.H. Hurlbert and E.P.White. 2014-2016.
+National Science Foundation (DEB-1354563). SG: Distinguishing between core and transient species: new insights into the determinants of species richness. PIs: A.H. Hurlbert and E.P.White. 2014-2016.
 
 National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using informatics and entropy maximization. PI: E.P. White. 2010-2015. http://doi.org/10.6084/m9.figshare.93937 
 
