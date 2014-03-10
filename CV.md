@@ -192,7 +192,6 @@ Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 25th, 2014. University of
 Florida. [Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)
 
-
 "Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. http://doi.org/10.6084/m9.figshare.155707
 
 "Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. http://doi.org/10.6084/m9.figshare.155707
@@ -302,6 +301,24 @@ Presentations
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+White, E.P., X. Xiao*, K.M. Thibault, D.J. McGlinn<sup>+</sup>,
+J.A. Kitzes. 2013. Evaluating a general theory of macroecology using big
+data. 98th Annual Meeting of the Ecological Society of America. Minneapolis,
+MN. [[Slides](http://dx.doi.org/10.6084/m9.figshare.766196)]
+
+White, E.P. 2013. Big data in ecology. 98th Annual Meeting of the Ecological
+Society of America. Minneapolis,
+MN. [[Slides](http://figshare.com/articles/Big_Data_in_Ecology/768444)], [[Full Talk w/Slides & Script](http://jabberwocky.weecology.org/2013/08/12/ignite-talk-big-data-in-ecology/)]
+
+Locey, K.J., and E.P. White. 2013. How species richness and total abundance
+constrain the distribution of abundance. 98th Annual Meeting of the Ecological
+Society of America. Minneapolis, MN. [[Slides](http://figshare.com/articles/ESA_2013_poster/768460)]
+
+McGlinn, D.J.<sup>+</sup> and E.P White. 2013. Connecting the environment to a
+maximum entropy prediction of the species-abundance distribution across
+continents and taxa. 98th Annual Meeting of the Ecological Society of
+America. Minneapolis, MN. [[Slides](http://figshare.com/articles/Modeling_Geographic_Patterns_in_the_Species_Abundance_Distribution/768505)]
 
 White, E.P., X. Xiao\*, D.J. McGlinn<sup>+</sup>, K.M. Thibault. 2013. Evaluating and using general theories in ecology. Israeli-American Kavli Frontiers of Science Symposium. University of California Irvine. 2013. Irvine, CA. [http://doi.org/10.6084/m9.figshare.719779](http://doi.org/10.6084/m9.figshare.719779)
 
