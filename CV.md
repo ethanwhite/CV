@@ -188,6 +188,11 @@ Invited Seminars
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 
+"The value of data-intensive approaches in ecology". February
+25th, 2014. University of
+Florida. [Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)
+
+
 "Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. http://doi.org/10.6084/m9.figshare.155707
 
 "Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. http://doi.org/10.6084/m9.figshare.155707
