@@ -218,6 +218,9 @@ Florida. [Slides](http://figshare.com/articles/The_value_of_data_intensive_appro
 Invited Workshops, Symposia, and Working Groups
 -----------------------------------------------
 
+"Ignite Session: Constraints in Ecology". 98th Annual Meeting of the Ecological
+Society of America. Organizers: Elita Baldridge and Ethan P. White. [[Schedule](http://eco.confex.com/eco/2013/webprogram/Session9001.html)]
+
 "Israeli-American Kavli Frontiers of Science Symposium". University of California Irvine. 2013. Irvine, CA. Organizers: National Academy of Sciences.
 
 "Frontiers of Macroecological Theory". University of California Berkeley. 2013. Berkeley, CA. Organizers: John Harte.
