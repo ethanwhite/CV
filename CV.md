@@ -188,9 +188,7 @@ Invited Seminars
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 
-"The value of data-intensive approaches in ecology". February
-25th, 2014. University of
-Florida. [Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)
+"The value of data-intensive approaches in ecology". February 25th, 2014. University of Florida. [Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)
 
 "Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. http://doi.org/10.6084/m9.figshare.155707
 
@@ -243,8 +241,9 @@ Professional and Community Service
 National Science Foundation Panelist (2009, 2012)  
 Review of grant applications for NSF (United States), NSERC (Canada), and NRF (South Africa)
 
-### Advisory Boards
-Software Carpentry, Board Member (2012-present)
+### Board Memberships & Affiliations
+Impactstory, Board of Directors (2014-present)  
+Software Carpentry, Advisory Board (2012-present)
 
 ### Editorial Boards
 PLoS ONE (2011-present)  
