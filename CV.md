@@ -34,7 +34,7 @@ Publications
 ------------
 Publication Impact:
 [Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
-(citations =  1824, h-index = 23),
+(citations =  1845, h-index = 24),
 [Impact Story](http://impactstory.org/ethanwhite#article)  
 [OA]: The published paper is open access (or at least free to read)  
 [OA version]: Link to an open or free version of the paper if the published
