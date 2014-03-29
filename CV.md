@@ -280,7 +280,7 @@ Research Mentoring
 ### Postdoctoral Associates
 
 Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.  
-Daniel McGlinn (2011-present).
+Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of Charleston in Fall 2014.
 
 ### Graduate Students
 
