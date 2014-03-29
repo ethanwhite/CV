@@ -256,7 +256,7 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 University Service
 ------------------
-Member, Promotion and tenure committees, Dept. of Biology (2012 - present)  
+Member, Promotion and tenure committees, Dept. of Biology (2012-present)  
 Chair, Adjunct appointment committee, Dept. of Biology (2011)  
 Member, Faculty search committee, Dept. of Biology (2011)  
 Member, Staff search committee (2011)
@@ -284,7 +284,7 @@ Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of
 
 ### Graduate Students
 
-Kenneth Locey (PhD student; 2008-2013). Now a postdoctoral researcher at Indian University.  
+Kenneth Locey (PhD student; 2008-2013). Now a postdoctoral researcher at Indiana University.  
 Xiao Xiao (PhD student; 2008-present). USU College of Science Diversity Fellow.  
 Elita Baldridge (PhD Student; 2010-present).  
 Kristina Riemer (PhD Student; 2013-present)
