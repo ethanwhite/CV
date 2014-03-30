@@ -44,81 +44,81 @@ Publication Impact:
 
 ### Journal Articles
 
-Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [OA] [[Preprint](http://arxiv.org/abs/1210.0530)] *Most viewed article in PLOS Biology for the 2 months following publication.*
+Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [**OA**, [Preprint](http://arxiv.org/abs/1210.0530), [*Top 1% of articles for online impact*](http://www.altmetric.com/details.php?citation_id=2027120)]
 
-McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. PeerJ 1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212) [OA] [[Preprint](http://arxiv.org/abs/1308.0655)]
+McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. PeerJ 1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212) [**OA**, [Preprint](http://arxiv.org/abs/1308.0655)]
 
-Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance constrain the distribution of abundance. Ecology Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154) [[OA version]](http://digitalcommons.usu.edu/biology_facpub/736/)
+Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance constrain the distribution of abundance. Ecology Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154) [[**OA** version](http://digitalcommons.usu.edu/biology_facpub/736/)]
 
-White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [OA] [[Preprint](http://doi.org/10.7287/peerj.preprints.7)] *PeerJ Pick 2014.*
+White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
 
-Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [OA] [[Preprint](http://dx.doi.org/10.6084/m9.figshare.655710)] *Featured discussion in PLOS Biology.*
+Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [**OA**, [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710), *Featured discussion in PLOS Biology*, [*Top 1% of articles for online impact*](http://www.altmetric.com/details.php?citation_id=1475952)]
 
-Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848) [OA]
+Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848) [**OA**]
 
-Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://doi.org/10.1086/669903](http://doi.org/10.1086/669903) [OA]
+Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://doi.org/10.1086/669903](http://doi.org/10.1086/669903) [**OA**]
 
-Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1) [OA] *One of the Top 4 Articles in Ecology in the year following publication.*
+Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1) [**OA**, *Top 4 Articles in Ecology in year following publication*]
 
-White, E.P., K.M. Thibault<sup>+</sup>, and X. Xiao\*. 2012. Characterizing species-abundance distributions across taxa and ecosystems using a simple maximum entropy model. Ecology 93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1) [OA] *White and Thibault contributed equally to this work*.
+White, E.P., K.M. Thibault<sup>+</sup>, and X. Xiao\*. 2012. Characterizing species-abundance distributions across taxa and ecosystems using a simple maximum entropy model. Ecology 93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1) [**OA**, *White and Thibault contributed equally to this work*]
 
-Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen**, E.P. White, S.K.M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology 92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1) [OA]
+Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen**, E.P. White, S.K.M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology 92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1) [**OA**]
 
-Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of log-transformation vs. nonlinear regression for analyzing biological power-laws. Ecology 92: 1887-1894. [http://doi.org/10.1890/11-0538.1](http://doi.org/10.1890/11-0538.1) [OA]
+Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of log-transformation vs. nonlinear regression for analyzing biological power-laws. Ecology 92: 1887-1894. [http://doi.org/10.1890/11-0538.1](http://doi.org/10.1890/11-0538.1) [**OA**]
 
 Stegen, J.C., N.G. Swenson, B.J. Enquist, E.P. White, O.L. Phillips, P.M. Jorgensen, M.D. Weiser, A.M. Mendoza, and P. Nunez Vargas. 2011. Variation in above-ground forest biomass across broad climatic gradients. Global Ecology and Biogeography 20:744-754. [http://doi.org/10.1111/j.1466-8238.2010.00645.x](http://doi.org/10.1111/j.1466-8238.2010.00645.x)
 
-Locey, K.J.\* and E.P. White. 2011. Simple structural differences between coding and noncoding DNA. PLOS One 6:e14651. [http://doi.org/10.1371/journal.pone.0014651](http://doi.org/10.1371/journal.pone.0014651) [OA]
+Locey, K.J.\* and E.P. White. 2011. Simple structural differences between coding and noncoding DNA. PLOS One 6:e14651. [http://doi.org/10.1371/journal.pone.0014651](http://doi.org/10.1371/journal.pone.0014651) [**OA**]
 
 Thibault, K.M.<sup>+</sup>, E.P. White, A.H. Hurlbert, and S.K.M. Ernest. 2011. Multimodality in the individual size distribution of bird communities. Global Ecology and Biogeography 20:145-153. [http://doi.org/10.1111/j.1466-8238.2010.00576.x](http://doi.org/10.1111/j.1466-8238.2010.00576.x)
 
-White, E.P., S.K.M. Ernest, P.B. Adler, A.H. Hurlbert, S.K. Lyons. 2010. Integrating spatial and temporal approaches to understanding species richness. Philosophical Transactions of the Royal Society B 365:3633-3643. [http://doi.org/10.1098/rstb.2010.0280](http://doi.org/10.1098/rstb.2010.0280) [OA]
+White, E.P., S.K.M. Ernest, P.B. Adler, A.H. Hurlbert, S.K. Lyons. 2010. Integrating spatial and temporal approaches to understanding species richness. Philosophical Transactions of the Royal Society B 365:3633-3643. [http://doi.org/10.1098/rstb.2010.0280](http://doi.org/10.1098/rstb.2010.0280) [**OA**]
 
-White, E.P. and A.H. Hurlbert. 2010. The combined influence of the local environment and regional enrichment on bird species richness. American Naturalist 172:E35-E43. [http://doi.org/10.1086/649578](http://doi.org/10.1086/649578) [OA]
+White, E.P. and A.H. Hurlbert. 2010. The combined influence of the local environment and regional enrichment on bird species richness. American Naturalist 172:E35-E43. [http://doi.org/10.1086/649578](http://doi.org/10.1086/649578) [**OA**]
 
-Supp, S.R.\* and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution 3:16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c) [OA]
+Supp, S.R.\* and E.P. White. 2010. Measures of journal quality should separate reviews from original research. Ideas in Ecology and Evolution 3:16-19. [http://doi.org/10.4033/iee.2010.3.4.c](http://doi.org/10.4033/iee.2010.3.4.c) [**OA**]
 
 Thibault, K.M.<sup>+</sup>, S.K.M. Ernest, E.P. White, J.H. Brown, and J.R. Goheen. 2010. Long-term insights into the influence of precipitation on community dynamics in desert rodents. Journal of Mammalogy 91:787-797. [http://doi.org/10.1644/09-MAMM-S-142.1](http://doi.org/10.1644/09-MAMM-S-142.1)
 
-Price, C.A., K. Ogle, E.P. White, and J.S. Weitz. 2009. Evaluating allometric scaling models in biology using hierarchical Bayesian approaches. Ecology Letters 12:641-651. [http://doi.org/10.1111/j.1461-0248.2009.01316.x](http://doi.org/10.1111/j.1461-0248.2009.01316.x) [OA]
+Price, C.A., K. Ogle, E.P. White, and J.S. Weitz. 2009. Evaluating allometric scaling models in biology using hierarchical Bayesian approaches. Ecology Letters 12:641-651. [http://doi.org/10.1111/j.1461-0248.2009.01316.x](http://doi.org/10.1111/j.1461-0248.2009.01316.x) [**OA**]
 
-Ernest, S.K.M, E.P. White and J.H. Brown. 2009. Changes in a tropical forest support metabolic zero-sum dynamics. Ecology Letters 12:507-515. [http://doi.org/10.1111/j.1461-0248.2009.01305.x](http://doi.org/10.1111/j.1461-0248.2009.01305.x) [[OA Version]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886595/)
+Ernest, S.K.M, E.P. White and J.H. Brown. 2009. Changes in a tropical forest support metabolic zero-sum dynamics. Ecology Letters 12:507-515. [http://doi.org/10.1111/j.1461-0248.2009.01305.x](http://doi.org/10.1111/j.1461-0248.2009.01305.x) [[**OA** Version](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2886595/)]
 
-Morlon, H., E.P. White, R.S. Etienne, J.L. Green , A. Ostling, D. Alonso, B.J. Enquist, F. He, A.H. Hurlbert, A.E. Magurran, B.A. Maurer, B.J. McGill, H. Olff, D. Storch, and T. Zillio. 2009. Taking species abundance distributions beyond individuals. Ecology Letters 12:488-501. [http://doi.org/10.1111/j.1461-0248.2009.01318.x](http://doi.org/10.1111/j.1461-0248.2009.01318.x) [[OA Version]](http://digitalcommons.usu.edu/biology_facpub/360/)
+Morlon, H., E.P. White, R.S. Etienne, J.L. Green , A. Ostling, D. Alonso, B.J. Enquist, F. He, A.H. Hurlbert, A.E. Magurran, B.A. Maurer, B.J. McGill, H. Olff, D. Storch, and T. Zillio. 2009. Taking species abundance distributions beyond individuals. Ecology Letters 12:488-501. [http://doi.org/10.1111/j.1461-0248.2009.01318.x](http://doi.org/10.1111/j.1461-0248.2009.01318.x) [[**OA** Version](http://digitalcommons.usu.edu/biology_facpub/360/)]
 
-White, E.P., B.J. Enquist, and J.L. Green. 2008. On estimating the exponent of power-law frequency distributions. Ecology 89:905-912. [http://doi.org/10.1890/07-1288.1](http://doi.org/10.1890/07-1288.1) [OA]
+White, E.P., B.J. Enquist, and J.L. Green. 2008. On estimating the exponent of power-law frequency distributions. Ecology 89:905-912. [http://doi.org/10.1890/07-1288.1](http://doi.org/10.1890/07-1288.1) [**OA**]
 
-Ernest, S.K.M., J.H. Brown, K.M. Thibault, E.P. White, and J.R. Goheen. 2008. Zero-sum dynamics, the niche, and metacommunities: a temporal perspective on community assembly. American Naturalist 172:E257-E269. [http://doi.org/10.1086/592402](http://doi.org/10.1086/592402) [OA]
+Ernest, S.K.M., J.H. Brown, K.M. Thibault, E.P. White, and J.R. Goheen. 2008. Zero-sum dynamics, the niche, and metacommunities: a temporal perspective on community assembly. American Naturalist 172:E257-E269. [http://doi.org/10.1086/592402](http://doi.org/10.1086/592402) [**OA**]
 
-Stegen, J.C. and E.P. White. 2008. On the relationship between mass and diameter distributions in tree communities. Ecology Letters 11:1287-1293. [http://doi.org/10.1111/j.1461-0248.2008.01242.x](http://doi.org/10.1111/j.1461-0248.2008.01242.x) [[OA Version]](http://digitalcommons.usu.edu/biology_facpub/362/)
+Stegen, J.C. and E.P. White. 2008. On the relationship between mass and diameter distributions in tree communities. Ecology Letters 11:1287-1293. [http://doi.org/10.1111/j.1461-0248.2008.01242.x](http://doi.org/10.1111/j.1461-0248.2008.01242.x) [[**OA** Version](http://digitalcommons.usu.edu/biology_facpub/362/)]
 
-White, E.P., S.K.M. Ernest, A.J. Kerkhoff, and B.J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology and Evolution 22:323-330. [http://doi.org/10.1016/j.tree.2007.03.007](http://doi.org/10.1016/j.tree.2007.03.007) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1326&context=biology_facpub)
+White, E.P., S.K.M. Ernest, A.J. Kerkhoff, and B.J. Enquist. 2007. Relationships between body size and abundance in ecology. Trends in Ecology and Evolution 22:323-330. [http://doi.org/10.1016/j.tree.2007.03.007](http://doi.org/10.1016/j.tree.2007.03.007) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1326&context=biology_facpub)]
 
-Hurlbert, A.H., and E.P. White. 2007. Ecological correlates of geographic range occupancy in North American birds. Global Ecology and Biogeography 16:764-773. [http://doi.org/10.1111/j.1466-8238.2007.00335.x](http://doi.org/10.1111/j.1466-8238.2007.00335.x) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1362&context=biology_facpub)
+Hurlbert, A.H., and E.P. White. 2007. Ecological correlates of geographic range occupancy in North American birds. Global Ecology and Biogeography 16:764-773. [http://doi.org/10.1111/j.1466-8238.2007.00335.x](http://doi.org/10.1111/j.1466-8238.2007.00335.x) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1362&context=biology_facpub)]
 
-McGill, B.J., R. Etienne, J. Gray, D. Alonso, M. Anderson, H. Benecha, M. Dornelas, B.J. Enquist, J.L. Green, F. He, A.H. Hurlbert, A.E. Magurran, P. Marquet, B. Maurer, A. Ostling, C. Soykan, K. Ugland, and E.P. White. 2007. Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework. Ecology Letters 10:995-1015. [http://doi.org/10.1111/j.1461-0248.2007.01094.x](http://doi.org/10.1111/j.1461-0248.2007.01094.x) [OA]
+McGill, B.J., R. Etienne, J. Gray, D. Alonso, M. Anderson, H. Benecha, M. Dornelas, B.J. Enquist, J.L. Green, F. He, A.H. Hurlbert, A.E. Magurran, P. Marquet, B. Maurer, A. Ostling, C. Soykan, K. Ugland, and E.P. White. 2007. Species abundance distributions: moving beyond single prediction theories to integration within an ecological framework. Ecology Letters 10:995-1015. [http://doi.org/10.1111/j.1461-0248.2007.01094.x](http://doi.org/10.1111/j.1461-0248.2007.01094.x) [**OA**]
 
-McClain, C.R., E.P. White, and A.H. Hurlbert. 2007. Challenges in the application of geometric constraint models. Global Ecology and Biogeography 16:257-264. [http://doi.org/10.1111/j.1466-8238.2007.00286.x](http://doi.org/10.1111/j.1466-8238.2007.00286.x) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1365&context=biology_facpub)
+McClain, C.R., E.P. White, and A.H. Hurlbert. 2007. Challenges in the application of geometric constraint models. Global Ecology and Biogeography 16:257-264. [http://doi.org/10.1111/j.1466-8238.2007.00286.x](http://doi.org/10.1111/j.1466-8238.2007.00286.x) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1365&context=biology_facpub)]
 
-White, E.P., and M.A. Gilchrist. 2007. Effects of population level aggregation, autocorrelation, and interspecific association on the species-time relationship in two desert communities. Evolutionary Ecology Research 9:1329-1347. [[OA Version]](http://whitelab.weecology.org/sites/default/files/white_ep_2007_e9_1329.pdf)
+White, E.P., and M.A. Gilchrist. 2007. Effects of population level aggregation, autocorrelation, and interspecific association on the species-time relationship in two desert communities. Evolutionary Ecology Research 9:1329-1347. [[**OA** Version](http://whitelab.weecology.org/sites/default/files/white_ep_2007_e9_1329.pdf)]
 
-Savage, V.M., E.P. White, M.E. Moses, S.K.M. Ernest, B.J. Enquist, and E.L. Charnov. 2006. Comment on “The Illusion of Invariant Quantities in Life Histories”. Science 312:198b. [http://doi.org/10.1126/science.1123679](http://doi.org/10.1126/science.1123679) [OA]
+Savage, V.M., E.P. White, M.E. Moses, S.K.M. Ernest, B.J. Enquist, and E.L. Charnov. 2006. Comment on “The Illusion of Invariant Quantities in Life Histories”. Science 312:198b. [http://doi.org/10.1126/science.1123679](http://doi.org/10.1126/science.1123679) [**OA**]
 
-Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2006. Intra-guild compensation regulates species richness in desert rodents: reply. Ecology 87:2121-2125. [http://doi.org/10.1890/0012-9658(2006)87[2121:ICRSRI]2.0.CO;2](http://dx.doi.org/10.1890/0012-9658\(2006\)87%5B2121:ICRSRI%5D2.0.CO;2) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1328&context=biology_facpub)
+Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2006. Intra-guild compensation regulates species richness in desert rodents: reply. Ecology 87:2121-2125. [http://doi.org/10.1890/0012-9658(2006)87[2121:ICRSRI]2.0.CO;2](http://dx.doi.org/10.1890/0012-9658\(2006\)87%5B2121:ICRSRI%5D2.0.CO;2) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1328&context=biology_facpub)]
 
-White, E.P., P.B. Adler, W.K. Lauenroth, R.A. Gill, D. Greenberg, D.M. Kaufman, A. Rassweiler, J.A. Rusak, M.D. Smith, J.R. Steinbeck, R.B. Waide and J. Yao. 2006. A comparison of the species-time relationship across ecosystems and taxonomic groups. Oikos 112:185-195. [http://doi.org/10.1111/j.0030-1299.2006.14223.x](http://doi.org/10.1111/j.0030-1299.2006.14223.x) [[OA Version]](http://works.bepress.com/ethan_white/15/) *Top 10 most cited paper in Oikos in 2006.*
+White, E.P., P.B. Adler, W.K. Lauenroth, R.A. Gill, D. Greenberg, D.M. Kaufman, A. Rassweiler, J.A. Rusak, M.D. Smith, J.R. Steinbeck, R.B. Waide and J. Yao. 2006. A comparison of the species-time relationship across ecosystems and taxonomic groups. Oikos 112:185-195. [http://doi.org/10.1111/j.0030-1299.2006.14223.x](http://doi.org/10.1111/j.0030-1299.2006.14223.x) [[**OA** Version](http://works.bepress.com/ethan_white/15/), *Top 10 most cited paper in Oikos in 2006.*]
 
-Adler, P.B., E.P. White, W.K. Lauenroth, D.M. Kaufman, A. Rassweiler, and J.A. Rusak. 2005. Evidence for a general species-time-area relationship. Ecology 86:2032-2039. [http://doi.org/10.1890/05-0067](http://doi.org/10.1890/05-0067) [[OA Version]](http://works.bepress.com/cgi/viewcontent.cgi?article=1015&context=ethan_white)
+Adler, P.B., E.P. White, W.K. Lauenroth, D.M. Kaufman, A. Rassweiler, and J.A. Rusak. 2005. Evidence for a general species-time-area relationship. Ecology 86:2032-2039. [http://doi.org/10.1890/05-0067](http://doi.org/10.1890/05-0067) [[**OA** Version](http://works.bepress.com/cgi/viewcontent.cgi?article=1015&context=ethan_white)]
 
 Goheen, J.R., E.P. White, S.K.M. Ernest, and J.H. Brown. 2005. Intra-guild compensation regulates species richness in desert rodents. Ecology 86:567-573. [http://doi.org/10.1890/04-1475](http://doi.org/10.1890/04-1475)
 
 Hurlbert, A.H., and E.P. White. 2005. Disparity between range map and survey based analyses of species richness: patterns, processes, and implications. Ecology Letters 8:319-327. [http://doi.org/10.1111/j.1461-0248.2005.00726.x](http://doi.org/10.1111/j.1461-0248.2005.00726.x)
 
-White, E.P., S.K.M. Ernest, and K.M. Thibault. 2004. Tradeoffs in community properties through time in a desert rodent community. American Naturalist 164:670-676. [http://doi.org/10.1086/424766](http://doi.org/10.1086/424766) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1333&context=biology_facpub)
+White, E.P., S.K.M. Ernest, and K.M. Thibault. 2004. Tradeoffs in community properties through time in a desert rodent community. American Naturalist 164:670-676. [http://doi.org/10.1086/424766](http://doi.org/10.1086/424766) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1333&context=biology_facpub)]
 
 Thibault, K.M., E.P. White, and S.K.M. Ernest. 2004. Temporal dynamics in the structure and composition of a desert rodent community. Ecology 85:2649-2655. [http://doi.org/10.1890/04-0321](http://doi.org/10.1890/04-0321)
 
-White, E.P. 2004. Two-phase species-time relationships in North American land birds. Ecology Letters 7:329-336. [http://doi.org/10.1111/j.1461-0248.2004.00581.x](http://doi.org/10.1111/j.1461-0248.2004.00581.x) [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1372&context=biology_facpub)
+White, E.P. 2004. Two-phase species-time relationships in North American land birds. Ecology Letters 7:329-336. [http://doi.org/10.1111/j.1461-0248.2004.00581.x](http://doi.org/10.1111/j.1461-0248.2004.00581.x) [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1372&context=biology_facpub)]
 
 Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Was a ‘hyperdisease’ responsible for the late Pleistocene megafaunal extinction? Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
 
@@ -141,7 +141,7 @@ White, E.P. In Press. Commentary on Arrhenius (1920). In F.A. Smith, J.L. Gittle
 
 White, E.P. In Press. Commentary on Fisher et al. (1943). In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
-White, E.P., X. Xiao*, N.J.B. Isaac, and R.M. Sibly. 2012. Methodological tools. Pages 9-20 in J.H. Brown, R.M. Sibley, and A. Kodric-Brown, editors. Metabolic Ecology. Wiley-Blackwell. [[OA Version]](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1732&context=biology_facpub)
+White, E.P., X. Xiao*, N.J.B. Isaac, and R.M. Sibly. 2012. Methodological tools. Pages 9-20 in J.H. Brown, R.M. Sibley, and A. Kodric-Brown, editors. Metabolic Ecology. Wiley-Blackwell. [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1732&context=biology_facpub)]
 
 White, E.P. 2007. Spatiotemporal scaling of species richness: patterns, processes and implications. Pages 325-346 in D. Storch, P.A. Marquet, and J.H. Brown, editors. Scaling Biodiversity. Cambridge University Press.
 
@@ -152,6 +152,8 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 ### Preprints (not yet formally published)
 
 Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
+
+McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White 2014. Exploring spatially explicit predictions of the Maximum Entropy Theory of Ecology. bioRxiv.
 
 Grants and Contracts
 --------------------
