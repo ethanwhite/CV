@@ -10,16 +10,18 @@ Mail: Department of Biology, Utah State University, Logan, UT 84322
 
 Education
 ---------
-Ph.D. 	Biology (Distinction). 2005. University of New Mexico, Albuquerque. Advisor: James H. Brown  
-B.A. 	Biology (Magna Cum Laude, Distinction). 1998. Colorado College, Colorado Springs.
+2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico  
+1998 \hspace{4mm} BA Biology (*magna cum laude*), Colorado College
 
 Research and Professional Experience
 ------------------------------------
-Associate Professor, Utah State University (2012-present)  
-Senior Scientist, Sevilleta LTER (2012-present)  
-Visiting Scholar, University of North Carolina (2013-2014)  
-Assistant Professor, Utah State University (2007-2012)  
-NSF Postdoctoral Fellow in Biological Informatics, Univ. of Arizona. & U.C. Merced (2005-2007)
+2012- \hspace{10mm} Associate Professor, Dept. of Biology and Ecology Center, Utah
+State University  
+2012- \hspace{10mm} Senior Scientist, Sevilleta Long-Term Ecological Research
+Station  
+2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
+University  
+2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
 
 Fellowships and Awards
 ----------------------
@@ -122,7 +124,7 @@ White, E.P. 2004. Two-phase species-time relationships in North American land bi
 
 Lyons, S.K., F.A. Smith, P.J. Wagner, E.P. White, and J.H. Brown. 2004. Was a ‘hyperdisease’ responsible for the late Pleistocene megafaunal extinction? Ecology Letters 7:859-868. [http://doi.org/10.1111/j.1461-0248.2004.00643.x](http://doi.org/10.1111/j.1461-0248.2004.00643.x)
 
-White, E.P. 2004. Factors affecting bat house occupancy in Colorado. The Southwestern Naturalist 49:344-349. [http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2](http://doi.org/10.1894/0038-4909\(2004\)049<0344:FABHOI>2.0.CO;2)
+White, E.P. 2004. Factors affecting bat house occupancy in Colorado. The Southwestern Naturalist 49:344-349. http://doi.org/10.1894/0038-4909(2004)049<0344:FABHOI>2.0.CO;2
 
 Ernest, S.K.M., B.J. Enquist, J.H. Brown, E.L. Charnov, J.F. Gillooly, V.M. Savage, E.P. White, F.A. Smith, E.A. Hadly, J.P. Haskell, S.K. Lyons, B.A. Maurer, K.J. Niklas, and B. Tiffney. 2003. Thermodynamic and metabolic effects on the scaling of production and population energy use. Ecology Letters 6:990-995. [http://doi.org/10.1046/j.1461-0248.2003.00526.x](http://doi.org/10.1046/j.1461-0248.2003.00526.x)
 
@@ -133,9 +135,7 @@ White, E.P., and S.D. Gehrt. 2001. Effects of recording media on echolocation da
 
 ### Book Chapters
 
-Brown, J.H., S.K.M. Ernest, E.P. White. In press. Introduction to 'Macroecology before Macroecology'. In F.A. Smith, J.L. Gittleman, and J.H. 
-
-Brown, eds. Foundations of Macroecology, University of Chicago Press.
+Brown, J.H., S.K.M. Ernest, E.P. White. In press. Introduction to 'Macroecology before Macroecology'. In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
 White, E.P. In Press. Commentary on Arrhenius (1920). In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
@@ -160,18 +160,16 @@ Grants and Contracts
 
 National Science Foundation (DEB-1354563). SG: Distinguishing between core and transient species: new insights into the determinants of species richness. PIs: A.H. Hurlbert and E.P.White. 2014-2016.
 
-National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using informatics and entropy maximization. PI: E.P. White. 2010-2015. http://doi.org/10.6084/m9.figshare.93937 
-
-### Completed
+National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using informatics and entropy maximization. PI: E.P. White. 2010-2015. [http://doi.org/10.6084/m9.figshare.93937](http://doi.org/10.6084/m9.figshare.93937)
 
 Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular and ecological neutral theories via genome based simulation. PIs: E.P. White and K.J. Locey. 2011-2013.
 
 National Ecological Observatory Network. Existing terrestrial organismal data survey and secure database interface development. PI: E.P. White. 2012.
 
-National Science Foundation (DEB-0827826). Understanding multimodality in animal size distributions (Research Starter Grant). PI: E.P. White. 2008-2010. http://doi.org/10.6084/m9.figshare.93939 
+National Science Foundation (DEB-0827826). Understanding multimodality in animal size distributions (Research Starter Grant). PI: E.P. White. 2008-2010. [http://doi.org/10.6084/m9.figshare.93939](http://doi.org/10.6084/m9.figshare.93939) 
 
 National Science Foundation (DBI-0532847). Broad-scale patterns of the distribution of body sizes of individuals in ecological communities (Postdoctoral Fellowship in Biological 
-Informatics). PI: E.P. White.  2005-2007. http://doi.org/10.6084/m9.figshare.93938
+Informatics). PI: E.P. White.  2005-2007. [http://doi.org/10.6084/m9.figshare.93938](http://doi.org/10.6084/m9.figshare.93938)
 
 LTER Network Office workshop grant. Species richness in space and time workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
 
@@ -180,9 +178,9 @@ Software
 
 Software Impact: [Impact Story](http://impactstory.org/ethanwhite#software)
 
-EcoData Retriever: tool for easy acquisition of public ecological datasets. By B.D. Morris and E.P. White. https://github.com/weecology/retriever
+EcoData Retriever: tool for easy acquisition of public ecological datasets. By B.D. Morris and E.P. White. [https://github.com/weecology/retriever](https://github.com/weecology/retriever) [[Highly recommended and highly cited](http://impactstory.org/ethanwhite/product/37058b0ebf0a11e1bdf912313d1a5e63), latest release downloaded over 250 times]
 
-METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and S. Supp. https://github.com/weecology/METE
+METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE) [[Highly recommended](http://impactstory.org/ethanwhite/product/37170578bf0a11e1bdf912313d1a5e63)]
 
 
 Invited Seminars
@@ -190,23 +188,23 @@ Invited Seminars
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 
-"The value of data-intensive approaches in ecology". February 25th, 2014. University of Florida. [Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)
+"The value of data-intensive approaches in ecology". February 25th, 2014. University of Florida. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)]
 
-"Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. http://doi.org/10.6084/m9.figshare.155707
+"Evaluating a general theory of macroecology". September 18th, 2013. National Evolutionary Synthesis Center. Duke University. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
 
-"Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. http://doi.org/10.6084/m9.figshare.155707
+"Evaluating a general theory of macroecology" September 12th, 2013. University of North Carolina, Chapel Hill. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
 
-"Evaluating a general theory of macroecology" July 10th, 2013. Keynote for the British Ecological Society's Macroecology Special Interest Group Annual Meeting. http://doi.org/10.6084/m9.figshare.155707
+"Evaluating a general theory of macroecology" July 10th, 2013. Keynote for the British Ecological Society's Macroecology Special Interest Group Annual Meeting. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
 
-"Evaluating a general theory of macroecology using big(ish) data" February 8th, 2013. Michigan State University. http://doi.org/10.6084/m9.figshare.155707
+"Evaluating a general theory of macroecology using big(ish) data" February 8th, 2013. Michigan State University. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
 
-"Evaluating a general theory of macroecology using big(ish) data" February 4th, 2013. University of British Columbia. http://doi.org/10.6084/m9.figshare.155707
+"Evaluating a general theory of macroecology using big(ish) data" February 4th, 2013. University of British Columbia. [[Slides](http://doi.org/10.6084/m9.figshare.155707)]
 
-"Frontiers of Macroecological Theory in Three Acts" February 1st, 2013. University of California Berkeley workshop on Frontiers of Macroecological Theory. http://doi.org/10.6084/m9.figshare.155618
+"Frontiers of Macroecological Theory in Three Acts" February 1st, 2013. University of California Berkeley workshop on Frontiers of Macroecological Theory. [[Slides](http://doi.org/10.6084/m9.figshare.155618)]
 
-"A MaxEnt theory for macroecology?" July 25th, 2012. Gordon Research Conference on the Metabolic Basis of Ecology. http://doi.org/10.6084/m9.figshare.93963
+"A MaxEnt theory for macroecology?" July 25th, 2012. Gordon Research Conference on the Metabolic Basis of Ecology. [[Slides](http://doi.org/10.6084/m9.figshare.93963)]
 
-"Building a bigger macroscope". June 9th, 2012. University of New Mexico. https://www.youtube.com/watch?v=lEQr5tP2vjw
+"Building a bigger macroscope". June 9th, 2012. University of New Mexico. [[Video](https://www.youtube.com/watch?v=lEQr5tP2vjw)]
 
 "Understanding ecology at broad scales: macroecology, maximum entropy, and environmental informatics". February 11th, 2011. University of Maryland.
 
@@ -258,10 +256,10 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 University Service
 ------------------
-Member, Promotion and tenure committees, Dept. of Biology (2012-present)  
-Chair, Adjunct appointment committee, Dept. of Biology (2011)  
-Member, Faculty search committee, Dept. of Biology (2011)  
-Member, Staff search committee (2011)
+Promotion and tenure committees (member), Dept. of Biology (2012-present)  
+Adjunct appointment committee (chair), Dept. of Biology (2011)  
+Faculty search committee (member), Dept. of Biology (2011)  
+Staff search committee (member) (2011)
 
 Teaching
 --------
@@ -286,15 +284,15 @@ Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of
 
 ### Graduate Students
 
-Kenneth Locey (PhD student; 2008-2013). Now a postdoctoral researcher at Indiana University.  
+Kenneth Locey (PhD student; 2008-2013). Postdoctoral researcher at Indiana University.  
 Xiao Xiao (PhD student; 2008-present). USU College of Science Diversity Fellow.  
 Elita Baldridge (PhD Student; 2010-present).  
 Kristina Riemer (PhD Student; 2013-present)
 
 ### Undergraduate Researchers
 
-Ben Morris (2010-2012; NSF REU Summer 2011). Now a graduate student at Univ. of North Carolina.  
-Clayton Bingham (2009-2010). Now a graduate student at Univ. of Southern California.  
+Ben Morris (2010-2012; NSF REU Summer 2011). Graduate student at Univ. of North Carolina.  
+Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.  
 Mikaelle Giffen (2008-2009)
 
 ### Graduate Student Committees
