@@ -291,7 +291,7 @@ Kristina Riemer (PhD Student; 2013-present)
 
 ### Undergraduate Researchers
 
-Ben Morris (2010-2012; NSF REU Summer 2011). Graduate student at Univ. of North Carolina.  
+Ben Morris (2010-2012; NSF REU Summer 2011, Awarded an NSF Graduate Research Fellowship). Graduate student at Univ. of North Carolina.  
 Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.  
 Mikaelle Giffen (2008-2009)
 
