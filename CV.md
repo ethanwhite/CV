@@ -273,8 +273,19 @@ Maximum Entropy in Ecology (2011)
 Neutral Theories in Ecology (2010)  
 Biogeography (2008, 2009)
 
+### Workshops run
+Software Carpentry, Utah State University, April 2012  
+Software Carpentry, University of North Carolina, October 2012  
+Software Carpentry, University of British Columbia, February 2013  
+Software Carpentry, Utah State University, March 2013  
+Software Carpentry, CUAHSI Water Data Center, July 2013  
+Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
+Software Carpentry, University of Victoria, April 2014  
+Introduction to Git and GitHub, University of North Carolina, April 2014  
+Data Carpentry, National Evolutionary Synthesis Center at Duke University, May 2014
+
 ### Software Carpentry
-I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), one of the project leads on [material development](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/), and [organize and lead workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) across North America including Utah State University (April 2012, March 2013), University of North Carolina (October 2012), University of British Columbia (February 2013), CUAHSI Water Data Center (July 2013), Ecological Society of American Annual Meeting (August 2013), and the University of Victoria (April 2014).
+I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), one of the project leads on [material development](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/), and [organize and lead workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) across North America.
 
 
 Research Mentoring
