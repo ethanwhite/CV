@@ -153,7 +153,8 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
 
-McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White 2014. Exploring spatially explicit predictions of the Maximum Entropy Theory of Ecology. bioRxiv.
+McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White 2014. Exploring spatially
+explicit predictions of the Maximum Entropy Theory of Ecology. bioRxiv doi: [10.1101/003657](http://dx.doi.org/10.1101/003657)
 
 Grants and Contracts
 --------------------
