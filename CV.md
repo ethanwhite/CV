@@ -189,6 +189,9 @@ Invited Seminars
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 
+"Mechanism, theory, data, and prediction in ecology". July 22nd, 2014. Gordon
+Research Conference on Unifying Ecology Across Scale. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1113773)]
+
 "The value of data-intensive approaches in ecology". April 4th, 2014. University of Victoria. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520)]
 
 "The value of data-intensive approaches in ecology". February 25th, 2014. University of Florida. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520), [Video](http://mediasite.video.ufl.edu/Mediasite/Play/fcaff41f57bc42eca8483b437a5ae80d1d)]
@@ -283,7 +286,10 @@ Software Carpentry, CUAHSI Water Data Center, July 2013
 Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
 Software Carpentry, University of Victoria, April 2014  
 Introduction to Git and GitHub, University of North Carolina, April 2014  
-Data Carpentry, National Evolutionary Synthesis Center at Duke University, May 2014
+Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
+2014  
+Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
+Across Scales, July 2014.
 
 ### Software Carpentry
 I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), one of the project leads on [material development](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/), and [organize and lead workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) across North America.
