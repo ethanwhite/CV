@@ -251,6 +251,7 @@ National Science Foundation Panelist (2009, 2012)
 Review of grant applications for NSF (United States), NSERC (Canada), and NRF (South Africa)
 
 ### Board Memberships & Affiliations
+Data Carpentry, Board of Directors (2014-present)  
 Impactstory, Board of Directors (2014-present)  
 Software Carpentry, Advisory Board (2012-present)
 
