@@ -25,7 +25,7 @@ University
 
 Fellowships and Awards
 ----------------------
-Moore Foundation Data-Driven Discovery Investigator 2014-2019
+Moore Foundation Data-Driven Discovery Investigator 2014-2020
 NSF CAREER 'Young Investigators' Award 2010-2015  
 NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
 NSF Graduate Research Fellowship 2000-2005  
@@ -160,7 +160,7 @@ explicit predictions of the Maximum Entropy Theory of Ecology. bioRxiv doi: [10.
 Grants and Contracts
 --------------------
 
-Moore Foundation Data-Driven Discovery Investigator Award. 2014-2019.
+Moore Foundation. Investigator in Data-Driven Discovery. PI: E.P. White. 2014-2020. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
 National Science Foundation (DEB-1354563). SG: Distinguishing between core and transient species: new insights into the determinants of species richness. PIs: A.H. Hurlbert and E.P.White. 2014-2016.
 
