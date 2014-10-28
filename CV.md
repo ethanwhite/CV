@@ -157,6 +157,8 @@ Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the
 McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White 2014. Exploring spatially
 explicit predictions of the Maximum Entropy Theory of Ecology. bioRxiv doi: [10.1101/003657](http://dx.doi.org/10.1101/003657)
 
+Xiao, X.\*, K.J. Locey\*, E.P. White. 2014. A process-independent explanation for the general form of Taylor's Law. [arXiv:1410.7283](http://arxiv.org/abs/1410.7283)
+
 Grants and Contracts
 --------------------
 
