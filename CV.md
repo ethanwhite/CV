@@ -47,6 +47,8 @@ Publication Impact:
 
 ### Journal Articles
 
+Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. In press. A strong test of the Maximum Entropy Theory of Ecology. American Naturalist. [[Preprint](http://arxiv.org/abs/1308.0731)]
+
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [**OA**, [Preprint](http://arxiv.org/abs/1210.0530), [*Top 1% of articles for online impact*](http://www.altmetric.com/details.php?citation_id=2027120)]
 
 McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. PeerJ 1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212) [**OA**, [Preprint](http://arxiv.org/abs/1308.0655)]
@@ -151,8 +153,6 @@ White, E.P., and J.H. Brown. 2005. The template: patterns and processes of spati
 Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species invasions: Insights into the mechanisms that limit species diversity. Pages 447-465 in D.F. Sax, S.D. Gaines, and J.J. Stachowicz, editors. Species Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates, Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2013. A strong test of the Maximum Entropy Theory of Ecology. [arXiv:1308.0731](http://arxiv.org/abs/1308.0731)
 
 McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White 2014. Exploring spatially
 explicit predictions of the Maximum Entropy Theory of Ecology. bioRxiv doi: [10.1101/003657](http://dx.doi.org/10.1101/003657)
