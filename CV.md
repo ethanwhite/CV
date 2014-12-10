@@ -25,7 +25,7 @@ University
 
 Fellowships and Awards
 ----------------------
-Moore Foundation Data-Driven Discovery Investigator 2014-2019
+Moore Foundation Investigator in Data-Driven Discovery 2014-2019  
 NSF CAREER 'Young Investigators' Award 2010-2015  
 NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
 NSF Graduate Research Fellowship 2000-2005  
