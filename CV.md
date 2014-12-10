@@ -137,11 +137,11 @@ White, E.P., and S.D. Gehrt. 2001. Effects of recording media on echolocation da
 
 ### Book Chapters
 
-Brown, J.H., S.K.M. Ernest, E.P. White. In press. Introduction to 'Macroecology before Macroecology'. In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
+Brown, J.H., S.K.M. Ernest, E.P. White. 2014. Introduction to 'Macroecology before Macroecology'. Pages 13-16 in F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
-White, E.P. In Press. Commentary on Arrhenius (1920). In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
+White, E.P. 2014. Commentary on Arrhenius (1920). Page 17 in F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
-White, E.P. In Press. Commentary on Fisher et al. (1943). In F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
+White, E.P. 2014. Commentary on Fisher et al. (1943). Page 24 in F.A. Smith, J.L. Gittleman, and J.H. Brown, eds. Foundations of Macroecology, University of Chicago Press.
 
 White, E.P., X. Xiao*, N.J.B. Isaac, and R.M. Sibly. 2012. Methodological tools. Pages 9-20 in J.H. Brown, R.M. Sibley, and A. Kodric-Brown, editors. Metabolic Ecology. Wiley-Blackwell. [[**OA** Version](http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1732&context=biology_facpub)]
 
