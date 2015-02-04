@@ -52,7 +52,7 @@ and Biogeography. [[Preprint](http://dx.doi.org/10.1101/003657)]
 
 Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. In press. A strong test of the Maximum Entropy Theory of Ecology. American Naturalist. [[Preprint](http://arxiv.org/abs/1308.0731)]
 
-Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [**OA**, [Preprint](http://arxiv.org/abs/1210.0530), [*Top 1% of articles for online impact*](http://www.altmetric.com/details.php?citation_id=2027120)]
+Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [**OA**, [Preprint](http://arxiv.org/abs/1210.0530), [*Top 1% of articles for online impact*](https://impactstory.org/ethanwhite/product/szw5h7odb3dtkf8ql0l8w6f0/metrics)]
 
 McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. PeerJ 1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212) [**OA**, [Preprint](http://arxiv.org/abs/1308.0655)]
 
@@ -60,7 +60,7 @@ Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance con
 
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
 
-Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [**OA**, [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710), *Featured discussion in PLOS Biology*, [*Top 1% of articles for online impact*](http://www.altmetric.com/details.php?citation_id=1475952)]
+Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [**OA**, [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710), *Featured discussion in PLOS Biology*, [*Top 1% of articles for online impact*](https://impactstory.org/ethanwhite/product/29vxw5uy64s3x0n69wrvqimc/metrics)]
 
 Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848) [**OA**]
 
