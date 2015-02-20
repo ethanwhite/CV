@@ -162,6 +162,10 @@ Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species in
 
 Xiao, X.\*, K.J. Locey\*, E.P. White. 2014. A process-independent explanation for the general form of Taylor's Law. [arXiv:1410.7283](http://arxiv.org/abs/1410.7283)
 
+Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015.  Comparing process-based and
+constraint-based approaches for modeling macroecological
+patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
+
 Grants and Contracts
 --------------------
 
