@@ -50,6 +50,11 @@ McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White. In press. Exploring spati
 explicit predictions of the Maximum Entropy Theory of Ecology. Global Ecology
 and Biogeography. [[Preprint](http://dx.doi.org/10.1101/003657)]
 
+Teal, T.K., K.A. Cranston, H. Lapp, E.P. White, G. Wilson, K. Ram,
+A. Pawlik. 2015. Data Carpentry: Workshops to Increase Data Literacy for
+Researchers. International Journal of Digital Curation
+10:135-143. [http://dx.doi.org/10.2218/ijdc.v10i1.351](http://dx.doi.org/10.2218/ijdc.v10i1.351) [**OA**]
+
 Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2015. A strong test of the
 Maximum Entropy Theory of Ecology. American Naturalist
 185:E70-E80. [http://dx.doi.org/10.1086/679576](http://dx.doi.org/10.1086/679576)
