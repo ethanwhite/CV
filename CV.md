@@ -274,8 +274,8 @@ Data Carpentry, Board of Directors (2014-2015)
 Software Carpentry, Advisory Board (2012-2014)
 
 ### Editorial Boards
-PLoS ONE (2011-present)  
-PeerJ (2012-present)
+PeerJ (2012-present)  
+PLoS ONE (2011-2015)
 
 ### Manuscript Reviewing
 Science, Nature, PNAS, PLOS Biology, Proceedings of the Royal Society B, Ecology, Ecology Letters, American Naturalist, Global Ecology and Biogeography, Journal of Animal Ecology, Journal of Ecology, Oikos, Frontiers in Ecology and the Environment, PLOS One, Bioscience, Bulletin of Mathematical Biology, Functional Ecology, Journal of Biogeography, Journal of Theoretical Biology, Theoretical Population Biology, Cambridge University Press, Acta Oecologica, Folia Geobotanica, Research Letters in Ecology, Geological Society of America
