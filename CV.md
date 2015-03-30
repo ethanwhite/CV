@@ -327,7 +327,7 @@ Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of
 ### Graduate Students
 
 Kenneth Locey (PhD student; 2008-2013). Postdoctoral researcher at Indiana University.  
-Xiao Xiao (PhD student; 2008-present). USU College of Science Diversity Fellow.  
+Xiao Xiao (PhD student; 2008-2014). Postdoctoral research at University of Maine. USU College of Science Diversity Fellow.  
 Elita Baldridge (PhD Student; 2010-present).  
 Kristina Riemer (PhD Student; 2013-present)
 
