@@ -311,7 +311,8 @@ Introduction to Git and GitHub, University of North Carolina, April 2014
 Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
 2014  
 Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
-Across Scales, July 2014.
+Across Scales, July 2014
+Software Carpentry, Utah State University, March 2015
 
 ### Software Carpentry
 I am a member of the [Software Carpentry Advisory Board](http://software-carpentry.org/team.html), one of the project leads on [material development](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/), and [organize and lead workshops](http://beta.openbadges.org/share/dad40277ff992e3111eeda5816b693b2/) across North America.
