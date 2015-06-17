@@ -49,13 +49,13 @@ Publication Impact:
 Xiao, X.\*, K.J. Locey\*, E.P. White. 2015. A process-independent explanation
 for the general form of Taylor's Law. American
 Naturalist. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
-[**OA**, [Data](http://dx.doi.org/10.5061/dryad.h1c09), [Preprint](http://arxiv.org/abs/1410.7283)]
+[**OA**, [Code](https://github.com/weecology/TL), [Data](http://dx.doi.org/10.5061/dryad.h1c09), [Preprint](http://arxiv.org/abs/1410.7283)]
 
 McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, J. Kitzes and E.P. White. 2015. Exploring
 spatially explicit predictions of the Maximum Entropy Theory of Ecology. Global
 Ecology and Biogeography
 24:675-684. [http://dx.doi.org/10.1111/geb.12295](http://dx.doi.org/10.1111/geb.12295)
-[**OA**, [Preprint](http://dx.doi.org/10.1101/003657)]
+[**OA**, [Code](https://github.com/weecology/mete-spatial), [Preprint](http://dx.doi.org/10.1101/003657)]
 
 Teal, T.K., K.A. Cranston, H. Lapp, E.P. White, G. Wilson, K. Ram,
 A. Pawlik. 2015. Data Carpentry: Workshops to Increase Data Literacy for
@@ -65,29 +65,57 @@ Researchers. International Journal of Digital Curation
 Xiao, X.\*, D.J. McGlinn<sup>+</sup>, and E.P. White. 2015. A strong test of the
 Maximum Entropy Theory of Ecology. American Naturalist
 185:E70-E80. [http://dx.doi.org/10.1086/679576](http://dx.doi.org/10.1086/679576)
-[**OA**, [Preprint](http://arxiv.org/abs/1308.0731)]
+[**OA**, [Code](https://github.com/weecology/mete-energy),
+[Data](http://dx.doi.org/10.5061/dryad.5fn46),
+[Preprint](http://arxiv.org/abs/1308.0731)]
 
 Wilson, G., D.A. Aruliah, C.T. Brown, N.P. Chue Hong, M. Davis, R.T. Guy, S.H.D. Haddock, K. Huff, I. Mitchell, M. Plumbley, B. Waugh, E.P. White, and P. Wilson. 2014. Best Practices for Scientific Computing. PLOS Biology. 12:e1001745. [http://doi.org/10.1371/journal.pbio.1001745](http://doi.org/10.1371/journal.pbio.1001745) [**OA**, [Preprint](http://arxiv.org/abs/1210.0530), [*Top 1% of articles for online impact*](https://impactstory.org/ethanwhite/product/szw5h7odb3dtkf8ql0l8w6f0/metrics)]
 
-McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical comparison of four variants of a universal species-area relationship. PeerJ 1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212) [**OA**, [Preprint](http://arxiv.org/abs/1308.0655)]
+McGlinn, D.J.<sup>+</sup>, X. Xiao\*, and E.P. White. 2013. An empirical
+comparison of four variants of a universal species-area relationship. PeerJ
+1:e212. [http://doi.org/10.7717/peerj.212](http://doi.org/10.7717/peerj.212)
+[**OA**, [Code](https://github.com/weecology/mete-spatial), [Preprint](http://arxiv.org/abs/1308.0655)]
 
-Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance constrain the distribution of abundance. Ecology Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154) [[**OA** version](http://digitalcommons.usu.edu/biology_facpub/736/)]
+Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance
+constrain the distribution of abundance. Ecology
+Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154)
+[[**OA** version](http://digitalcommons.usu.edu/biology_facpub/736/), [Code]([Code](https://github.com/weecology/feasiblesets)]
 
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
 
 Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and D. Gravel. 2013. The case for open preprints in biology. PLOS Biology 11:e1001563. [http://doi.org/10.1371/journal.pbio.1001563](http://doi.org/10.1371/journal.pbio.1001563) [**OA**, [Preprint](http://dx.doi.org/10.6084/m9.figshare.655710), *Featured discussion in PLOS Biology*, [*Top 1% of articles for online impact*](https://impactstory.org/ethanwhite/product/29vxw5uy64s3x0n69wrvqimc/metrics)]
 
-Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to existing ecological data. PLOS ONE 8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848) [**OA**]
+Morris, B.D.** and E.P. White. 2013. The EcoData Retriever: improving access to
+existing ecological data. PLOS ONE
+8:e65848. [http://doi.org/doi:10.1371/journal.pone.0065848](http://doi.org/doi:10.1371/journal.pone.0065848)
+[**OA**, [Software](https://github.com/weecology/retriever)]
 
-Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive diversity patterns of core and occasional bird species. American Naturalist 181:E83-E90. [http://doi.org/10.1086/669903](http://doi.org/10.1086/669903) [**OA**]
+Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive
+diversity patterns of core and occasional bird species. American Naturalist
+181:E83-E90. [http://doi.org/10.1086/669903](http://doi.org/10.1086/669903)
+[**OA**, [Data](http://datadryad.org/resource/doi:10.5061/dryad.q82nn)]
 
-Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental evidence suggests that macroecological patterns are determined primarily by species richness and total abundance.  Ecology 93:2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1) [**OA**, *Top 4 Articles in Ecology in year following publication*]
+Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental
+evidence suggests that macroecological patterns are determined primarily by
+species richness and total abundance.  Ecology
+93:2505-2511. [http://doi.org/10.1890/12-0370.1](http://doi.org/10.1890/12-0370.1)
+[**OA**, [Code](https://github.com/weecology/portal-experimental-macroeco),
+[Data](https://github.com/weecology/portal-experimental-macroeco), *Top 4 Articles in Ecology in year following publication*]
 
-White, E.P., K.M. Thibault<sup>+</sup>, and X. Xiao\*. 2012. Characterizing species-abundance distributions across taxa and ecosystems using a simple maximum entropy model. Ecology 93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1) [**OA**, *White and Thibault contributed equally to this work*]
+White, E.P., K.M. Thibault<sup>+</sup>, and X. Xiao\*. 2012. Characterizing
+species-abundance distributions across taxa and ecosystems using a simple
+maximum entropy model. Ecology
+93:1772-1778. [http://doi.org/10.1890/11-2177.1](http://doi.org/10.1890/11-2177.1)
+[**OA**, [Code](https://github.com/weecology/white-etal-2012-ecology),
+[Data](https://github.com/weecology/white-etal-2012-ecology), *White and Thibault contributed equally to this work*]
 
 Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen**, E.P. White, S.K.M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology 92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1) [**OA**]
 
-Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of log-transformation vs. nonlinear regression for analyzing biological power-laws. Ecology 92: 1887-1894. [http://doi.org/10.1890/11-0538.1](http://doi.org/10.1890/11-0538.1) [**OA**]
+Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of
+log-transformation vs. nonlinear regression for analyzing biological
+power-laws. Ecology 92:
+1887-1894. [http://doi.org/10.1890/11-0538.1](http://doi.org/10.1890/11-0538.1)
+[**OA**, [Code](http://www.esapubs.org/archive/ecol/E092/160/suppl-2.htm), [Data](http://www.esapubs.org/archive/ecol/E092/160/suppl-1.htm)]
 
 Stegen, J.C., N.G. Swenson, B.J. Enquist, E.P. White, O.L. Phillips, P.M. Jorgensen, M.D. Weiser, A.M. Mendoza, and P. Nunez Vargas. 2011. Variation in above-ground forest biomass across broad climatic gradients. Global Ecology and Biogeography 20:744-754. [http://doi.org/10.1111/j.1466-8238.2010.00645.x](http://doi.org/10.1111/j.1466-8238.2010.00645.x)
 
