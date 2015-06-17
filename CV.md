@@ -46,9 +46,11 @@ Publication Impact:
 
 ### Journal Articles
 
-McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, and E.P. White. In press. Exploring spatially
-explicit predictions of the Maximum Entropy Theory of Ecology. Global Ecology
-and Biogeography. [[Preprint](http://dx.doi.org/10.1101/003657)]
+McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, J. Kitzes and E.P. White. 2015. Exploring
+spatially explicit predictions of the Maximum Entropy Theory of Ecology. Global
+Ecology and Biogeography
+24:675-684. [http://dx.doi.org/10.1111/geb.12295](http://dx.doi.org/10.1111/geb.12295)
+[**OA**, [Preprint](http://dx.doi.org/10.1101/003657)]
 
 Teal, T.K., K.A. Cranston, H. Lapp, E.P. White, G. Wilson, K. Ram,
 A. Pawlik. 2015. Data Carpentry: Workshops to Increase Data Literacy for
