@@ -79,7 +79,7 @@ comparison of four variants of a universal species-area relationship. PeerJ
 Locey, K.J.\* and E.P. White. 2013. How species richness and total abundance
 constrain the distribution of abundance. Ecology
 Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111/ele.12154)
-[[**OA** version](http://digitalcommons.usu.edu/biology_facpub/736/), [Code]([Code](https://github.com/weecology/feasiblesets)]
+[[**OA** version](http://digitalcommons.usu.edu/biology_facpub/736/), [Code](https://github.com/weecology/feasiblesets)]
 
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*, D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier to (re)use your data. Ideas in Ecology and Evolution 6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f) [**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
 
@@ -109,7 +109,11 @@ maximum entropy model. Ecology
 [**OA**, [Code](https://github.com/weecology/white-etal-2012-ecology),
 [Data](https://github.com/weecology/white-etal-2012-ecology), *White and Thibault contributed equally to this work*]
 
-Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen**, E.P. White, S.K.M. Ernest. 2011. Species composition and abundance of mammalian communities. Ecology 92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1) [**OA**]
+Thibault, K.M.<sup>+</sup>, S. Supp, M. Giffen/*/*, E.P. White,
+S.K.M. Ernest. 2011. Species composition and abundance of mammalian
+communities. Ecology
+92:2316. [http://doi.org/10.1890/11-0262.1](http://doi.org/10.1890/11-0262.1)
+[**OA**]
 
 Xiao, X.\*, White, E.P., M.B. Hooten, and S.L. Durham. 2011. On the use of
 log-transformation vs. nonlinear regression for analyzing biological
