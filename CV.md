@@ -46,6 +46,11 @@ Publication Impact:
 
 ### Journal Articles
 
+Xiao, X.\*, K.J. Locey\*, E.P. White. 2015. A process-independent explanation
+for the general form of Taylor's Law. American
+Naturalist. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
+[**OA**, [Data](http://dx.doi.org/10.5061/dryad.h1c09), [Preprint](http://arxiv.org/abs/1410.7283)]
+
 McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, J. Kitzes and E.P. White. 2015. Exploring
 spatially explicit predictions of the Maximum Entropy Theory of Ecology. Global
 Ecology and Biogeography
@@ -166,8 +171,6 @@ White, E.P., and J.H. Brown. 2005. The template: patterns and processes of spati
 Sax, D.F., J.H. Brown, E.P. White, and S.D. Gaines. 2005. Dynamics of species invasions: Insights into the mechanisms that limit species diversity. Pages 447-465 in D.F. Sax, S.D. Gaines, and J.J. Stachowicz, editors. Species Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates, Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Xiao, X.\*, K.J. Locey\*, E.P. White. 2014. A process-independent explanation for the general form of Taylor's Law. [arXiv:1410.7283](http://arxiv.org/abs/1410.7283)
 
 Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015.  Comparing process-based and
 constraint-based approaches for modeling macroecological
