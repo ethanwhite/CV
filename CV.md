@@ -51,6 +51,11 @@ for the general form of Taylor's Law. American
 Naturalist. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
 [**OA**, [Code](https://github.com/weecology/TL), [Data](http://dx.doi.org/10.5061/dryad.h1c09), [Preprint](http://arxiv.org/abs/1410.7283)]
 
+White, E.P. 2015. Some thoughts on best publishing practices for scientific
+software. Ideas in Ecology and Evolution 8:55-57.
+[http://dx.doi.org/10.4033/iee.2015.8.9.c](http://dx.doi.org/10.4033/iee.2015.8.9.c)
+[**OA**]
+
 McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, J. Kitzes and E.P. White. 2015. Exploring
 spatially explicit predictions of the Maximum Entropy Theory of Ecology. Global
 Ecology and Biogeography
@@ -221,9 +226,9 @@ Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular an
 
 National Ecological Observatory Network. Existing terrestrial organismal data survey and secure database interface development. PI: E.P. White. 2012.
 
-National Science Foundation (DEB-0827826). Understanding multimodality in animal size distributions (Research Starter Grant). PI: E.P. White. 2008-2010. [http://doi.org/10.6084/m9.figshare.93939](http://doi.org/10.6084/m9.figshare.93939) 
+National Science Foundation (DEB-0827826). Understanding multimodality in animal size distributions (Research Starter Grant). PI: E.P. White. 2008-2010. [http://doi.org/10.6084/m9.figshare.93939](http://doi.org/10.6084/m9.figshare.93939)
 
-National Science Foundation (DBI-0532847). Broad-scale patterns of the distribution of body sizes of individuals in ecological communities (Postdoctoral Fellowship in Biological 
+National Science Foundation (DBI-0532847). Broad-scale patterns of the distribution of body sizes of individuals in ecological communities (Postdoctoral Fellowship in Biological
 Informatics). PI: E.P. White.  2005-2007. [http://doi.org/10.6084/m9.figshare.93938](http://doi.org/10.6084/m9.figshare.93938)
 
 LTER Network Office workshop grant. Species richness in space and time workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
@@ -457,7 +462,7 @@ Hurlbert, A.H., and E.P. White. 2005. 90th Annual Meeting of the Ecological Soci
 
 Goheen, J.R., E.P. White, S.K.M. Ernest, J.H. Brown, J.F. Merritt, P.L. Meserve, N.A. Slade. 2005. International Biogeography Society Meeting.
 
-Hurlbert, A.H., and E.P. White. 2005. International Biogeography Society Meeting. 
+Hurlbert, A.H., and E.P. White. 2005. International Biogeography Society Meeting.
 
 White, E.P. 2004. Santa Fe Institute Scaling Biodiversity Workshop. Prague, Czech Republic.
 
@@ -477,7 +482,7 @@ White, E. P. 2003. Southwestern Association of Biologists Annual Meeting, Portal
 
 White, E. P. 2003. LTER All Scientists Meeting, Seattle, WA.
 
-White, E. P. 2003. 88th Annual Meeting of the Ecological Society of America, Savannah, GA. 
+White, E. P. 2003. 88th Annual Meeting of the Ecological Society of America, Savannah, GA.
 
 Brown, J. H., and E. P. White. 2003. Cary Conference, Millbrook, NY.
 
@@ -491,6 +496,6 @@ White, E. P. 2002. 87th Annual Meeting of the Ecological Society of America, Tuc
 
 White, E. P. 2002. British Ecological Society's Macroecology Conference, Birmingham, England.
 
-White, E. P. 1998. Guild of Rocky Mountain Population Biologists Annual Meeting, Nederland, CO. 
+White, E. P. 1998. Guild of Rocky Mountain Population Biologists Annual Meeting, Nederland, CO.
 
 White, E. P. 1997. North American Symposium on Bat Research, University of Arizona, Tucson, AZ.
