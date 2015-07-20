@@ -327,17 +327,18 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 University Service
 ------------------
-Promotion and tenure committees (member), Dept. of Biology (2012-present)  
-Adjunct appointment committee (chair), Dept. of Biology (2011)  
-Faculty search committee (member), Dept. of Biology (2011)  
-Staff search committee (member) (2011)
+Promotion and tenure committees (member), Utah State University (2012-2014)  
+Adjunct appointment committee (chair), Utah State University (2011)  
+Faculty search committee (member), Utah State University (2011)  
+Staff search committee (member), Utah State University (2011)
 
 Teaching
 --------
 
 ### Courses Taught
-Advanced Programming and Database Management for Biologists (2011 - present)  
-Introduction to Programming and Database Management for Biologists (2010 - present)  
+Data Carpentry for Biologists (2015-present)
+Advanced Programming and Database Management for Biologists (2011-2014)  
+Introduction to Programming and Database Management for Biologists (2010-2014)  
 Maximum Entropy in Ecology (2011)  
 Neutral Theories in Ecology (2010)  
 Biogeography (2008, 2009)
