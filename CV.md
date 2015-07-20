@@ -354,7 +354,7 @@ Introduction to Git and GitHub, University of North Carolina, April 2014
 Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
 2014  
 Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
-Across Scales, July 2014
+Across Scales, July 2014  
 Software Carpentry, Utah State University, March 2015
 
 ### Software Carpentry
