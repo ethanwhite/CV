@@ -248,6 +248,8 @@ Invited Seminars
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 
+"On success and working openly in science". July 7th, 2015. OpenCon Community Webcast. [[Video](https://youtu.be/Za5bz06cHmk), [Slides](http://dx.doi.org/10.6084/m9.figshare.1476243)]
+
 "The value of data-intensive approaches in ecology". December 4th, 2014. University of Nebraska. [[Slides](http://figshare.com/articles/The_value_of_data_intensive_approaches_in_ecology/942520)]
 
 "Mechanism, theory, data, and prediction in ecology". July 22nd, 2014. Gordon
