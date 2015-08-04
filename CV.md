@@ -3,10 +3,11 @@ Ethan White's Curriculum Vitae
 
 Contact
 -------
-Email: [ethan.white@usu.edu](mailto:ethan.white@usu.edu)  
+Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
 Twitter: [@ethanwhite](https://twitter.com/ethanwhite)  
 Website: [ethanwhite.org](http://ethanwhite.org)  
-Mail: Department of Biology, Utah State University, Logan, UT 84322  
+Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
+      Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
 
 Education
 ---------
