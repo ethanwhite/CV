@@ -314,6 +314,7 @@ Review of grant applications for NSF (United States), NSERC (Canada), and NRF (S
 ### Board Memberships & Affiliations
 Data Carpentry, Steering Committee (2015-present)  
 Impactstory, Board of Directors (2014-present)  
+University of Florida Biodiversity Institute, Advisory Board (2015-present)  
 Software Carpentry Foundation, Advisory Council (2015-present)  
 Hypothesis, User Advisory Team (2015-present)  
 Data Carpentry, Board of Directors (2014-2015)  
@@ -330,6 +331,7 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 University Service
 ------------------
+Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)  
 Promotion and tenure committees (member), Utah State University (2012-2014)  
 Adjunct appointment committee (chair), Utah State University (2011)  
 Faculty search committee (member), Utah State University (2011)  
