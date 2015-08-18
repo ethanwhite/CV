@@ -396,6 +396,29 @@ Presentations
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+White, E.P. 2015. Facilitating data-intensive research in ecology. 100th Annual
+Meeting of the Ecological Society of America. Baltimore,
+MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1507450), *Invited*]
+
+White, E.P. 2015. Comparing snapshot methods, time series analysis, and simple
+bench marks for forecasting biodiversity. 100th Annual Meeting of the Ecological
+Society of America. Baltimore,
+MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1506792), *Invited*]
+
+Hurlbert, A.H., E.P. White, and B. Evans. 2015. Core versus transient species as
+a general framework for thinking about ecological assemblages. 100th Annual
+Meeting of the Ecological Society of America. Baltimore,
+MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1512507)]
+
+Baldridge, E. and E.P. White. 2015. Ecologist in silico: Facilitating access for
+chronically ill/disabled ecologists. 100th Annual Meeting of the Ecological
+Society of America. Baltimore,
+MD. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1502697)]
+
+Norman, K.**, and E.P. White. 2015. Biodiversity prioritization: A comparison of
+data types. 100th Annual Meeting of the Ecological Society of
+America. Baltimore, MD.
+
 White, E.P., X. Xiao*, K.M. Thibault, D.J. McGlinn<sup>+</sup>,
 J.A. Kitzes. 2013. Evaluating a general theory of macroecology using big
 data. 98th Annual Meeting of the Ecological Society of America. Minneapolis,
@@ -403,9 +426,11 @@ MN. [[Slides](http://dx.doi.org/10.6084/m9.figshare.766196)]
 
 White, E.P. 2013. Big data in ecology. 98th Annual Meeting of the Ecological
 Society of America. Minneapolis,
-MN. [[Slides](http://figshare.com/articles/Big_Data_in_Ecology/768444)], [[Full Talk w/Slides & Script](http://jabberwocky.weecology.org/2013/08/12/ignite-talk-big-data-in-ecology/)]
+MN. [[Slides](http://figshare.com/articles/Big_Data_in_Ecology/768444)],
+[[Full Talk w/Slides & Script](http://jabberwocky.weecology.org/2013/08/12/ignite-talk-big-data-in-ecology/),
+*Invited*]
 
-Locey, K.J., and E.P. White. 2013. How species richness and total abundance
+Locey, K.J.*, and E.P. White. 2013. How species richness and total abundance
 constrain the distribution of abundance. 98th Annual Meeting of the Ecological
 Society of America. Minneapolis, MN. [[Slides](http://figshare.com/articles/ESA_2013_poster/768460)]
 
