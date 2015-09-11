@@ -1,21 +1,20 @@
-Ethan White's Curriculum Vitae
-==============================
+# Ethan White's Curriculum Vitae
 
-Contact
--------
+## Contact
+
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
 Twitter: [@ethanwhite](https://twitter.com/ethanwhite)  
 Website: [ethanwhite.org](http://ethanwhite.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
 
-Education
----------
+## Education
+
 2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico  
 1998 \hspace{4mm} BA Biology (*magna cum laude*), Colorado College
 
-Research and Professional Experience
-------------------------------------
+## Research and Professional Experience
+
 2015- \hspace{10mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
 University of Florida
 2012- \hspace{10mm} Senior Scientist, Sevilleta Long-Term Ecological Research
@@ -26,8 +25,8 @@ State University
 University  
 2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
 
-Fellowships and Awards
-----------------------
+## Fellowships and Awards
+
 Moore Foundation Investigator in Data-Driven Discovery 2014-2019  
 NSF CAREER 'Young Investigators' Award 2010-2015  
 NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
@@ -36,8 +35,8 @@ University of New Mexico Biocomplexity Fellowship 2002-2004
 Richard G. Beidleman Award 1998 (Colorado College)  
 Phi Beta Kappa 1998
 
-Publications
-------------
+## Publications
+
 Publication Impact:
 [Impact Story](http://impactstory.org/ethanwhite#article),
 [Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
@@ -363,8 +362,7 @@ Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015.  Comparing process-based and
 constraint-based approaches for modeling macroecological
 patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
 
-Grants and Contracts
---------------------
+## Grants and Contracts
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
@@ -396,8 +394,7 @@ distribution of body sizes of individuals in ecological communities
 LTER Network Office workshop grant. Species richness in space and time
 workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
 
-Software
---------
+## Software
 
 Software Impact: [Impact Story](http://impactstory.org/ethanwhite#software)
 
@@ -413,8 +410,7 @@ S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE)
 [[Highly recommended](http://impactstory.org/ethanwhite/product/37170578bf0a11e1bdf912313d1a5e63)]
 
 
-Invited Seminars
-----------------
+## Invited Seminars
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
 
@@ -480,8 +476,7 @@ ecoinformatics". March 30th, 2010. University of Wyoming.
 speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 
-Invited Workshops, Symposia, and Working Groups
------------------------------------------------
+## Invited Workshops, Symposia, and Working Groups
 
 "Ignite Session: Constraints in Ecology". 98th Annual Meeting of the Ecological
 Society of America. Organizers: Elita Baldridge and Ethan
@@ -517,8 +512,8 @@ W.K. Lauenroth.
 and Synthesis Working Group. 2001. Organizers: R.Waide, S. Andelman,
 M.R. Willig.
 
-Professional and Community Service
-----------------------------------
+## Professional and Community Service
+
 ### Grant Panels and Reviewing
 National Science Foundation Panelist (2009, 2012)  
 Review of grant applications for NSF (United States), NSERC (Canada), and NRF (South Africa)
@@ -537,6 +532,7 @@ PeerJ (2012-present)
 PLoS ONE (2011-2015)
 
 ### Manuscript Reviewing
+
 Science, Nature, PNAS, PLOS Biology, Proceedings of the Royal Society B,
 Ecology, Ecology Letters, American Naturalist, Global Ecology and Biogeography,
 Journal of Animal Ecology, Journal of Ecology, Oikos, Frontiers in Ecology and
@@ -547,18 +543,18 @@ Folia Geobotanica, Research Letters in Ecology, Geological Society of America
 
 External examiner of Ph.D. Theses: Macquarie University (2008)
 
-University Service
-------------------
+## University Service
+
 Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)  
 Promotion and tenure committees (member), Utah State University (2012-2014)  
 Adjunct appointment committee (chair), Utah State University (2011)  
 Faculty search committee (member), Utah State University (2011)  
 Staff search committee (member), Utah State University (2011)
 
-Teaching
---------
+## Teaching
 
 ### Courses Taught
+
 Data Carpentry for Biologists (2015-present)  
 Advanced Programming and Database Management for Biologists (2011-2014)  
 Introduction to Programming and Database Management for Biologists (2010-2014)  
@@ -567,6 +563,7 @@ Neutral Theories in Ecology (2010)
 Biogeography (2008, 2009)
 
 ### Workshops run
+
 Software Carpentry, Utah State University, April 2012  
 Software Carpentry, University of North Carolina, October 2012  
 Software Carpentry, University of British Columbia, February 2013  
@@ -582,8 +579,8 @@ Across Scales, July 2014
 Software Carpentry, Utah State University, March 2015
 
 
-Research Mentoring
-------------------
+## Research Mentoring
+
 ### Postdoctoral Associates
 
 Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.  
@@ -611,8 +608,7 @@ Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni
 University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS,
 2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
 
-Presentations
--------------
+## Presentations
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
