@@ -593,7 +593,7 @@ Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of
 
 Kenneth Locey (PhD; 2008-2013). Postdoctoral researcher at Indiana University.  
 Xiao Xiao (PhD; 2008-2014). Postdoctoral research at University of Maine. USU College of Science Diversity Fellow.  
-Elita Baldridge (PhD; 2010-present).  
+Elita Baldridge (PhD; 2010-2015). Independent scientist.  
 Kristina Riemer (PhD; 2013-present)
 
 ### Undergraduate Researchers
