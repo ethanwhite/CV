@@ -16,10 +16,12 @@ Education
 
 Research and Professional Experience
 ------------------------------------
-2012- \hspace{10mm} Associate Professor, Dept. of Biology and Ecology Center, Utah
-State University  
+2015- \hspace{10mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
+University of Florida
 2012- \hspace{10mm} Senior Scientist, Sevilleta Long-Term Ecological Research
 Station  
+2012-2015 \hspace{10mm} Associate Professor, Dept. of Biology and Ecology Center, Utah
+State University  
 2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
 University  
 2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
