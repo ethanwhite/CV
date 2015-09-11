@@ -595,6 +595,8 @@ Kenneth Locey (PhD; 2008-2013). Postdoctoral researcher at Indiana University.
 Xiao Xiao (PhD; 2008-2014). Postdoctoral research at University of Maine. USU College of Science Diversity Fellow.  
 Elita Baldridge (PhD; 2010-2015). Independent scientist.  
 Kristina Riemer (PhD; 2013-present)
+Sergio Marconi (PhD; 2015-present)
+Shawn Taylor (PhD; 2015-present)
 
 ### Undergraduate Researchers
 
