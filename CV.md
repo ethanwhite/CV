@@ -564,19 +564,22 @@ Biogeography (2008, 2009)
 
 ### Workshops run
 
-Software Carpentry, Utah State University, April 2012  
-Software Carpentry, University of North Carolina, October 2012  
-Software Carpentry, University of British Columbia, February 2013  
-Software Carpentry, Utah State University, March 2013  
-Software Carpentry, CUAHSI Water Data Center, July 2013  
-Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
-Software Carpentry, University of Victoria, April 2014  
-Introduction to Git and GitHub, University of North Carolina, April 2014  
-Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
-2014  
+Software Carpentry, Utah State University, March 2015
 Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
 Across Scales, July 2014  
-Software Carpentry, Utah State University, March 2015
+Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
+2014
+Introduction to Git and GitHub, Gordon Research Conference on Unifying Ecology
+Across Scale, July 2014  
+Introduction to Git and GitHub, University of North Carolina, April 2014  
+Software Carpentry, University of Victoria, April 2014  
+Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
+Software Carpentry, CUAHSI Water Data Center, July 2013  
+Software Carpentry, Utah State University, March 2013  
+Software Carpentry, University of British Columbia, February 2013  
+Software Carpentry, University of North Carolina, October 2012  
+Software Carpentry, Utah State University, April 2012  
+
 
 
 ## Research Mentoring
