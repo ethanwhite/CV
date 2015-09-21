@@ -367,6 +367,10 @@ patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
+University of Florida Creative Campus Catalyst Fund. Turning Scientific Data
+Into Digital SoundScapes. PIs: E.M. Bruna, J.C. Oliverio, and
+E.P. White. 2015-2016.
+
 National Science Foundation (DEB-1354563). SG: Distinguishing between core and
 transient species: new insights into the determinants of species richness. PIs:
 A.H. Hurlbert and E.P.White. 2014-2016.
