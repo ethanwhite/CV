@@ -3,7 +3,7 @@
 ## Contact
 
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
-Twitter: [@ethanwhite](https://twitter.com/ethanwhite)  
+Twitter: [@](https://twitter.com/ethanwhite)[ethanwhite](https://twitter.com/ethanwhite)  
 Website: [ethanwhite.org](http://ethanwhite.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
@@ -16,11 +16,11 @@ Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
 ## Research and Professional Experience
 
 2015- \hspace{10mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
-University of Florida
+University of Florida  
 2012- \hspace{10mm} Senior Scientist, Sevilleta Long-Term Ecological Research
 Station  
-2012-2015 \hspace{10mm} Associate Professor, Dept. of Biology and Ecology Center, Utah
-State University  
+2012-2015 \hspace{2mm} Associate Professor, Dept. of Biology and Ecology
+Center, Utah State University  
 2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
 University  
 2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
@@ -358,7 +358,7 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015.  Comparing process-based and
+Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015. Comparing process-based and
 constraint-based approaches for modeling macroecological
 patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
 
