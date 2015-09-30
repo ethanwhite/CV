@@ -362,6 +362,13 @@ Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015. Comparing process-based and
 constraint-based approaches for modeling macroecological
 patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
 
+Baldridge, E.\*, X. Xiao\*, E.P. White. 2015. An extensive comparison of
+species-abundance distribution models. bioRxiv doi: [http://dx.doi.org/10.1101/024802](http://dx.doi.org/10.1101/024802)
+
+Mislan, K.A.S., J.M. Heer, E.P. White. 2015. Elevating the status of code in
+ecology. bioRxiv doi:
+[http://dx.doi.org/10.1101/027110](http://dx.doi.org/10.1101/027110)
+
 ## Grants and Contracts
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
