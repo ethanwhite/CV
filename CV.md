@@ -489,6 +489,12 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, and Working Groups
 
+"Moore Investigators in Data-Driven Discovery Symposium". University of
+Washington. 2015. Organizers: Chris Mentzel and Carly Strasser.
+
+"Moore Data-Driven Discovery Training Club". University of California,
+Davis. Organizers: Tracy Teal, Titus Brown, Matthew Turk, Ethan White
+
 "Ignite Session: Constraints in Ecology". 98th Annual Meeting of the Ecological
 Society of America. Organizers: Elita Baldridge and Ethan
 P. White. [[Schedule](http://eco.confex.com/eco/2013/webprogram/Session9001.html)]
@@ -628,6 +634,10 @@ University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS,
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+White, E.P. 2015. Data-intensive forecasting of ecological systems. Moore
+Investigators in Data-Driven Discovery Symposium. University of
+Washington. [[Slides](http://dx.doi.org/10.6084/m9.figshare.1565688)]
 
 White, E.P. 2015. Facilitating data-intensive research in ecology. 100th Annual
 Meeting of the Ecological Society of America. Baltimore,
