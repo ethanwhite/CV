@@ -121,7 +121,7 @@ existing ecological data. PLOS ONE
 Coyle, J.R., A.H. Hurlbert, and E.P. White. 2013. Opposing mechanisms drive
 diversity patterns of core and occasional bird species. American Naturalist
 181:E83-E90. [http://doi.org/10.1086/669903](http://doi.org/10.1086/669903)
-[**OA**, [Data](http://datadryad.org/resource/doi:10.5061/dryad.q82nn)]
+[**OA**, [Code](http://datadryad.org/resource/doi:10.5061/dryad.q82nn), [Data](http://datadryad.org/resource/doi:10.5061/dryad.q82nn)]
 
 Supp, S.R.\*, X. Xiao\*, S.K.M. Ernest, and E.P. White. 2012. Experimental
 evidence suggests that macroecological patterns are determined primarily by
