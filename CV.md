@@ -538,6 +538,7 @@ Review of grant applications for NSF (United States), NSERC (Canada), and NRF (S
 ### Board Memberships & Affiliations
 Data Carpentry, Steering Committee (2015-present)  
 Impactstory, Board of Directors (2014-present)  
+Public Library of Science, Data Guidelines Board (2015-present)  
 University of Florida Biodiversity Institute, Advisory Board (2015-present)  
 Software Carpentry Foundation, Advisory Council (2015-present)  
 Hypothesis, User Advisory Team (2015-present)  
