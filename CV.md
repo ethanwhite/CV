@@ -58,7 +58,7 @@ Evolution. [[Preprint](http://dx.doi.org/10.1101/027110)]
 
 Xiao, X.\*, K.J. Locey\*, and E.P. White. 2015. A process-independent explanation
 for the general form of Taylor's Law. American
-Naturalist. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
+Naturalist 186:E51-E60. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
 [**OA**, [Code](https://github.com/weecology/TL),
 [Data](http://dx.doi.org/10.5061/dryad.h1c09),
 [Preprint](http://arxiv.org/abs/1410.7283)]
