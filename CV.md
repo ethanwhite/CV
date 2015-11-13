@@ -48,7 +48,15 @@ Publication Impact:
 
 ### Journal Articles
 
-Xiao, X.\*, K.J. Locey\*, E.P. White. 2015. A process-independent explanation
+Xiao, X.\*, J.P. O'Dwyer, and E.P. White. In press. Comparing process-based and
+constraint-based approaches for modeling macroecological
+patterns. Ecology. [[Preprint](http://arxiv.org/abs/1502.02767)]
+
+Mislan, K.A.S., J.M. Heer, and E.P. White. In press. Elevating the status of code in
+ecology. Trends in Ecology and
+Evolution. [[Preprint](http://dx.doi.org/10.1101/027110)]
+
+Xiao, X.\*, K.J. Locey\*, and E.P. White. 2015. A process-independent explanation
 for the general form of Taylor's Law. American
 Naturalist. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.1086/682050)
 [**OA**, [Code](https://github.com/weecology/TL),
