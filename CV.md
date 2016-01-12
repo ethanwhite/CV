@@ -52,9 +52,12 @@ Xiao, X.\*, J.P. O'Dwyer, and E.P. White. In press. Comparing process-based and
 constraint-based approaches for modeling macroecological
 patterns. Ecology. [[Preprint](http://arxiv.org/abs/1502.02767)]
 
-Mislan, K.A.S., J.M. Heer, and E.P. White. In press. Elevating the status of code in
-ecology. Trends in Ecology and
-Evolution. [[Preprint](http://dx.doi.org/10.1101/027110)]
+Mislan, K.A.S., J.M. Heer, and E.P. White. 2016. Elevating the status of code in
+ecology. Trends in Ecology and Evolution 31: 4-7
+[ http://dx.doi.org/10.1016/j.tree.2015.11.006](http://dx.doi.org/10.1016/j.tree.2015.11.006)
+[**OA**, [Code](http://dx.doi.org/10.5281/zenodo.34689),
+[Data](http://dx.doi.org/10.5281/zenodo.34689),
+[Preprint](http://dx.doi.org/10.1101/027110)]
 
 Xiao, X.\*, K.J. Locey\*, and E.P. White. 2015. A process-independent explanation
 for the general form of Taylor's Law. American
