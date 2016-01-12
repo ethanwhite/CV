@@ -369,16 +369,8 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Xiao, X.\*, J.P. O'Dwyer, E.P. White. 2015. Comparing process-based and
-constraint-based approaches for modeling macroecological
-patterns. [arXiv:1502.02767](http://arxiv.org/abs/1502.02767)
-
 Baldridge, E.\*, X. Xiao\*, E.P. White. 2015. An extensive comparison of
 species-abundance distribution models. bioRxiv doi: [http://dx.doi.org/10.1101/024802](http://dx.doi.org/10.1101/024802)
-
-Mislan, K.A.S., J.M. Heer, E.P. White. 2015. Elevating the status of code in
-ecology. bioRxiv doi:
-[http://dx.doi.org/10.1101/027110](http://dx.doi.org/10.1101/027110)
 
 ## Grants and Contracts
 
@@ -646,6 +638,9 @@ University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS,
 
 Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+White, E.P. 2016. Forecasting in Macroecology. NEON workshop on Operationalizing
+Ecological Forecasts. USGS Powell Center.
 
 White, E.P. 2015. Data-intensive forecasting of ecological systems. Moore
 Investigators in Data-Driven Discovery Symposium. University of
