@@ -626,13 +626,15 @@ Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.
 Mikaelle Giffen (2008-2009)
 
 ### Graduate Student Committees
-Philippe Desjardins-Proulx (PhD), Erica Christensen (PhD), Martin Schilling
-(PhD), Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy Croft (PhD), Jonathan
-Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013, Utah State University),
-Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel (PhD), Glenda Yenni
-(PhD, 2013, Utah State University), Chris Feldman (PhD, 2008, Utah State
-University), Ryan Choi (MS, 2011, Utah State University), Bridget Olson (MS,
-2011, Utah State University), Lori Spears (PhD, 2011, Utah State University)
+
+Lauren Gonzalez (PhD), Philippe Desjardins-Proulx (PhD), Erica Christensen
+(PhD), Martin Schilling (PhD), Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy
+Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013,
+Utah State University), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel
+(PhD), Glenda Yenni (PhD, 2013, Utah State University), Chris Feldman (PhD,
+2008, Utah State University), Ryan Choi (MS, 2011, Utah State University),
+Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah
+State University)
 
 ## Presentations
 
