@@ -38,7 +38,7 @@ Phi Beta Kappa 1998
 ## Publications
 
 Publication Impact:
-[Impact Story](http://impactstory.org/ethanwhite#article),
+[Impact Story](https://impactstory.org/ethanwhite/products/articles),
 [Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
 (citations =  2717, h-index = 26)  
 [**OA**]: The published paper is open access (or at least free to read)  
@@ -410,7 +410,7 @@ workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
 
 ## Software
 
-Software Impact: [Impact Story](http://impactstory.org/ethanwhite#software)
+Software Impact: [Impact Story](https://impactstory.org/ethanwhite/products/software-products)
 
 EcoData Retriever: tool for easy acquisition of public ecological datasets. By
 B.D. Morris and
@@ -426,7 +426,7 @@ S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE)
 
 ## Invited Seminars
 
-Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)
+Talk Impact: [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
 
 "On success and working openly in science". July 7th, 2015. OpenCon Community
 Webcast. [[Video](https://youtu.be/Za5bz06cHmk),
@@ -638,7 +638,7 @@ State University)
 
 ## Presentations
 
-Talk Impact: [Impact Story](http://impactstory.org/ethanwhite#slides)  
+Talk Impact: [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 White, E.P. 2016. Forecasting in Macroecology. NEON workshop on Operationalizing
