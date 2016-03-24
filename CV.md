@@ -608,19 +608,22 @@ Software Carpentry, Utah State University, April 2012
 ### Postdoctoral Associates
 
 Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.  
-Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of Charleston in Fall 2014.
+Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of
+Charleston in Fall 2014.  
+David Harris (2015-present)
 
 ### Graduate Students
 
 Kenneth Locey (PhD; 2008-2013). Postdoctoral researcher at Indiana University.  
 Xiao Xiao (PhD; 2008-2014). Postdoctoral research at University of Maine. USU College of Science Diversity Fellow.  
-Elita Baldridge (PhD; 2010-2015). Independent scientist.  
-Kristina Riemer (PhD; 2013-present)
-Sergio Marconi (PhD; 2015-present)
+Elita Baldridge (PhD; 2010-2015)  
+Kristina Riemer (PhD; 2013-present)  
+Sergio Marconi (PhD; 2015-present)  
 Shawn Taylor (PhD; 2015-present)
 
 ### Undergraduate Researchers
 
+Kari Norman (2014-2016; Utah State Honors Thesis)
 Ben Morris (2010-2012; NSF REU Summer 2011, Awarded an NSF Graduate Research Fellowship). Data Platform Engineer at Machine Zone, Inc.  
 Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.  
 Mikaelle Giffen (2008-2009)
