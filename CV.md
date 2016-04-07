@@ -490,7 +490,10 @@ ecoinformatics". March 30th, 2010. University of Wyoming.
 speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 
-## Invited Workshops, Symposia, and Working Groups
+## Invited Workshops, Symposia, Panels, and Working Groups
+
+"School of Natural Resources and Environment Publishing Panel". University of
+Florida. 2016. Organizer: Richard Tate.
 
 "Moore Investigators in Data-Driven Discovery Symposium". University of
 Washington. 2015. Organizers: Chris Mentzel and Carly Strasser.
