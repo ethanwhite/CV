@@ -544,7 +544,7 @@ M.R. Willig.
 
 ### Grant Panels and Reviewing
 National Science Foundation Panelist (2009, 2012)  
-Review of grant applications for NSF (United States), NSERC (Canada), and NRF (South Africa)
+Review of grant applications for NSF (United States), NSERC (Canada), NRF (South Africa), rOpenSci
 
 ### Board Memberships & Affiliations
 Data Carpentry, Steering Committee (2015-present)  
