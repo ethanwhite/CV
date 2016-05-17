@@ -426,7 +426,12 @@ S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE)
 
 ## Invited Seminars
 
-Talk Impact: [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
+Talk Impact:
+[Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
+
+"Data-intensive forecasting of ecological systems". University of
+Wyoming 2015/2016 Botany Distinguished Speaker. May 5th, 2016. University of
+Wyoming. [[Slides](https://dx.doi.org/10.6084/m9.figshare.3267325.v1)]
 
 "On success and working openly in science". July 7th, 2015. OpenCon Community
 Webcast. [[Video](https://youtu.be/Za5bz06cHmk),
