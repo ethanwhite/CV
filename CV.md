@@ -652,6 +652,16 @@ State University)
 Talk Impact: [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+Taylor, S., and E.P. White. 2016. Ecological forecasting and scale. Gordon
+Research Conference on Unifying Ecology Across Scale.
+
+Marconi, S., and E.P. White. 2016. Scaling up competition for light from leaf to
+ecosystem: a new framework to represent intra-crown plasticity for evergreen
+species. Gordon Research Conference on Unifying Ecology Across Scale.
+
+Riemer, K., and E.P. White. 2016. Questioning body size change as a response to
+climate warming. Gordon Research Conference on Unifying Ecology Across Scale.
+
 White, E.P. 2016. Forecasting in Macroecology. NEON workshop on Operationalizing
 Ecological Forecasts. USGS Powell Center.
 
