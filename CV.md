@@ -498,6 +498,9 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
 
+"Mozilla Science Lab Global Sprint". 2016. Internet. Organizer: Abby Cabunoc
+Mayes.
+
 "School of Natural Resources and Environment Publishing Panel". University of
 Florida. 2016. Organizer: Richard Tate.
 
