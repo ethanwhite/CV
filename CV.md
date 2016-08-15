@@ -412,17 +412,18 @@ workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
 
 Software Impact: [Impact Story](https://impactstory.org/ethanwhite/products/software-products)
 
-EcoData Retriever: tool for easy acquisition of public ecological datasets. By
-B.D. Morris and
+X. Xiao, K.M. Thibault, D.J. Harris, E. Baldridge, and
+E.P. White. 2016-present. macroecotools:
+v0.3. Zenodo. [https://doi.org/10.5281/zenodo.60207](https://doi.org/10.5281/zenodo.60207)
+
+White, E.P., K.M. Thibault, X. Xiao, D.J. McGlinn and
+S. Supp. 2014-present. METE - Software for Analyzing the Maximum Entropy Theory
+of Ecology. figshare.  https://dx.doi.org/10.6084/m9.figshare.815905.v4
+[[GitHub](https://github.com/weecology/METE)]
+
+Morris, B.D. and E.P. White. 2013-present. EcoData Retriever: tool for easy acquisition
+of public ecological datasets. By B.D. Morris and
 E.P. White. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
-[[Highly recommended and highly cited](http://impactstory.org/ethanwhite/product/37058b0ebf0a11e1bdf912313d1a5e63),
-latest release downloaded over 250 times]
-
-METE: Python-based tool for fitting and modeling the Maximum Entropy Theory of
-Ecology. By E.P. White, K.M. Thibault, X. Xiao, D.J. McGlinn and
-S. Supp. [https://github.com/weecology/METE](https://github.com/weecology/METE)
-[[Highly recommended](http://impactstory.org/ethanwhite/product/37170578bf0a11e1bdf912313d1a5e63)]
-
 
 ## Invited Seminars
 
