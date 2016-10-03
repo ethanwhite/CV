@@ -48,13 +48,15 @@ Publication Impact:
 
 ### Journal Articles
 
-Xiao, X.\*, J.P. O'Dwyer, and E.P. White. In press. Comparing process-based and
+Xiao, X.\*, J.P. O'Dwyer, and E.P. White. 2016. Comparing process-based and
 constraint-based approaches for modeling macroecological
-patterns. Ecology. [[Preprint](http://arxiv.org/abs/1502.02767)]
+patterns. Ecology
+97:1228-1238. [https://doi.org/10.1890/15-0962.1](https://doi.org/10.1890/15-0962.1) [**OA**,
+[Code](http://dx.doi.org/10.5061/dryad.93ct6), [Preprint](http://arxiv.org/abs/1502.02767)]
 
 Mislan, K.A.S., J.M. Heer, and E.P. White. 2016. Elevating the status of code in
 ecology. Trends in Ecology and Evolution 31: 4-7
-[ http://dx.doi.org/10.1016/j.tree.2015.11.006](http://dx.doi.org/10.1016/j.tree.2015.11.006)
+[http://dx.doi.org/10.1016/j.tree.2015.11.006](http://dx.doi.org/10.1016/j.tree.2015.11.006)
 [**OA**, [Code](http://dx.doi.org/10.5281/zenodo.34689),
 [Data](http://dx.doi.org/10.5281/zenodo.34689),
 [Preprint](http://dx.doi.org/10.1101/027110)]
