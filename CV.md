@@ -662,7 +662,8 @@ Shawn Taylor (PhD; 2015-present)
 
 ### Undergraduate Researchers
 
-Kari Norman (2014-2016; Utah State Honors Thesis)
+Akash Goel (2016; Google Summer of Code student). Software developer at Amazon.  
+Kari Norman (2014-2016; Utah State Honors Thesis). Graduate student at UC Berkeley.  
 Ben Morris (2010-2012; NSF REU Summer 2011, Awarded an NSF Graduate Research Fellowship). Data Platform Engineer at Machine Zone, Inc.  
 Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.  
 Mikaelle Giffen (2008-2009)
@@ -677,6 +678,19 @@ Utah State University), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel
 2008, Utah State University), Ryan Choi (MS, 2011, Utah State University),
 Bridget Olson (MS, 2011, Utah State University), Lori Spears (PhD, 2011, Utah
 State University)
+
+
+## Software Development Mentoring
+
+### Google Summer of Code
+
+Organization Administrator for NumFocus umbrella organization. 2015. Helped
+develop proposal for new NumFocus Google Summer of Code organization and helped
+run the organization during 2015.
+
+Mentor. 2016. Mentored a Google Summer of Code student, Akash Goel, working on
+the Data Retriever software project. This student is now a software developer at
+Amazon.
 
 ## Presentations
 
