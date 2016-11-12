@@ -386,19 +386,17 @@ e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
-
-
 University of Florida Creative Campus Catalyst Fund. Turning Scientific Data
 Into Digital SoundScapes. PIs: E.M. Bruna, J.C. Oliverio, and
 E.P. White. 2015-2016.
 
 National Science Foundation (DEB-1354563). SG: Distinguishing between core and
 transient species: new insights into the determinants of species richness. PIs:
-A.H. Hurlbert and E.P.White. 2014-2016.
+A.H. Hurlbert and E.P.White. 2014-2017.
 
 National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using
 informatics and entropy maximization. PI:
-E.P. White. 2010-2015. [http://doi.org/10.6084/m9.figshare.93937](http://doi.org/10.6084/m9.figshare.93937)
+E.P. White. 2010-2016. [http://doi.org/10.6084/m9.figshare.93937](http://doi.org/10.6084/m9.figshare.93937)
 
 Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular
 and ecological neutral theories via genome based simulation. PIs: E.P. White and
