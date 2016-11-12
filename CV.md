@@ -520,6 +520,9 @@ Mayes.
 "School of Natural Resources and Environment Publishing Panel". University of
 Florida. 2016. Organizer: Richard Tate.
 
+"Biodiversity Symposium". 2016. University of Florida. Organizers: UF Office of
+Sustainability and the UF Biodiversity Institute.
+
 "Moore Investigators in Data-Driven Discovery Symposium". University of
 Washington. 2015. Organizers: Chris Mentzel and Carly Strasser.
 
@@ -594,6 +597,10 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 ## University Service
 
+Seminar Committee, Department of Wildlife Ecology and Conservation, University
+of Florida (2016-2017)  
+Biodiversity Symposium Participant, University of Florida (2016)  
+Commencement Marshal, University of Florida (2015)  
 Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)  
 Promotion and tenure committees (member), Utah State University (2012-2014)  
 Adjunct appointment committee (chair), Utah State University (2011)  
