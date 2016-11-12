@@ -443,7 +443,7 @@ E.P. White. [https://github.com/weecology/retriever](https://github.com/weecolog
 Talk Impact:
 [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
 
-"Hot Climate→Small Animals? A Data Package Manager & Juggling". Moore
+"Hot Climate Small Animals? A Data Package Manager & Juggling". Moore
 Investigators Symposium. October 27th, 2016. New York
 University. [[Slides]](https://doi.org/10.6084/m9.figshare.4105005)
 
