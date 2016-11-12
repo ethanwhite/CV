@@ -374,10 +374,19 @@ Sunderland, MA.
 Baldridge, E.\*, X. Xiao\*, E.P. White. 2015. An extensive comparison of
 species-abundance distribution models. bioRxiv doi: [http://dx.doi.org/10.1101/024802](http://dx.doi.org/10.1101/024802)
 
+### Other publications
+
+White E.P. 2016. Data Management Plan for Moore Investigator in Data Driven
+Discovery Grant. Research Ideas and Outcomes 2:
+e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10708)
+
+
 ## Grants and Contracts
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
+
+
 
 University of Florida Creative Campus Catalyst Fund. Turning Scientific Data
 Into Digital SoundScapes. PIs: E.M. Bruna, J.C. Oliverio, and
