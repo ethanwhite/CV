@@ -657,27 +657,80 @@ Software Carpentry, Utah State University, April 2012
 
 ### Postdoctoral Associates
 
-Katherine Thibault (2008-2011). Lead Vertebrate Ecologist at NEON.  
-Daniel McGlinn (2011-2014). Starting as an Assistant Professor at the College of
-Charleston in Fall 2014.  
+Katherine Thibault (2008-2011)
+
+  * After finishing: Vertebrate Ecologist at National Ecological Observatory Network
+  * Currently: Senior Staff Scientist at National Ecological Observatory Network
+
+Daniel McGlinn (2011-2014)
+
+  * After finishing: Assistant Professor at the College of Charleston
+  * Currently: Assistant Professor at the College of Charleston
+
 David Harris (2015-present)
+
+  * Moore Data Fellow
 
 ### Graduate Students
 
-Kenneth Locey (PhD; 2008-2013). Postdoctoral researcher at Indiana University.  
-Xiao Xiao (PhD; 2008-2014). Postdoctoral research at University of Maine. USU College of Science Diversity Fellow.  
-Elita Baldridge (PhD; 2010-2015)  
-Kristina Riemer (PhD; 2013-present)  
-Sergio Marconi (PhD; 2015-present)  
+Kenneth Locey (PhD; 2008-2013)
+  
+  * Utah State University Eccles Fellow
+  * After graduating: Postdoctoral researcher at Indiana University.
+  * Currently: Postdoctoral researcher at Indiana University.
+  
+Xiao Xiao (PhD; 2008-2014)
+
+  * Utah State University Diversity Fellow
+  * After graduating: Postdoctoral research at University of Maine
+  * Currently: Postdoctoral research at University of Maine
+
+Elita Baldridge (PhD; 2010-2015)
+
+  * Utah State University Dissertation Fellowship recipient
+  * After graduating: Independent scientist
+  * Currently: Retired due to chronic illness
+
+Kristina Riemer (PhD; 2013-present)
+
+Sergio Marconi (PhD; 2015-present)
+
+  * Fulbright Fellow
+
 Shawn Taylor (PhD; 2015-present)
 
 ### Undergraduate Researchers
 
-Akash Goel (2016; Google Summer of Code student). Software developer at Amazon.  
-Kari Norman (2014-2016; Utah State Honors Thesis). Graduate student at UC Berkeley.  
-Ben Morris (2010-2012; NSF REU Summer 2011, Awarded an NSF Graduate Research Fellowship). Data Platform Engineer at Machine Zone, Inc.  
-Clayton Bingham (2009-2010). Graduate student at Univ. of Southern California.  
 Mikaelle Giffen (2008-2009)
+
+  * After graduating: Research Assistant at Quansys Biosciences
+  * Currently: Biologist I at Fresenius Medical Care
+
+Clayton Bingham (2009-2010)
+
+  * After graduating: Founded a startup - LitRoost
+  * Currently: Senior Data Engineering and Analytics Consultant at Rouse
+    Services and a graduate student at the University of Southern California
+
+Ben Morris (2010-2012)
+
+  * NSF Research Experience for Undergraduates student
+  * After graduating: PhD Student at University of North Carolina; awarded an
+    NSF Graduate Research Fellowship
+  * Currently: Senior Software Engineer at Machine Zone
+
+Kari Norman (2014-2016)
+
+  * Utah State Honors Thesis
+  * After graduating: PhD student at UC Berkeley
+  * Currently: PhD student at UC Berkeley
+
+Akash Goel (2016)
+
+  * Google Summer of Code student
+  * After graduating: Software developer at Amazon.
+  * Currently: After graduating: Software developer at Amazon
+
 
 ### Graduate Student Committees
 
