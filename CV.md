@@ -386,6 +386,10 @@ e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
+National Institute of Standards and Technology (NIST). Data Science for
+Multimodal Plant Identification Task. PIs: Z. Wang and E.P. White. Co PIs:
+S. Bohlman and P. Grader. 2016-2017.
+
 University of Florida Creative Campus Catalyst Fund. Turning Scientific Data
 Into Digital SoundScapes. PIs: E.M. Bruna, J.C. Oliverio, and
 E.P. White. 2015-2016.
