@@ -432,9 +432,17 @@ E.P. White. [https://github.com/weecology/retriever](https://github.com/weecolog
 Talk Impact:
 [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
 
+"Hot Climate→Small Animals? A Data Package Manager & Juggling". Moore
+Investigators Symposium. October 27th, 2016. New York
+University. [[Slides]](https://doi.org/10.6084/m9.figshare.4105005)
+
 "Data-intensive forecasting of ecological systems". University of
 Wyoming 2015/2016 Botany Distinguished Speaker. May 5th, 2016. University of
 Wyoming. [[Slides](https://dx.doi.org/10.6084/m9.figshare.3267325.v1)]
+
+"Data-intensive forecasting of ecological systems". Moore Investigators
+Symposium. October 8th, 2015. University of
+Washington. [[Slides]](https://doi.org/10.6084/m9.figshare.1565688)
 
 "On success and working openly in science". July 7th, 2015. OpenCon Community
 Webcast. [[Video](https://youtu.be/Za5bz06cHmk),
@@ -499,6 +507,12 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
+
+"Moore Investigators in Data-Driven Discovery Symposium". New York
+University. 2016. Organizers: Chris Mentzel, Carly Strasser, and Natalie Caulk.
+
+"Lab Carpentry". New York University. 2016. Organizers: Casey Greene, Titus
+Brown, Blair Sullivan. Matt Turk.
 
 "Mozilla Science Lab Global Sprint". 2016. Internet. Organizer: Abby Cabunoc
 Mayes.
