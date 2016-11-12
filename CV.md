@@ -618,8 +618,12 @@ Maximum Entropy in Ecology (2011)
 Neutral Theories in Ecology (2010)  
 Biogeography (2008, 2009)
 
-### Workshops run
+### Workshops run (organized and/or taught)
 
+Data Carpentry, University of Florida, October 17-18 2016
+Software Carpentry, University of Florida, August 17-18 2016
+Software Carpentry, University of North Carolina, April 11-12 2016
+Software Carpentry, University of Florida, March 23-24 2016
 Software Carpentry, Utah State University, March 2015
 Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
 Across Scales, July 2014  
