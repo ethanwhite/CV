@@ -519,6 +519,9 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
 
+"Wildlife Graduate Student Association Science Communication
+Workshop". University of Florida. 2016. Organizer: Arjun Srivathsa.
+
 "Moore Investigators in Data-Driven Discovery Symposium". New York
 University. 2016. Organizers: Chris Mentzel, Carly Strasser, and Natalie Caulk.
 
