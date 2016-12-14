@@ -48,6 +48,12 @@ Publication Impact:
 
 ### Journal Articles
 
+Baldridge, E.\*, D.J. Harris^+^, X. Xiao\*, and E.P. White. In
+press. An extensive comparison of species-abundance distribution
+models. PeerJ. [**OA**, [Code](https://doi.org/10.5281/zenodo.166725),
+[Data](https://doi.org/10.5281/zenodo.166725),
+[Preprint](http://dx.doi.org/10.1101/024802)]
+
 Xiao, X.\*, J.P. O'Dwyer, and E.P. White. 2016. Comparing process-based and
 constraint-based approaches for modeling macroecological
 patterns. Ecology
@@ -371,8 +377,6 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Baldridge, E.\*, X. Xiao\*, E.P. White. 2015. An extensive comparison of
-species-abundance distribution models. bioRxiv doi: [http://dx.doi.org/10.1101/024802](http://dx.doi.org/10.1101/024802)
 
 ### Other publications
 
