@@ -582,6 +582,16 @@ W.K. Lauenroth.
 and Synthesis Working Group. 2001. Organizers: R.Waide, S. Andelman,
 M.R. Willig.
 
+## Interviews
+
+"Beyond the Lab: Ethan White, Ph.D." by Aditi Risbud. Gordon and Betty Moore
+Foundation. April
+15, 2016. [https://www.moore.org/article-detail?newsUrlName=beyond-the-lab](https://www.moore.org/article-detail?newsUrlName=beyond-the-lab)
+
+"My digital toolbox: Ecologist Ethan White on interactive notebooks" by Richard
+Van Noorden. Nature. September
+30, 2014. [https://doi.org/10.1038/nature.2014.16015](https://doi.org/10.1038/nature.2014.16015)
+
 ## Professional and Community Service
 
 ### Grant Panels and Reviewing
