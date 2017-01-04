@@ -48,11 +48,10 @@ Publication Impact:
 
 ### Journal Articles
 
-Baldridge, E.\*, D.J. Harris<sup>+</sup>, X. Xiao\*, and E.P. White. In
-press. An extensive comparison of species-abundance distribution models. PeerJ
-4:e2823
-[https://doi.org/10.7717/peerj.2823](https://doi.org/10.7717/peerj.2823) [**OA**,
-[Code](https://doi.org/10.5281/zenodo.166725),
+Baldridge, E.\*, D.J. Harris<sup>+</sup>, X. Xiao\*, and E.P. White. 2016. An
+extensive comparison of species-abundance distribution models. PeerJ 4:e2823
+[https://doi.org/10.7717/peerj.2823](https://doi.org/10.7717/peerj.2823)
+[**OA**, [Code](https://doi.org/10.5281/zenodo.166725),
 [Data](https://doi.org/10.5281/zenodo.166725),
 [Preprint](http://dx.doi.org/10.1101/024802)]
 
