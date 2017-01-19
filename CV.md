@@ -695,19 +695,19 @@ Kenneth Locey (PhD; 2008-2013)
   
   * Utah State University Eccles Fellow
   * After graduating: Postdoctoral researcher at Indiana University.
-  * Currently: Postdoctoral researcher at Indiana University.
+  * Currently: [Postdoctoral researcher at Indiana University](https://kenlocey.weecology.org/)
   
 Xiao Xiao (PhD; 2008-2014)
 
   * Utah State University Diversity Fellow
   * After graduating: Postdoctoral research at University of Maine
-  * Currently: Postdoctoral research at University of Maine
+  * Currently: [Postdoctoral research at University of Maine]()
 
 Elita Baldridge (PhD; 2010-2015)
 
   * Utah State University Dissertation Fellowship recipient
   * After graduating: Independent scientist
-  * Currently: Retired due to chronic illness
+  * Currently: [Small Business Owner - Goat Breeder](http://tanglebriar.com/)
 
 Kristina Riemer (PhD; 2013-present)
 
