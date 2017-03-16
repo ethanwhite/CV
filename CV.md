@@ -48,6 +48,11 @@ Publication Impact:
 
 ### Journal Articles
 
+Hampton, S.E., M.B. Jones, L.A. Wasser, M.P. Schildhauer, S.R. Supp, J. Brun,
+R.R. Hernandez, C. Boettiger, S.L. Collins, L.J. Gross, D.S. Fernández,
+A. Budden, E.P. White, T.K. Teal, S. Labou, and J.E. Aukema. In press. Skills
+and knowledge for data-intensive environmental research. Bioscience.
+
 Baldridge, E.\*, D.J. Harris<sup>+</sup>, X. Xiao\*, and E.P. White. 2016. An
 extensive comparison of species-abundance distribution models. PeerJ 4:e2823
 [https://doi.org/10.7717/peerj.2823](https://doi.org/10.7717/peerj.2823)
@@ -381,6 +386,13 @@ Sunderland, MA.
 
 ### Other publications
 
+Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
+M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
+J.T. Randerson, E.Read, A.Tredennick, K.C. Weathers, E. P. White.  2017.
+Iterative ecological forecasting: Needs, opportunities, and challenges. NEON
+Workshop
+Report. [https://doi.org/10.6084/m9.figshare.4715317](https://doi.org/10.6084/m9.figshare.4715317)
+
 White E.P. 2016. Data Management Plan for Moore Investigator in Data Driven
 Discovery Grant. Research Ideas and Outcomes 2:
 e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10708)
@@ -583,6 +595,9 @@ and Synthesis Working Group. 2001. Organizers: R.Waide, S. Andelman,
 M.R. Willig.
 
 ## Interviews
+
+"Scientific computing: Code alert" by Monya
+Baker. Nature. January 2017. [https://doi.org/10.1038/nj7638-563a](https://doi.org10.1038/nj7638-563a)
 
 "Beyond the Lab: Ethan White, Ph.D." by Aditi Risbud. Gordon and Betty Moore
 Foundation. April
