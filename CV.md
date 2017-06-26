@@ -400,6 +400,62 @@ Discovery Grant. Research Ideas and Outcomes 2:
 e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10708)
 
 
+### Publications by lab members
+
+Members of my lab are encouraged to lead and participate in projects on which I
+am not an author. This is a list of this work done at least in part while the
+scientists were members of my group. Lab members' names are in **bold**.
+
+**Marconi, S.**; Chiti, T.; Nole, A.; Valentini, R.; Collalti, A. The Role of
+Respiration in Estimation of Net Carbon Cycle: Coupling Soil Carbon Dynamics and
+Canopy Turnover in a Novel Version of 3D-CMCC Forest Ecosystem Model. Preprints
+2017, 2017030141 (doi: 10.20944/preprints201703.0141.v3).
+
+Meiners, J.M. T.L. Griswold, **D.J. Harris**, S.K. Morgan Ernest. 2017 Bees
+without Flowers: Before Peak Bloom, Diverse Native Bees Find Insect-Produced
+Honeydew Sugars," The American Naturalist.
+
+Harris, S.J., **Harris, D.J.** and Li, C., 2017. Failure statistics for commercial
+lithium ion batteries: A study of 24 pouch cells. Journal of Power Sources, 342,
+pp.589-597.
+
+**Harris, D.J.**, 2016. Inferring species interactions from co‐occurrence data
+with Markov networks. Ecology, 97(12), pp.3308-3314.
+
+Cornwell, W.K., Westoby, M., Falster, D.S., FitzJohn, R.G., O'Meara, B.C.,
+Pennell, M.W., **McGlinn, D.J.**, Eastman, J.M., Moles, A.T., Reich, P.B. and
+Tank, D.C., 2014. Functional distinctiveness of major plant lineages. Journal of
+Ecology, 102(2), pp.345-356.
+
+**McGlinn, D.J.** and Palmer, M.W., 2014. Examining the foundations of
+heterogeneity-based management for promoting plant diversity in a
+disturbance-prone ecosystem (No. e200v1). PeerJ PrePrints.
+
+Zanne, A.E., Tank, D.C., Cornwell, W.K., Eastman, J.M., Smith, S.A., FitzJohn,
+R.G., **McGlinn, D.J.**, O’Meara, B.C., Moles, A.T., Reich, P.B. and Royer,
+D.L., 2014. Three keys to the radiation of angiosperms into freezing
+environments. Nature, 506(7486), pp.89-92.
+
+**Xiao, X.**, and G. F. Fussmann. 2013. Armstrong-McGehee mechanism revisited:
+competitive exclusion and coexistence of nonlinear consumers. Journal of
+Theoretical Biology 339: 26-35.
+
+**Locey, K.J.** and **McGlinn, D.J.**, 2013. Efficient algorithms for sampling
+feasible sets of macroecological patterns. PeerJ PrePrints, 1, p.e78v1.
+
+Stabler, L.B., Johnson, W.L., **Locey, K.J.** and Stone, P.A., 2012. A
+comparison of Mediterranean Gecko (Hemidactylus turcicus) populations in two
+temperate zone urban habitats. Urban Ecosystems, 15(3), pp.653-666.
+
+Stone, P.A., Stone, M.E., Stanila, B.D. and **Locey, K.J.** 2011. Terrestrial
+flight response: a new context for terrestrial activity in Sonoran mud
+turtles. The American Midland Naturalist, 165(1), pp.128-136.
+
+**Locey, K.J.**, 2010. Synthesizing traditional biogeography with microbial
+ecology: the importance of dormancy. Journal of biogeography, 37(10),
+pp.1835-1841.
+
+
 ## Grants and Contracts
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
