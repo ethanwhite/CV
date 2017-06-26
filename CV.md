@@ -514,6 +514,24 @@ of public ecological datasets. By B.D. Morris and
 E.P. White. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
 
 ## Open Educational Resources
+
+### University Courses
+
+Zack Brym (author), David J. Harris (author), Andrew Marx (contributor), Greg
+Wilson, (contributor) and Ethan P. White (author). 2016. Data Carpentry for
+Biologists. Zenodo. http://doi.org/10.5281/zenodo.209511
+[[Website](http://www.datacarpentry.org/semester-biology/),
+[GitHub Repository](https://github.com/datacarpentry/semester-biology)]
+
+Ernest, S.K.M. and E.P. White. 2016. Ecological Dynamics and
+Forecasting. [[Website](https://weecology.github.io/forecasting-dynamics-course/),
+[GitHub Repository](https://github.com/weecology/forecasting-dynamics-course)]
+
+White, E.P. 2012. Programming for
+Biologists. [[Website](https://weecology.github.io/forecasting-dynamics-course/),
+[GitHub Repository](https://weecology.github.io/forecasting-dynamics-course/)]
+
+
 ### Workshop Lessons
 
 Teal, T., E. Becker, G. Wilson, A. Pawlik, R. Silva, L. Gatto, F. Michonneau,
