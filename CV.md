@@ -513,6 +513,78 @@ Morris, B.D. and E.P. White. 2013-present. EcoData Retriever: tool for easy acqu
 of public ecological datasets. By B.D. Morris and
 E.P. White. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
 
+## Open Educational Resources
+### Workshop Lessons
+
+Teal, T., E. Becker, G. Wilson, A. Pawlik, R. Silva, L. Gatto, F. Michonneau,
+J. Steyn, A. Cabunoc, C. Bahlai, H. Lapp, E. White, K.L. Jordan,
+B. Marwick; Sebastian; leonorgg; Rémi Emonet; Piotr Banaszkiewicz; Angel
+Corpuz; Rudi Brauning; Amy Nurnberger; Anelda van der Walt; Casey Bergman;
+Harriet Dashnow; James Allen; Jon Pipitone; Karthik Ram; Maxim Belkin; Michael
+Hansen; Moritz Neeb; Nick Young; Zack Brym; evanwill; Alexander Konovalov; Bill
+Mills; Carlos Martinez; Dave Beck; Francisco Rodriguez-Sanchez; Gabriel
+A. Devenyi; Ian Carroll; Jaclyn Saunders; Jeffrey W. Hollister; Jonah Duckles;
+Kara Woo; Martin Dreyer; Timothée Poisot; W. Trevor King; rcarns. (2017,
+April). Data Carpentry Spreadsheet Ecology Lesson
+v2017.04.0. Zenodo. http://doi.org/10.5281/zenodo.570047
+
+Francois Michonneau; Tracy Teal; Adam Obeng; Aleksandra Pawlik; Mateusz Kuzak;
+Edmund Hart; Kara Woo; Ethan White; Philip Lijnzaad; Hilmar Lapp; Karthik Ram;
+Ben Marwick; Kari L. Jordan; Matthias Grenié; Auriel Fournier; Harriet Dashnow;
+Kate Hertweck; Mark Robinson; ashander; Alexey Shiklomanov; K. A. S. Mislan;
+Steve Pederson; Alex Pletzer; Anne Fouilloux; C. Titus Brown; Christie Bahlai;
+Francisco Rodriguez-Sanchez; Jaime Ashander; Lisa Breckels; Markus J. Akenbrand;
+Meghan Duffy; Shawn Taylor; Stephanie Labou; Thomas Sandmann; Zena Lapp; Achaz
+von Hardenberg; Carolyn Voter; Catherine Hulshof; Clara Shaw; Daina Bouquin;
+Daniel Stubbs; Darya Vanichkina; Dmytro Fishman; Earle Wilson; Eilis Hannon;
+Elena Sügis; Eli Strauss; Emilia Gan; Erin Becker; Fred Boehm; Hao Ye; Jarrett
+Byrnes; Jeffrey W Hollister; Jieming Chen; Jillian Dunic; Jonathan Keane; Joseph
+Stachelek; Josh Herr; Karen Cranston; Kathe Todd-Brown; Katie Lotterhos; Kayla
+Peck; Kenan Direk; Kevin Hall; Kristian Tylén; Kyriakos Chatzidimitriou; Lachlan
+Deer; Laurent Gatto; Leah Wasser; Leszek Tarkowski; M. Foos; Marco Chiapello;
+Matthias Grenié; Michael Koontz; Myfanwy Johnston; Nicholas Marino; Nick
+Carchedi; Olivia Burge; Philip Lijnzaad; Ryan Peek; Sarah Supp; Tara Webster;
+Will Furnass; Will Pearse; Ye Li; sfn_brt; suparee. (2017, April). Data
+Carpentry R Ecology Lesson
+v2017.04.3. Zenodo. http://doi.org/10.5281/zenodo.569875
+
+Greg Wilson; April M. Wright; John Gosset; Leah Wasser; Francois Michonneau;
+Raniere Silva; Tom Morrell; Abigail Cabunoc; Tracy Teal; Mateusz Kuzak; Ethan
+White; Thomas Morrell; Carol Willing; Hilmar Lapp; Kari L. Jordan; Mariela
+Perignon; C. Titus Brown; Thomas Ballinger; stijnvanhoey; Cheng H. Lee; Rémi
+Emonet; Stefano Menegon; Bennet Fauber; Carlos M Ortiz-Marrero; Erin Becker;
+Piotr Banaszkiewicz; Aaron Reba; Christian Barra; Karen Cranston; Klemens Noga;
+Leszek Tarkowski; Nicky Nicolson; Oliver Stueker; Tania Allard; Łukasz Zosiak;
+Andreas Mueller; Cam Macdonell; Chris Holden; Christie Bahlai; Hugo
+Bowne-Anderson; Iain Emsley; James Allen; Jeremy D Zucker; Jon Pipitone; Michael
+Connell; Michael Hansen; Shawn Taylor; dcwalk; evanwill; ladykiyenz; snamburi3;
+tomhohenstein; Asher Baltzell; Bill Mills; Chris Geroux; Deborah Digges; Gabriel
+A. Devenyi; Jarmo Kivekas; Jason Sigal; Jonah Duckles; Ming Tang; Muratahan
+Aykol; Nichole Bennett; Sean RG Barberie; Timothée Poisot; Xu Fei; jnandez;
+katabat; rsynnest; tvoigt (2017). Data Carpentry Python Ecology lesson
+v2017.04.0 [Data set]. Zenodo. http://doi.org/10.5281/zenodo.570050
+
+Greg Wilson; Raniere Silva; Ethan White; Timothée Poisot; Tracy Teal; Francois
+Michonneau; Abigail Cabunoc; Aleksandra Pawlik; Hilmar Lapp; Jaime Ashander;
+Paula Andrea; Erin Becker; Christina Koch; Carlos Martinez; Karen Cranston; Kari
+L. Jordan; Dave Jones; Michel Heeremans; Nicky Nicolson; Rémi Emonet; Byron
+Smith; Casey Youngflesh; Fanie Riekert; Piotr Banaszkiewicz; Jin; Josh Herr;
+Auriel Fournier; Christie Bahlai; James Allen; Jon Pipitone; Karthik Ram;
+Maneesha Sane; Maxim Belkin; Michael Hansen; Nick Young; evanwill; Akima George;
+Andrew Scheller; Bill Mills; Christopher Medrela; Gabriel A. Devenyi; Geoffrey
+Boushey; Ian Carroll; Jethro Johnson; Jonah Duckles; Kevin Foobar; Laurent
+Gatto; Moritz Neeb; Saira Kazmi; Sebastian Schmeier; Sophie Clayton; Sumana
+Harihareswara; W. Trevor King; Will Furnass; Xu Fei; ashander (2017,
+April). Data Carpentry SQL Ecology lesson
+v2017.04.0. Zenodo. http://doi.org/10.5281/zenodo.570049
+
+Greg Wilson; Raniere Silva; Francois Michonneau; Abigail Cabunoc; Tracy Teal;
+Erin Becker; Rémi Emonet; Piotr Banaszkiewicz; Ethan White; James Allen; Jon
+Pipitone; Karen Cranston; Maxim Belkin; Michael Hansen; Nick Young; evanwill;
+Adam Obeng; Bill Mills; Gabriel A. Devenyi; Ian Carroll; Jeffrey W. Hollister;
+Jonah Duckles; Timothée Poisot; W. Trevor King (2017, April). Data Carpentry
+Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
+
 ## Invited Seminars
 
 Talk Impact:
