@@ -590,9 +590,13 @@ Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 Talk Impact:
 [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
 
+"Data-intensive approaches to ecological research". University of Florida
+Collaborations in Biodiversity Research Symposium. May
+8th, 2017. [[Slides](https://doi.org/10.6084/m9.figshare.4981865)]
+
 "Hot Climate Small Animals? A Data Package Manager & Juggling". Moore
 Investigators Symposium. October 27th, 2016. New York
-University. [[Slides]](https://doi.org/10.6084/m9.figshare.4105005)
+University. [[Slides](https://doi.org/10.6084/m9.figshare.4105005)]
 
 "Data-intensive forecasting of ecological systems". University of
 Wyoming 2015/2016 Botany Distinguished Speaker. May 5th, 2016. University of
@@ -666,6 +670,10 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
 
+"NEON: Looking Back, Looking Forward Panel". University of Florida
+Collaborations in Biodiversity Research Symposium. May 8th, 2017. Organizers:
+John Davis and Pamela Soltis.
+
 "Wildlife Graduate Student Association Science Communication
 Workshop". University of Florida. 2016. Organizer: Arjun Srivathsa.
 
@@ -725,6 +733,10 @@ and Synthesis Working Group. 2001. Organizers: R.Waide, S. Andelman,
 M.R. Willig.
 
 ## Interviews
+
+"Frictionless Data Case Studies: The Data Retriever, An Interview with Ethan
+White" by Daniel Fowler. May
+24, 2017. [http://frictionlessdata.io/case-studies/data-retriever/](http://frictionlessdata.io/case-studies/data-retriever/)
 
 "Scientific computing: Code alert" by Monya
 Baker. Nature. January 2017. [https://doi.org/10.1038/nj7638-563a](https://doi.org10.1038/nj7638-563a)
