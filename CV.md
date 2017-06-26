@@ -874,6 +874,8 @@ Sergio Marconi (PhD; 2015-present)
 
 Shawn Taylor (PhD; 2015-present)
 
+  * NSF Graduate Research Fellowship Honorable Mention
+
 ### Undergraduate Researchers
 
 Mikaelle Giffen (2008-2009)
@@ -897,20 +899,22 @@ Ben Morris (2010-2012)
 Kari Norman (2014-2016)
 
   * Utah State Honors Thesis
-  * After graduating: PhD student at UC Berkeley
+  * After graduating: PhD student at UC Berkeley; awarded an NSF Graduate
+    Research Fellowship and a DOE Computer Science Graduate Fellowship
   * Currently: PhD student at UC Berkeley
 
 Akash Goel (2016)
 
   * Google Summer of Code student
   * After graduating: Software developer at Amazon.
-  * Currently: After graduating: Software developer at Amazon
+  * Currently: Software developer at Amazon
 
 
 ### Graduate Student Committees
 
 Lauren Gonzalez (PhD), Philippe Desjardins-Proulx (PhD), Erica Christensen
-(PhD), Martin Schilling (PhD), Zachary Brym (PhD), Jonathan Cardwell (PhD), Amy
+(PhD), Martin Schilling (PhD, Utah State University), Zachary Brym (PhD, 2016,
+Utah State University), Jonathan Cardwell (PhD), Amy
 Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013,
 Utah State University), Lori Neuman-Lee (PhD), Daniel Olson (PhD), Gregory Vogel
 (PhD), Glenda Yenni (PhD, 2013, Utah State University), Chris Feldman (PhD,
