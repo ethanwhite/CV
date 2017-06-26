@@ -773,6 +773,11 @@ Van Noorden. Nature. September
 National Science Foundation Panelist (2009, 2012)  
 Review of grant applications for NSF (United States), NSERC (Canada), NRF (South Africa), rOpenSci
 
+## Conference Reviewing
+
+2017 International Workshop on Software Engineering for High Performance
+Computing in Computational and Data-Enabled Science and Engineering, Program Committee
+
 ### Board Memberships & Affiliations
 Data Carpentry, Steering Committee (2015-present)  
 Impactstory, Board of Directors (2014-present)  
