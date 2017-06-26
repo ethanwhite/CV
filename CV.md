@@ -50,8 +50,10 @@ Publication Impact:
 
 Hampton, S.E., M.B. Jones, L.A. Wasser, M.P. Schildhauer, S.R. Supp, J. Brun,
 R.R. Hernandez, C. Boettiger, S.L. Collins, L.J. Gross, D.S. Fernández,
-A. Budden, E.P. White, T.K. Teal, S. Labou, and J.E. Aukema. In press. Skills
-and knowledge for data-intensive environmental research. Bioscience.
+A. Budden, E.P. White, T.K. Teal, S. Labou, and J.E. Aukema. 2017. Skills and
+knowledge for data-intensive environmental research. Bioscience
+67:546-557
+[https://doi.org/10.1093/biosci/bix025](https://doi.org/10.1093/biosci/bix025) [**OA**]
 
 Baldridge, E.\*, D.J. Harris<sup>+</sup>, X. Xiao\*, and E.P. White. 2016. An
 extensive comparison of species-abundance distribution models. PeerJ 4:e2823
