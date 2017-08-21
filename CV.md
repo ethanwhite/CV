@@ -84,7 +84,7 @@ Naturalist 186:E51-E60. [http://dx.doi.org/10.1086/682050](http://dx.doi.org/10.
 
 White, E.P. 2015. Some thoughts on best publishing practices for scientific
 software. Ideas in Ecology and Evolution 8:55-57.
-[http://dx.doi.org/10.4033/iee.2015.8.9.c](http://dx.doi.org/10.4033/iee.2015.8.9.c)
+[http://dx.doi.org/10.4033/iee.2015.8.9.c](https://ojs.library.queensu.ca/index.php/IEE/article/view/5745/5464)
 [**OA**]
 
 McGlinn, D.J.<sup>+</sup>, X. Xiao.\*, J. Kitzes and E.P. White. 2015. Exploring
@@ -461,6 +461,10 @@ pp.1835-1841.
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
+National Institute of Standards and Technology (NIST). Data Science Evaluation
+for Tree Identification using NEON. PIs: Z. Wang, E.P. White,
+S. Bohlman. 2017-2018.
+
 National Institute of Standards and Technology (NIST). Data Science for
 Multimodal Plant Identification Task. PIs: Z. Wang and E.P. White. Co PIs:
 S. Bohlman and P. Grader. 2016-2017.
@@ -687,6 +691,9 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
+
+"Terrestrial Sampling Working Group". National Ecological Observatory
+Network. Summer-Fall 2017. Organizers: Katherine Thibault and James Clark.
 
 "NEON: Looking Back, Looking Forward Panel". University of Florida
 Collaborations in Biodiversity Research Symposium. May 8th, 2017. Organizers:
