@@ -129,9 +129,8 @@ Letters. 16:1177-1185. [http://doi.org/10.1111/ele.12154](http://doi.org/10.1111
 White, E.P., E. Baldridge\*, Z.T. Brym\*, K.J. Locey\*,
 D.J. McGlinn<sup>+</sup>, S.R. Supp\*. 2013. Nine simple ways to make it easier
 to (re)use your data. Ideas in Ecology and Evolution
-6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://doi.org/10.4033/iee.2013.6b.6.f)
-[**OA**, [Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick
-2014*]
+6(2):1-10. [http://doi.org/10.4033/iee.2013.6b.6.f](http://ojs.library.queensu.ca/index.php/IEE/article/view/4608/4898) [**OA**,
+[Preprint](http://doi.org/10.7287/peerj.preprints.7), *PeerJ Pick 2014*]
 
 Desjardins-Proulx P., E.P. White, J.J. Adamson, K. Ram, T. Poisot, and
 D. Gravel. 2013. The case for open preprints in biology. PLOS Biology
