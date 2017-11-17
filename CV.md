@@ -621,6 +621,9 @@ Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 Talk Impact:
 [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
 
+"Data-intensive ecology". Computational Optical Remote Sensing of the
+Environment Summit. University of Florida. September 6th, 2017.
+
 "Data-intensive approaches to ecological research". University of Florida
 Collaborations in Biodiversity Research Symposium. May
 8th, 2017. [[Slides](https://doi.org/10.6084/m9.figshare.4981865)]
