@@ -48,6 +48,16 @@ Publication Impact:
 
 ### Journal Articles
 
+Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha,
+S. Negi, D.J. Harris, D.G. Digges, K. Kumar, A. Jain,
+K. Pal, K. Amipara, and E.P. White. 2017. Retriever: Data Retrieval
+Tool. Journal of Open Source Software
+2:451 [https://doi.org/10.21105/joss.00451](https://doi.org/10.21105/joss.00451)
+[**OA**,
+[Code](https://github.com/weecology/retriever),
+[Code Archive](https://zenodo.org/record/1038272)],
+[Website](https://www.data-retriever.org/)].
+
 Hampton, S.E., M.B. Jones, L.A. Wasser, M.P. Schildhauer, S.R. Supp, J. Brun,
 R.R. Hernandez, C. Boettiger, S.L. Collins, L.J. Gross, D.S. Fernández,
 A. Budden, E.P. White, T.K. Teal, S. Labou, and J.E. Aukema. 2017. Skills and
