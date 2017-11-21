@@ -48,6 +48,12 @@ Publication Impact:
 
 ### Journal Articles
 
+Riemer, K., R.P. Guralnick, and E.P.White. In press. No general relationship
+between mass and temperature in endothermic
+species. eLife. [**OA**,
+[Code](https://github.com/KristinaRiemer/MassResponseToTemp),
+[Preprint](https://doi.org/10.1101/113753)]
+
 Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha,
 S. Negi, D.J. Harris, D.G. Digges, K. Kumar, A. Jain,
 K. Pal, K. Amipara, and E.P. White. 2017. Retriever: Data Retrieval
