@@ -48,6 +48,10 @@ Publication Impact:
 
 ### Journal Articles
 
+Dornelas, M., L.H. Antao, F. Moyes, A.E. Bates, A.E. Magurran... E.P. White et
+al. In press. BioTIME: a database of biodiversity time series for the
+anthropocene. Global Ecology and Biogeography.
+
 Riemer, K., R.P. Guralnick, and E.P.White. In press. No general relationship
 between mass and temperature in endothermic
 species. eLife. [**OA**,
