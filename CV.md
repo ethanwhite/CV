@@ -912,7 +912,7 @@ Xiao Xiao (PhD; 2008-2014)
 
   * Utah State University Diversity Fellow
   * After graduating: Postdoctoral research at University of Maine
-  * Currently: [Postdoctoral research at University of Maine]()
+  * Currently: [Senior Data Scientist at Intuit](https://www.linkedin.com/in/xiao-xiao-63620460/)
 
 Elita Baldridge (PhD; 2010-2015)
 
