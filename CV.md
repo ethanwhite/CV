@@ -889,12 +889,12 @@ Software Carpentry, Utah State University, April 2012
 Katherine Thibault (2008-2011)
 
   * After finishing: Vertebrate Ecologist at National Ecological Observatory Network
-  * Currently: Senior Staff Scientist at National Ecological Observatory Network
+  * Currently: [Senior Staff Scientist at National Ecological Observatory Network](http://www.neonscience.org/observatory/staff/kate-thibault)
 
 Daniel McGlinn (2011-2014)
 
   * After finishing: Assistant Professor at the College of Charleston
-  * Currently: Assistant Professor at the College of Charleston
+  * Currently: [Assistant Professor at the College of Charleston](http://biology.cofc.edu/about-the-department/faculty-staff-listing/mcglinn-daniel.php)
 
 David Harris (2015-present)
 
