@@ -808,13 +808,14 @@ Review of grant applications for NSF (United States), NSERC (Canada), NRF (South
 Computing in Computational and Data-Enabled Science and Engineering, Program Committee
 
 ### Board Memberships & Affiliations
-Data Carpentry, Steering Committee (2015-present)  
+The Carpentries, Executive Council (2018-present)  
 Impactstory, Board of Directors (2014-present)  
 Public Library of Science, Data Guidelines Board (2015-present)  
-University of Florida Biodiversity Institute, Advisory Board (2015-present)  
 University of Florida Informatics & Analytics Task Force (2017-present)  
-Software Carpentry Foundation, Advisory Council (2015-present)  
+University of Florida Biodiversity Institute, Advisory Board (2015-present)  
+Software Carpentry Foundation, Advisory Council (2015-2017)  
 Hypothesis, User Advisory Team (2015-present)  
+Data Carpentry, Steering Committee (2015-2017)  
 Data Carpentry, Board of Directors (2014-2015)  
 Software Carpentry, Advisory Board (2012-2014)
 
