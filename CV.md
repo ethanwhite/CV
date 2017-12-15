@@ -404,6 +404,12 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Harris, D.J., S. Taylor, E.P. White. Forecasting biodiversity in breeding birds
+using best practices. PeerJ. Preprint: https://doi.org/10.1101/191130
+
+Snell, S., B. Evans, E.P. White, A.H. Hurlbert. The prevalence and impact of
+transient species in ecological communities. Ecology. Preprint:
+https://doi.org/10.1101/163816
 
 ### Other publications
 
