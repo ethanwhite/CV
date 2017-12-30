@@ -48,6 +48,19 @@ Publication Impact:
 
 ### Journal Articles
 
+Harris, D.J., S. Taylor and E.P. White. In press. Forecasting biodiversity in
+breeding birds using best
+practices. PeerJ. [**OA**,
+[Code](https://github.com/weecology/bbs-forecasting/),
+[Code Archive](https://doi.org/10.5281/zenodo.888988),
+[Preprint](https://doi.org/10.1101/191130)]
+
+Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
+M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
+J.T. Randerson, E.Read, A.Tredennick, K.C. Weathers and E. P. White. In press.
+Iterative ecological forecasting: Needs, opportunities, and
+challenges. Proceedings of the National Academy of Sciences.
+
 Dornelas, M., L.H. Antao, F. Moyes, A.E. Bates, A.E. Magurran... E.P. White et
 al. In press. BioTIME: a database of biodiversity time series for the
 anthropocene. Global Ecology and Biogeography.
@@ -403,9 +416,6 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Harris, D.J., S. Taylor, E.P. White. Forecasting biodiversity in breeding birds
-using best practices. PeerJ. Preprint: https://doi.org/10.1101/191130
 
 Snell, S., B. Evans, E.P. White, A.H. Hurlbert. The prevalence and impact of
 transient species in ecological communities. Ecology. Preprint:
@@ -787,6 +797,9 @@ M.R. Willig.
 
 ## Interviews
 
+"Collaborative software development made easy" by Andrew Silver. October
+4, 2017. [https://doi.org/10.1038/550143a](https://doi.org/10.1038/550143a)
+
 "Frictionless Data Case Studies: The Data Retriever, An Interview with Ethan
 White" by Daniel Fowler. May
 24, 2017. [http://frictionlessdata.io/case-studies/data-retriever/](http://frictionlessdata.io/case-studies/data-retriever/)
@@ -999,6 +1012,18 @@ Amazon.
 
 Talk Impact: [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+White, E.P. 2017. Data-intensive approaches to forecasting biodiversity. 101st
+Annual Meeting of the Ecological Society of America. Portland,
+OR. [[Slides](https://doi.org/10.6084/m9.figshare.5285755.v1), *Invited*]
+
+*Riemer, K., R.P. Guralnick, and E.P. White. 2017. No general relationship
+between mass and temperature in endotherm species. 101st Annual Meeting of the
+Ecological Society of America. Portland, OR.
+
+Hurlbert, A.H., S.J. Snell, and E.P. White. 2017. Transient species are common:
+Implications for ecological inference. 101st Annual Meeting of the
+Ecological Society of America. Portland, OR.
 
 *Taylor, S., and E.P. White. 2016. Ecological forecasting and scale. Gordon
 Research Conference on Unifying Ecology Across Scale.
