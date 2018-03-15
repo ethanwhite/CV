@@ -441,6 +441,22 @@ Members of my lab are encouraged to lead and participate in projects on which I
 am not an author. This is a list of this work done at least in part while the
 scientists were members of my group. Lab members' names are in **bold**.
 
+Christensen, E., Harris, D. and Ernest, M., 2017. Repeated regime shifts in a
+desert rodent community. bioRxiv, p.163931. https://doi.org/10.1101/163931
+
+Riemer, K., Anderson-Teixeira, K.J., Smith, F.A., Harris, D.J. and Ernest,
+S.M., 2017. Body Size Shifts Influence Effects Of Increasing Temperatures On
+Ectotherm Metabolism. bioRxiv, p.139279. https://doi.org/10.1101/139279
+
+Ching, T., Himmelstein, D.S., Beaulieu-Jones, B.K., Kalinin, A.A., Do, B.T.,
+Way, G.P., Ferrero, E., Agapow, P.M., Xie, W., Rosen, G.L. and Lengerich,
+B.J., ... **Harris D.J.**... and Greene, C.S. 2017. Opportunities And Obstacles
+For Deep Learning In Biology And Medicine. bioRxiv, p.142760. https://doi.org/10.1101/142760
+
+Blonder, B., Morrow, C.B., Maitner, B., **Harris, D.J.**, Lamanna, C., Violle,
+C., Enquist, B.J. and Kerkhoff, A.J., 2017. New approaches for delineating
+n‐dimensional hypervolumes. Methods in Ecology and Evolution. https://doi.org/10.1111/2041-210X.12865
+
 **Marconi, S.**; Chiti, T.; Nole, A.; Valentini, R.; Collalti, A. The Role of
 Respiration in Estimation of Net Carbon Cycle: Coupling Soil Carbon Dynamics and
 Canopy Turnover in a Novel Version of 3D-CMCC Forest Ecosystem Model. Preprints
