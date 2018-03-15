@@ -937,6 +937,19 @@ David Harris (2015-present)
 
   * Moore Data Fellow
 
+Jessica Coyle (2016)
+
+  * After finishing: Lecturer at Stanford University
+  * Currently: Assistant Professor at Saint Mary's College
+
+Hao Ye (2017-present)
+
+  * Moore Data Fellow
+
+Ben Weinstein (2018-present)
+
+  * Moore Data Fellow
+
 ### Graduate Students
 
 Kenneth Locey (PhD; 2008-2013)
@@ -999,6 +1012,10 @@ Akash Goel (2016)
   * Google Summer of Code student
   * After graduating: Software developer at Amazon.
   * Currently: Software developer at Amazon
+  
+Shivam Negi (2017)
+
+  * Google Summer of Code student
 
 
 ### Graduate Student Committees
