@@ -888,6 +888,7 @@ Staff search committee (member), Utah State University (2011)
 ### Courses Taught
 
 Data Carpentry for Biologists (2015-present)  
+Ecological Dynamics and Forecasting (2016-present)  
 Advanced Programming and Database Management for Biologists (2011-2014)  
 Introduction to Programming and Database Management for Biologists (2010-2014)  
 Maximum Entropy in Ecology (2011)  
