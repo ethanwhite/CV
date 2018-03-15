@@ -47,27 +47,31 @@ Publication Impact:
 
 ### Journal Articles
 
-Harris, D.J., S. Taylor and E.P. White. In press. Forecasting biodiversity in
-breeding birds using best
-practices. PeerJ. [**OA**,
-[Code](https://github.com/weecology/bbs-forecasting/),
-[Code Archive](https://doi.org/10.5281/zenodo.888988),
-[Preprint](https://doi.org/10.1101/191130)]
-
-Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
-M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
-J.T. Randerson, E.Read, A.Tredennick, K.C. Weathers and E. P. White. In press.
-Iterative ecological forecasting: Needs, opportunities, and
-challenges. Proceedings of the National Academy of Sciences.
-
 Dornelas, M., L.H. Antao, F. Moyes, A.E. Bates, A.E. Magurran... E.P. White et
 al. In press. BioTIME: a database of biodiversity time series for the
 anthropocene. Global Ecology and Biogeography.
 
-Riemer, K., R.P. Guralnick, and E.P.White. In press. No general relationship
-between mass and temperature in endothermic
-species. eLife. [**OA**,
+Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
+M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
+J.T. Randerson, E.Read, A.Tredennick, K.C. Weathers and E. P. White. 2018.
+Iterative ecological forecasting: Needs, opportunities, and
+challenges. Proceedings of the National Academy of
+Sciences. [https://doi.org/10.1073/pnas.1710231115](https://doi.org/10.1073/pnas.1710231115)
+
+Harris, D.J., S. Taylor and E.P. White. 2018. Forecasting biodiversity in
+breeding birds using best practices. PeerJ
+6:e4278
+[https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278) [**OA**,
+[Code](https://github.com/weecology/bbs-forecasting/),
+[Code Archive](https://doi.org/10.5281/zenodo.888988),
+[Preprint](https://doi.org/10.1101/191130)]
+
+Riemer, K., R.P. Guralnick, and E.P.White. 2018. No general relationship between
+mass and temperature in endothermic species. eLife
+7:e27166
+[https://doi.org/10.7554/eLife.27166.001](https://doi.org/10.7554/eLife.27166.001) [**OA**,
 [Code](https://github.com/KristinaRiemer/MassResponseToTemp),
+[Code Archive](https://zenodo.org/badge/latestdoi/17957630),
 [Preprint](https://doi.org/10.1101/113753)]
 
 Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha,
