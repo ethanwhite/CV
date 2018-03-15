@@ -553,7 +553,16 @@ workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
 
 ## Software
 
-Software Impact: [Impact Story](https://impactstory.org/ethanwhite/products/software-products)
+Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha, S. Negi,
+D.J. Harris, D.G. Digges, K. Kumar, A. Jain, K. Pal, K. Amipara, and
+E.P. White. 2013-present. Data Retriever: tool for easy acquisition of public
+datasets. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
+
+McGlinn, D., H. Senyondo, S.D. Taylor, M. Pohlman, and
+E.P. White. 2015-present. rdataretriever: R Interface to the Data Retriever. https://cran.r-project.org/web/packages/rdataretriever/index.html
+
+Negi, S., H. Senyondo, and E.P. White. 2017-present. Retriever.jl: Julia
+Interface to the Data Retriever. https://github.com/weecology/Retriever.jl
 
 X. Xiao, K.M. Thibault, D.J. Harris, E. Baldridge, and
 E.P. White. 2016-present. macroecotools:
@@ -563,11 +572,6 @@ White, E.P., K.M. Thibault, X. Xiao, D.J. McGlinn and
 S. Supp. 2014-present. METE - Software for Analyzing the Maximum Entropy Theory
 of Ecology. figshare.  https://dx.doi.org/10.6084/m9.figshare.815905.v4
 [[GitHub](https://github.com/weecology/METE)]
-
-Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha, S. Negi,
-D.J. Harris, D.G. Digges, K. Kumar, A. Jain, K. Pal, K. Amipara, and
-E.P. White. 2013-present. Data Retriever: tool for easy acquisition of public
-datasets. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
 
 ## Open Educational Resources
 
