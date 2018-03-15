@@ -58,7 +58,7 @@ Iterative ecological forecasting: Needs, opportunities, and
 challenges. Proceedings of the National Academy of
 Sciences. [https://doi.org/10.1073/pnas.1710231115](https://doi.org/10.1073/pnas.1710231115)
 
-Harris, D.J., S. Taylor and E.P. White. 2018. Forecasting biodiversity in
+Harris, D.J.<sup>+</sup>, S. Taylor\* and E.P. White. 2018. Forecasting biodiversity in
 breeding birds using best practices. PeerJ
 6:e4278
 [https://doi.org/10.7717/peerj.4278](https://doi.org/10.7717/peerj.4278) [**OA**,
@@ -66,7 +66,7 @@ breeding birds using best practices. PeerJ
 [Code Archive](https://doi.org/10.5281/zenodo.888988),
 [Preprint](https://doi.org/10.1101/191130)]
 
-Riemer, K., R.P. Guralnick, and E.P.White. 2018. No general relationship between
+Riemer, K.\*, R.P. Guralnick, and E.P.White. 2018. No general relationship between
 mass and temperature in endothermic species. eLife
 7:e27166
 [https://doi.org/10.7554/eLife.27166.001](https://doi.org/10.7554/eLife.27166.001) [**OA**,
@@ -74,8 +74,8 @@ mass and temperature in endothermic species. eLife
 [Code Archive](https://zenodo.org/badge/latestdoi/17957630),
 [Preprint](https://doi.org/10.1101/113753)]
 
-Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha,
-S. Negi, D.J. Harris, D.G. Digges, K. Kumar, A. Jain,
+Senyondo, H., B.D. Morris, A. Goel\*, A. Zhang\*, A. Narasimha,
+S. Negi\*, D.J. Harris, D.G. Digges, K. Kumar, A. Jain,
 K. Pal, K. Amipara, and E.P. White. 2017. Retriever: Data Retrieval
 Tool. Journal of Open Source Software
 2:451 [https://doi.org/10.21105/joss.00451](https://doi.org/10.21105/joss.00451)
