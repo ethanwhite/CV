@@ -564,9 +564,10 @@ S. Supp. 2014-present. METE - Software for Analyzing the Maximum Entropy Theory
 of Ecology. figshare.  https://dx.doi.org/10.6084/m9.figshare.815905.v4
 [[GitHub](https://github.com/weecology/METE)]
 
-Morris, B.D. and E.P. White. 2013-present. EcoData Retriever: tool for easy acquisition
-of public ecological datasets. By B.D. Morris and
-E.P. White. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
+Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha, S. Negi,
+D.J. Harris, D.G. Digges, K. Kumar, A. Jain, K. Pal, K. Amipara, and
+E.P. White. 2013-present. Data Retriever: tool for easy acquisition of public
+datasets. [https://github.com/weecology/retriever](https://github.com/weecology/retriever)
 
 ## Open Educational Resources
 
