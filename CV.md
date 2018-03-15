@@ -835,7 +835,7 @@ Van Noorden. Nature. September
 ## Professional and Community Service
 
 ### Grant Panels and Reviewing
-National Science Foundation Panelist (2009, 2012)  
+National Science Foundation Panelist
 Review of grant applications for NSF (United States), NSERC (Canada), NRF (South Africa), rOpenSci
 
 ## Conference Reviewing
