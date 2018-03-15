@@ -417,8 +417,13 @@ Sunderland, MA.
 ### Preprints (not yet formally published)
 
 Snell, S., B. Evans, E.P. White, A.H. Hurlbert. The prevalence and impact of
-transient species in ecological communities. Ecology. Preprint:
+transient species in ecological communities. bioRxiv
 https://doi.org/10.1101/163816
+
+White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
+J.L. Simonis, S.K.M. Ernest. 2018. Developing an automated iterative near-term
+forecasting system for an ecological study. bioRxiv
+https://doi.org/10.1101/268623
 
 ### Other publications
 
