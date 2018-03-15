@@ -38,9 +38,8 @@ Phi Beta Kappa 1998
 ## Publications
 
 Publication Impact:
-[Impact Story](https://impactstory.org/ethanwhite/products/articles),
 [Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
-(citations =  2717, h-index = 26)  
+(citations =  4022, h-index = 29)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -665,9 +664,6 @@ Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 
 ## Invited Seminars
 
-Talk Impact:
-[Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)
-
 "Data-intensive ecology". Computational Optical Remote Sensing of the
 Environment Summit. University of Florida. September 6th, 2017.
 
@@ -1049,7 +1045,6 @@ Amazon.
 
 ## Presentations
 
-Talk Impact: [Impact Story](https://impactstory.org/ethanwhite/products/slide-decks)  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 White, E.P. 2017. Data-intensive approaches to forecasting biodiversity. 101st
