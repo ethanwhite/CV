@@ -520,13 +520,13 @@ National Institute of Standards and Technology (NIST). Data Science for
 Multimodal Plant Identification Task. PIs: Z. Wang and E.P. White. Co PIs:
 S. Bohlman and P. Grader. 2016-2017.
 
+National Science Foundation (DEB-1354563). SG: Distinguishing between core and
+transient species: new insights into the determinants of species richness. PIs:
+A.H. Hurlbert and E.P.White. 2014-2018.
+
 University of Florida Creative Campus Catalyst Fund. Turning Scientific Data
 Into Digital SoundScapes. PIs: E.M. Bruna, J.C. Oliverio, and
 E.P. White. 2015-2016.
-
-National Science Foundation (DEB-1354563). SG: Distinguishing between core and
-transient species: new insights into the determinants of species richness. PIs:
-A.H. Hurlbert and E.P.White. 2014-2017.
 
 National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using
 informatics and entropy maximization. PI:
