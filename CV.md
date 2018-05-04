@@ -47,6 +47,10 @@ Publication Impact:
 
 ### Journal Articles
 
+Snell, S., B. Evans, E.P. White, A.H. Hurlbert. In press. The prevalence and impact of
+transient species in ecological
+communities. Ecology. [[Code](https://github.com/hurlbertlab/core-transient), [Preprint](https://doi.org/10.1101/163816)]]
+
 Dornelas, M., L.H. Antao, F. Moyes, A.E. Bates, A.E. Magurran... E.P. White et
 al. In press. BioTIME: a database of biodiversity time series for the
 anthropocene. Global Ecology and Biogeography.
@@ -419,10 +423,6 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Snell, S., B. Evans, E.P. White, A.H. Hurlbert. The prevalence and impact of
-transient species in ecological communities. bioRxiv
-https://doi.org/10.1101/163816
 
 White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
 J.L. Simonis, S.K.M. Ernest. 2018. Developing an automated iterative near-term
