@@ -47,20 +47,25 @@ Publication Impact:
 
 ### Journal Articles
 
-Snell, S., B. Evans, E.P. White, A.H. Hurlbert. In press. The prevalence and impact of
-transient species in ecological
-communities. Ecology. [[Code](https://github.com/hurlbertlab/core-transient), [Preprint](https://doi.org/10.1101/163816)]]
+Snell, S., B. Evans, E.P. White, A.H. Hurlbert. 2018. The prevalence and
+impact of transient species in ecological
+communities. Ecology. https://doi.org/10.1002/ecy.2398
+[[Code](https://github.com/hurlbertlab/core-transient),
+[Preprint](https://doi.org/10.1101/163816)]]
 
 Dornelas, M., L.H. Antao, F. Moyes, A.E. Bates, A.E. Magurran... E.P. White et
-al. In press. BioTIME: a database of biodiversity time series for the
-anthropocene. Global Ecology and Biogeography.
+al. 2018. BioTIME: a database of biodiversity time series for the
+anthropocene. Global Ecology and Biogeography
+27:760 - 786. [https://doi.org/10.1111/geb.12729](https://doi.org/10.1111/geb.12729)
+[**OA**, [Website](http://biotime.st-andrews.ac.uk/),
+[Data](https://doi.org/10.5281/zenodo.1095627)]
 
 Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
 M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
 J.T. Randerson, E.Read, A.Tredennick, K.C. Weathers and E. P. White. 2018.
 Iterative ecological forecasting: Needs, opportunities, and
 challenges. Proceedings of the National Academy of
-Sciences. [https://doi.org/10.1073/pnas.1710231115](https://doi.org/10.1073/pnas.1710231115)
+Sciences 201710231 [https://doi.org/10.1073/pnas.1710231115](https://doi.org/10.1073/pnas.1710231115)
 
 Harris, D.J.<sup>+</sup>, S. Taylor\* and E.P. White. 2018. Forecasting biodiversity in
 breeding birds using best practices. PeerJ
