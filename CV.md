@@ -47,9 +47,9 @@ Publication Impact:
 
 ### Journal Articles
 
-Snell, S., B. Evans, E.P. White, A.H. Hurlbert. 2018. The prevalence and
-impact of transient species in ecological
-communities. Ecology. https://doi.org/10.1002/ecy.2398
+Snell, S., B. Evans, E.P. White, A.H. Hurlbert. 2018. The prevalence and impact
+of transient species in ecological communities. Ecology 99:
+1825-1835. https://doi.org/10.1002/ecy.2398
 [[Code](https://github.com/hurlbertlab/core-transient),
 [Preprint](https://doi.org/10.1101/163816)]]
 
