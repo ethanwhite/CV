@@ -1061,6 +1061,24 @@ Amazon.
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+White, E.P. 2018. Software skills for data-intensive reproducible research. 102nd
+Annual Meeting of the Ecological Society of America. New Orleans, LA.
+[[Slides](https://doi.org/10.7490/f1000research.1115901.1), *Invited*]
+
+White, E.P. 2018. Cross-scale ecological modeling using NEON the airborne
+observation platform and field data *in* NEON Resources for Your Research. 102nd
+Annual Meeting of the Ecological Society of America. New Orleans, LA.
+[*Invited*]
+
+*Riemer, K., B. Narayani, B. Stucky, S.J. Mayor, R.P. Guralnick and E.P. White.
+2018. 2: Weak impacts of climatic factors on intraspecific body size variation in
+endothermic species. 102nd Annual Meeting of the Ecological Society of America.
+New Orleans, LA.
+
+<sup>+</sup>Ye, H., E. Christensen, S.K.M. Ernest, J.L. Simonis, and E.P. White.
+2018. Dynamic indicators of ecosystem resilience. 102nd Annual Meeting of the
+Ecological Society of America. New Orleans, LA.
+
 White, E.P. 2017. Data-intensive approaches to forecasting biodiversity. 101st
 Annual Meeting of the Ecological Society of America. Portland,
 OR. [[Slides](https://doi.org/10.6084/m9.figshare.5285755.v1), *Invited*]
