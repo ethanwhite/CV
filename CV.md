@@ -1079,6 +1079,20 @@ New Orleans, LA.
 2018. Dynamic indicators of ecosystem resilience. 102nd Annual Meeting of the
 Ecological Society of America. New Orleans, LA.
 
+*Marconi, S., S.J. Graves, S.A. Bohlman, J.W. Lichstein, A. Singh, and E.P. White.
+2018. Scaling up remote sensing fundamental unit: from pixel to crowns. Inferring
+forest structure and traits syndromes for each individual tree within NEON forest
+sites. 102nd Annual Meeting of the Ecological Society of America. New Orleans, LA.
+
+Simonis, J.L., G.M. Yenni, S.D. Taylor, E. Christensen, E.K. Bledsoe, E.P. White,
+and S.K.M. Ernest. 2018. Prediction and forecasting of portal fauna via particle
+filtration. 102nd Annual Meeting of the Ecological Society of America. New Orleans,
+LA. [[website](http://portal.naturecast.org/)]
+
+*Taylor, S.D. and E.P. White. 2018. Evaluating a near term ecological forecast of
+plant phenology. 102nd Annual Meeting of the Ecological Society of America.
+New Orleans, LA. [[website](http://phenology.naturecast.org/)]
+
 White, E.P. 2017. Data-intensive approaches to forecasting biodiversity. 101st
 Annual Meeting of the Ecological Society of America. Portland,
 OR. [[Slides](https://doi.org/10.6084/m9.figshare.5285755.v1), *Invited*]
