@@ -434,6 +434,14 @@ J.L. Simonis, S.K.M. Ernest. 2018. Developing an automated iterative near-term
 forecasting system for an ecological study. bioRxiv
 https://doi.org/10.1101/268623
 
+Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
+S.K.M. Ernest. 2018 Developing a modern data workflow for evolving data bioRxiv
+344804; doi: https://doi.org/10.1101/344804 
+
+Jenkins M.F., E.P. White, A.H. Hurlbert. 2018. The proportion of core species in a
+community varies with spatial scale and environmental heterogeneity. PeerJ
+Preprints 6:e27158v1 https://doi.org/10.7287/peerj.preprints.27158v1
+
 ### Other publications
 
 Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
