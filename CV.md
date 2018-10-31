@@ -47,6 +47,18 @@ Publication Impact:
 
 ### Journal Articles
 
+White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
+J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative
+near-term forecasting system for an ecological study. Methods in Ecology and
+Evolution. [[Website](https://portal.naturecast.org/),
+[Code](https://github.com/weecology/portalPredictions),
+[Data](https://github.com/weecology/PortalData),
+[Preprint](https://doi.org/10.1101/268623)]
+
+Jenkins, M.S., E.P. White, and A.H. Hurlbert. In press. The proportion of core
+species in a community varies with spatial scale and environmental
+heterogeneity. PeerJ. [[Preprint](https://doi.org/10.7287/peerj.preprints.27158v1)]
+
 Snell, S., B. Evans, E.P. White, A.H. Hurlbert. 2018. The prevalence and impact
 of transient species in ecological communities. Ecology 99:
 1825-1835. https://doi.org/10.1002/ecy.2398
@@ -429,18 +441,9 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
-J.L. Simonis, S.K.M. Ernest. 2018. Developing an automated iterative near-term
-forecasting system for an ecological study. bioRxiv
-https://doi.org/10.1101/268623
-
 Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
 S.K.M. Ernest. 2018 Developing a modern data workflow for evolving data bioRxiv
 344804; doi: https://doi.org/10.1101/344804 
-
-Jenkins M.F., E.P. White, A.H. Hurlbert. 2018. The proportion of core species in a
-community varies with spatial scale and environmental heterogeneity. PeerJ
-Preprints 6:e27158v1 https://doi.org/10.7287/peerj.preprints.27158v1
 
 ### Other publications
 
@@ -919,6 +922,7 @@ Biogeography (2008, 2009)
 
 ### Workshops run (organized and/or taught)
 
+Ally Skills Workshop, University of Florida, February 21 2017  
 Data Carpentry, University of Florida, October 17-18 2016  
 Software Carpentry, University of Florida, August 17-18 2016  
 Software Carpentry, University of North Carolina, April 11-12 2016  
@@ -948,7 +952,7 @@ Software Carpentry, Utah State University, April 2012
 Katherine Thibault (2008-2011)
 
   * After finishing: Vertebrate Ecologist at National Ecological Observatory Network
-  * Currently: [Senior Staff Scientist at National Ecological Observatory Network](http://www.neonscience.org/observatory/staff/kate-thibault)
+  * Currently: [National Ecological Observatory Network Science Lead](http://www.neonscience.org/observatory/staff/kate-thibault)
 
 Daniel McGlinn (2011-2014)
 
@@ -1068,6 +1072,9 @@ Amazon.
 ## Presentations
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+White, E.P. 2018. NEON Investigator Panel and Q&A. National Science Foundation
+BIO Advisory Committee meeting. [*Invited*]
 
 White, E.P. 2018. Software skills for data-intensive reproducible research. 102nd
 Annual Meeting of the Ecological Society of America. New Orleans, LA.
