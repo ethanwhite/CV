@@ -51,8 +51,8 @@ White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
 J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative
 near-term forecasting system for an ecological study. Methods in Ecology and
 Evolution. [[Website](https://portal.naturecast.org/),
-[Code](https://github.com/weecology/portalPredictions),
 [Data](https://github.com/weecology/PortalData),
+[Code](https://github.com/weecology/portalPredictions),
 [Preprint](https://doi.org/10.1101/268623)]
 
 Jenkins, M.S., E.P. White, and A.H. Hurlbert. In press. The proportion of core
@@ -959,9 +959,11 @@ Daniel McGlinn (2011-2014)
   * After finishing: Assistant Professor at the College of Charleston
   * Currently: [Assistant Professor at the College of Charleston](http://biology.cofc.edu/about-the-department/faculty-staff-listing/mcglinn-daniel.php)
 
-David Harris (2015-present)
+David Harris (2015-2018)
 
   * Moore Data Fellow
+  * After finishing: Data Scientist at Wayfair
+  * Currently: Data Scientist at Wayfair
 
 Jessica Coyle (2016)
 
@@ -981,8 +983,8 @@ Ben Weinstein (2018-present)
 Kenneth Locey (PhD; 2008-2013)
   
   * Utah State University Eccles Fellow
-  * After graduating: Postdoctoral researcher at Indiana University.
-  * Currently: [Postdoctoral researcher at Indiana University](https://kenlocey.weecology.org/)
+  * After graduating: Postdoctoral researcher at Indiana University
+  * Currently: [Assistant Professor at Diné College](https://kenlocey.weecology.org/)
   
 Xiao Xiao (PhD; 2008-2014)
 
@@ -1006,6 +1008,10 @@ Shawn Taylor (PhD; 2015-present)
 
   * NSF Graduate Research Fellowship Honorable Mention
 
+Virnaliz Cruz (MS; 2018-present)
+
+  * NSF Graduate Research Fellow
+
 ### Undergraduate Researchers
 
 Mikaelle Giffen (2008-2009)
@@ -1015,7 +1021,7 @@ Mikaelle Giffen (2008-2009)
 
 Clayton Bingham (2009-2010)
 
-  * After graduating: Founded a startup - LitRoost
+  * After graduating: Founded a startup - [LitRoost](https://www.linkedin.com/company/litroost/)
   * Currently: Senior Data Engineering and Analytics Consultant at Rouse
     Services and a graduate student at the University of Southern California
 
@@ -1033,16 +1039,33 @@ Kari Norman (2014-2016)
     Research Fellowship and a DOE Computer Science Graduate Fellowship
   * Currently: PhD student at UC Berkeley
 
+Andrew Zhang (2016-present)
+
+  * Student Software Developer
+
 Akash Goel (2016)
 
   * Google Summer of Code student
-  * After graduating: Software developer at Amazon.
+  * After graduating: Software developer at Amazon
   * Currently: Software developer at Amazon
   
 Shivam Negi (2017)
 
   * Google Summer of Code student
 
+Sumit Saha (2018)
+
+  * Google Summer of Code student
+
+Pranita Sharma (2018)
+
+  * Google Summer of Code student
+  * After graduating: MS student in Computer Science at North Carolina State
+    University
+
+Apoorva Pandey
+
+  * Google Summer of Code student
 
 ### Graduate Student Committees
 
