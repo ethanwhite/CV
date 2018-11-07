@@ -1041,7 +1041,7 @@ Kari Norman (2014-2016)
 
 Andrew Zhang (2016-present)
 
-  * Student Software Developer
+  * Student Software Developer, Internships at Microsoft & Facebook
 
 Akash Goel (2016)
 
