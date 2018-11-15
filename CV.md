@@ -39,7 +39,7 @@ Phi Beta Kappa 1998
 
 Publication Impact:
 [Google Scholar](http://scholar.google.com/citations?user=pHmra8cAAAAJ&hl=en)
-(citations =  4022, h-index = 29)  
+(citations =  4494, h-index = 31)  
 [**OA**]: The published paper is open access (or at least free to read)  
 [**OA version**]: Link to an open or free version of the paper if the published version is not open access  
 **undergraduate, *graduate student, <sup>+</sup>postdoc
@@ -50,7 +50,9 @@ Publication Impact:
 White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
 J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative
 near-term forecasting system for an ecological study. Methods in Ecology and
-Evolution. [[Website](https://portal.naturecast.org/),
+Evolution
+[https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104)
+[**OA**, [Website](https://portal.naturecast.org/),
 [Data](https://github.com/weecology/PortalData),
 [Code](https://github.com/weecology/portalPredictions),
 [Preprint](https://doi.org/10.1101/268623)]
@@ -61,7 +63,7 @@ heterogeneity. PeerJ. [[Preprint](https://doi.org/10.7287/peerj.preprints.27158v
 
 Snell, S., B. Evans, E.P. White, A.H. Hurlbert. 2018. The prevalence and impact
 of transient species in ecological communities. Ecology 99:
-1825-1835. https://doi.org/10.1002/ecy.2398
+1825-1835. [https://doi.org/10.1002/ecy.2398](https://doi.org/10.1002/ecy.2398)
 [[Code](https://github.com/hurlbertlab/core-transient),
 [Preprint](https://doi.org/10.1101/163816)]]
 
