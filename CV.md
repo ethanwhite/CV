@@ -47,6 +47,11 @@ Publication Impact:
 
 ### Journal Articles
 
+Perkins, D.M., A. Perna, R. Adrian, P. Cermeño, U. Gaedke, M. Huete-Ortega,
+E.P. White, G. Yvon-Durocher. In press. Energetic equivalence underpins the
+divergent size structure of tree and phytoplankton communities. Nature
+Communications.
+
 White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
 J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative
 near-term forecasting system for an ecological study. Methods in Ecology and
@@ -57,9 +62,12 @@ Evolution
 [Code](https://github.com/weecology/portalPredictions),
 [Preprint](https://doi.org/10.1101/268623)]
 
-Jenkins, M.S., E.P. White, and A.H. Hurlbert. In press. The proportion of core
+Jenkins, M.S., E.P. White, and A.H. Hurlbert. 2018. The proportion of core
 species in a community varies with spatial scale and environmental
-heterogeneity. PeerJ. [[Preprint](https://doi.org/10.7287/peerj.preprints.27158v1)]
+heterogeneity. PeerJ
+6:e6019. [https://doi.org/10.7717/peerj.6019](https://doi.org/10.7717/peerj.6019)
+[**OA**, [Code](https://github.com/mollyfrn/core_scale),
+[Preprint](https://doi.org/10.7287/peerj.preprints.27158v1)]
 
 Snell, S., B. Evans, E.P. White, A.H. Hurlbert. 2018. The prevalence and impact
 of transient species in ecological communities. Ecology 99:
