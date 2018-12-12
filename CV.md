@@ -47,6 +47,10 @@ Publication Impact:
 
 ### Journal Articles
 
+Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, and E.P. White. In
+press. Comparison of large-scale citizen science data and long-term study data
+for phenology modeling. Ecology.
+
 Perkins, D.M., A. Perna, R. Adrian, P. Cermeño, U. Gaedke, M. Huete-Ortega,
 E.P. White, G. Yvon-Durocher. In press. Energetic equivalence underpins the
 divergent size structure of tree and phytoplankton communities. Nature
