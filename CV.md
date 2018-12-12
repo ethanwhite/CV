@@ -47,6 +47,12 @@ Publication Impact:
 
 ### Journal Articles
 
+Marconi, S., S.J. Graves, D. Gong, M. Shahriari Nia, M. Le Bras, B.J. Dorr,
+P. Fontana, J. Gearhart, C. Greenberg, D.J.  Harris, S.A. Kumar, A. Nishant,
+J. Prarabdh, S.U. Rege, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A data
+science challenge for converting airborne remote sensing data into ecological
+information. PeerJ.
+
 Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, and E.P. White. In
 press. Comparison of large-scale citizen science data and long-term study data
 for phenology modeling. Ecology.
