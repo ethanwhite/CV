@@ -51,11 +51,14 @@ Marconi, S., S.J. Graves, D. Gong, M. Shahriari Nia, M. Le Bras, B.J. Dorr,
 P. Fontana, J. Gearhart, C. Greenberg, D.J.  Harris, S.A. Kumar, A. Nishant,
 J. Prarabdh, S.U. Rege, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A data
 science challenge for converting airborne remote sensing data into ecological
-information. PeerJ.
+information. PeerJ. [**OA**, [Website](https://www.ecodse.org/),
+[Preprint](https://dx.doi.org/10.7287%2Fpeerj.preprints.26966v1)].
 
 Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, and E.P. White. In
 press. Comparison of large-scale citizen science data and long-term study data
-for phenology modeling. Ecology.
+for phenology modeling. Ecology [**OA**,
+[Code](https://github.com/sdtaylor/phenology_dataset_study),
+[Preprint](https://doi.org/10.1101/335802)].
 
 Perkins, D.M., A. Perna, R. Adrian, P. Cermeño, U. Gaedke, M. Huete-Ortega,
 E.P. White, G. Yvon-Durocher. In press. Energetic equivalence underpins the
