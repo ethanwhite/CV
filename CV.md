@@ -61,9 +61,11 @@ for phenology modeling. Ecology [**OA**,
 [Preprint](https://doi.org/10.1101/335802)].
 
 Perkins, D.M., A. Perna, R. Adrian, P. Cermeño, U. Gaedke, M. Huete-Ortega,
-E.P. White, G. Yvon-Durocher. In press. Energetic equivalence underpins the
+E.P. White, G. Yvon-Durocher. 2018. Energetic equivalence underpins the
 divergent size structure of tree and phytoplankton communities. Nature
-Communications.
+Communications
+10:255. [https://doi.org/10.1038/s41467-018-08039-3](https://doi.org/10.1038/s41467-018-08039-3)
+[**OA**, [Code](https://figshare.com/s/013fba909417e89fe7e1), [Peer Review](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-08039-3/MediaObjects/41467_2018_8039_MOESM2_ESM.pdf)]
 
 White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
 J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative
