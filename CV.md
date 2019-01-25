@@ -60,6 +60,12 @@ for phenology modeling. Ecology [**OA**,
 [Code](https://github.com/sdtaylor/phenology_dataset_study),
 [Preprint](https://doi.org/10.1101/335802)].
 
+Christensen, E.M., G.M. Yenni, H. Ye, J.L. Simonis, E.K. Bledsoe, R. Diaz,
+S.D. Taylor, E.P. White, S.K.M. Ernest. 2019. portalr: an R package for
+summarizing and using the Portal Project data. Journal of Open Source Software
+4:1098. [https://doi.org/10.21105/joss.01098](https://doi.org/10.21105/joss.01098)
+[**OA**, [Code](https://github.com/weecology/portalr), [Website](https://weecology.github.io/portalr/)]
+
 Perkins, D.M., A. Perna, R. Adrian, P. Cermeño, U. Gaedke, M. Huete-Ortega,
 E.P. White, G. Yvon-Durocher. 2018. Energetic equivalence underpins the
 divergent size structure of tree and phytoplankton communities. Nature
