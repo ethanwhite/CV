@@ -474,9 +474,22 @@ Sunderland, MA.
 
 Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
 S.K.M. Ernest. 2018 Developing a modern data workflow for evolving data bioRxiv
-344804; doi: https://doi.org/10.1101/344804 
+344804; doi: https://doi.org/10.1101/344804
+
+Weinstein B., S. Marconi, S. Bohlman, A. Zare, E.P.
+White. 2019. Individual tree-crown detection in RGB imagery using
+self-supervised deep learning neural networks. bioRxiv 532952; doi:
+https://doi.org/10.1101/532952
 
 ### Other publications
+
+Dietze, M. and E.P. White. 2019. Facilitating NASA Ecological Forecasts through
+shared cyberinfrastructure NASA Biological Diversity and Ecological Forecasting
+Programs: White Papers on Important Questions
+
+Dietze, M., E.P. White, and R.Q. Thomas. 2019. Can we predict nature? NASA
+Biological Diversity and Ecological Forecasting Programs: White Papers on
+Important Questions.
 
 Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
 M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
@@ -566,6 +579,9 @@ pp.1835-1841.
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
 E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
+
+Microsoft AI for Earth. Tree Detection API for the National Ecological
+Observatory Network. PIs B. Weinstein and E.P. White. 2019-2020. [https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0](https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0)
 
 National Institute of Standards and Technology (NIST). Data Science Evaluation
 for Tree Identification using NEON. PIs: Z. Wang, E.P. White,
@@ -929,6 +945,8 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 ## University Service
 
+Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
+University of Florida (2019-present)__
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
 of Florida (2016-2017)  
 Biodiversity Symposium Participant, University of Florida (2016)  
