@@ -736,6 +736,12 @@ Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 
 ## Invited Seminars
 
+"From pixels to plants to (hopefully) the planet". National Ecological
+Observatory Network. May 28th, 2019.
+
+"From pixels to plants to the planet". Moore Foundation Data-Driven Discovery
+Investigators Symposium. April 25th, 2019.
+
 "Data-intensive ecology". Computational Optical Remote Sensing of the
 Environment Summit. University of Florida. September 6th, 2017.
 
@@ -818,6 +824,13 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
+
+"NSF Biology Directorate Advisory Committee Subcommittee on NEON Community
+Engagement". National Science Foundation. February-May 2019. Organizer:
+Stephanie Hampton.
+
+"Education and Inclusion Panel". Ecological Forecasting Initiative
+Conference. May 13, 2019. Organizers: Michael Dietze and Heather Lynch.
 
 "Terrestrial Sampling Working Group". National Ecological Observatory
 Network. Summer-Fall 2017. Organizers: Katherine Thibault and James Clark.
@@ -916,7 +929,10 @@ Review of grant applications for NSF (United States), NSERC (Canada), NRF (South
 Computing in Computational and Data-Enabled Science and Engineering, Program Committee
 
 ### Board Memberships & Affiliations
-The Carpentries, Executive Council (2018-present)  
+
+Ecological Forecasting Initiative, Founding Board (2018-present)  
+Biology and Environmental Data Education Network, Steering Committee (2018-present)  
+The Carpentries, Executive Council (2018-2019)  
 Impactstory, Board of Directors (2014-present)  
 Public Library of Science, Data Guidelines Board (2015-present)  
 University of Florida Informatics & Analytics Task Force (2017-present)  
@@ -993,7 +1009,6 @@ Software Carpentry, University of North Carolina, October 2012
 Software Carpentry, Utah State University, April 2012  
 
 
-
 ## Research Mentoring
 
 ### Postdoctoral Associates
@@ -1048,6 +1063,13 @@ Elita Baldridge (PhD; 2010-2015)
   * Currently: [Small Business Owner - Goat Breeder](http://tanglebriar.com/)
 
 Kristina Riemer (PhD; 2013-present)
+
+  * Outstanding Graduate Student in Wildlife Ecology and Conservation
+    (2018-2019)
+  * After graduating: Scientific Programmer & Computational Trainer at
+    University of Arizona
+  * Currently: Scientific Programmer & Computational Trainer at University of
+    Arizona
 
 Sergio Marconi (PhD; 2015-present)
 
@@ -1144,6 +1166,9 @@ Amazon.
 ## Presentations
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+Senyondo H. and E.P. White. 2019. The Data Weaver, A Package Manager for
+Integrated Datasets. SciPy.
 
 White, E.P. 2018. NEON Investigator Panel and Q&A. National Science Foundation
 BIO Advisory Committee meeting. [*Invited*]
