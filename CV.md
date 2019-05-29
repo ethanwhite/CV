@@ -47,16 +47,28 @@ Publication Impact:
 
 ### Journal Articles
 
+Weinstein B., S. Marconi, S. Bohlman, A. Zare, E.P.  White. In press. Individual
+tree-crown detection in RGB imagery using self-supervised deep learning neural
+networks. Remote Sensing. [[Code](https://github.com/weecology/TreeSegmentation), [Preprint](https://doi.org/10.1101/532952)]
+
+Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
+S.K.M. Ernest. 2019. Developing a modern data workflow for evolving data. PLOS
+Biology 17:e3000125. [https://doi.org/10.1371/journal.pbio.3000125](https://doi.org/10.1371/journal.pbio.3000125)
+[**OA**, [Website](https://www.updatingdata.org/),
+[Code](https://github.com/weecology/PortalData),
+[Data](https://github.com/weecology/PortalData), [Preprint](https://doi.org/10.1101/344804)]
+
 Marconi, S., S.J. Graves, D. Gong, M. Shahriari Nia, M. Le Bras, B.J. Dorr,
 P. Fontana, J. Gearhart, C. Greenberg, D.J.  Harris, S.A. Kumar, A. Nishant,
 J. Prarabdh, S.U. Rege, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A data
 science challenge for converting airborne remote sensing data into ecological
-information. PeerJ. [**OA**, [Website](https://www.ecodse.org/),
+information. PeerJ 6:e5843. [https://doi.org/10.7717/peerj.5843](https://doi.org/10.7717/peerj.5843)
+[**OA**, [Website](https://www.ecodse.org/),
 [Preprint](https://dx.doi.org/10.7287%2Fpeerj.preprints.26966v1)].
 
-Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, and E.P. White. In
-press. Comparison of large-scale citizen science data and long-term study data
-for phenology modeling. Ecology [**OA**,
+Taylor, S.D., J.M. Meiners, K. Riemer, M.C. Orr, and E.P. White. 2019. Comparison of large-scale citizen science data and long-term study data
+for phenology modeling. Ecology 100: e02568.
+[https://doi.org/10.1002/ecy.2568](https://doi.org/10.1002/ecy.2568) [**OA**,
 [Code](https://github.com/sdtaylor/phenology_dataset_study),
 [Preprint](https://doi.org/10.1101/335802)].
 
@@ -74,9 +86,9 @@ Communications
 [**OA**, [Code](https://figshare.com/s/013fba909417e89fe7e1), [Peer Review](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-018-08039-3/MediaObjects/41467_2018_8039_MOESM2_ESM.pdf)]
 
 White, E.P., G.M. Yenni, S.D. Taylor, E.M. Christensen, E.K. Bledsoe,
-J.L. Simonis, S.K.M. Ernest. In press. Developing an automated iterative
+J.L. Simonis, S.K.M. Ernest. 2019. Developing an automated iterative
 near-term forecasting system for an ecological study. Methods in Ecology and
-Evolution
+Evolution 10:332–344.
 [https://doi.org/10.1111/2041-210X.13104](https://doi.org/10.1111/2041-210X.13104)
 [**OA**, [Website](https://portal.naturecast.org/),
 [Data](https://github.com/weecology/PortalData),
@@ -472,14 +484,6 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
-S.K.M. Ernest. 2018 Developing a modern data workflow for evolving data bioRxiv
-344804; doi: https://doi.org/10.1101/344804
-
-Weinstein B., S. Marconi, S. Bohlman, A. Zare, E.P.
-White. 2019. Individual tree-crown detection in RGB imagery using
-self-supervised deep learning neural networks. bioRxiv 532952; doi:
-https://doi.org/10.1101/532952
 
 ### Other publications
 
