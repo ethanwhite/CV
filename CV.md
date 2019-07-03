@@ -484,6 +484,18 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Norman, K.E.A. and E.P. White. 2019. Hotspot prioritizations show sensitivity to
+data
+type. bioRxiv 685735. [https://doi.org/10.1101/685735](https://doi.org/10.1101/685735)
+
+Taylor, S.D. and E.P. White. 2019. Automated data-intensive forecasting of plant
+phenology throughout the United States. bioRxiv 634568
+[https://doi.org/10.1101/634568](https://doi.org/10.1101/634568)
+
+Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and
+E.P. White. 2019. Rethinking the fundamental unit of ecological remote sensing:
+Estimating individual level plant traits at scale. bioRxiv 556472
+[https://doi.org/10.1101/556472](https://doi.org/10.1101/556472)
 
 ### Other publications
 
