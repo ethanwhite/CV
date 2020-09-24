@@ -1153,7 +1153,8 @@ Kristina Riemer (PhD; 2013-present)
 
 Sergio Marconi (PhD; 2015-present)
 
-  * Fulbright Fellow
+  * Fulbright Fellow, UF Biodiversity Institute Fellow, UF Informatics Institute
+    Fellow
 
 Shawn Taylor (PhD; 2015-present)
 
