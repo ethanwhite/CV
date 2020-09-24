@@ -895,6 +895,14 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
 
+"Ecological Forecasting Initiative 2020 Virtual Workshop: Coordinating the
+NEON-enabled forecasting challenge". Remote. May 12-13, 2020. Organizers: Quinn
+Thomas and Jody Peters.
+
+"UF/IFAS Faculty Forum: Living, Working, and Adapting to the New Normal of
+COVID-19". Unversity of Florida. April 23, 2020. Organizers: Rob Gilbert and
+Nick Place.
+
 "NSF Biology Directorate Advisory Committee Subcommittee on NEON Community
 Engagement". National Science Foundation. February-May 2019. Organizer:
 Stephanie Hampton.
