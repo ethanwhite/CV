@@ -47,9 +47,40 @@ Publication Impact:
 
 ### Journal Articles
 
+Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and
+E.P. White. In press. Rethinking the fundamental unit of ecological remote sensing:
+Estimating individual level plant traits at scale. Ecological Applications.
+[[Preprint](https://doi.org/10.1101/556472)]
+
+Adler, P.B., E.P. White, M.H. Cortez. 2020. Matching the forecast horizon
+with the relevant ecological processes. Ecography 43:1-11.
+[https://doi.org/10.1111/ecog.05271](https://doi.org/10.1111/ecog.05271)
+[[Code](https://doi.org/10.5281/zenodo.3936096), [Preprint](https://doi.org/10.1101/807057)]
+
+Burgio, K.R., C.M. MacKenzie, S.B. Borrelle, S.K.M. Ernest, J.L. Gill, K.E.
+Ingeman, A.K. Teffer and E.P. White. 2019. Ten simple rules for a successful
+remote postdoc. PLOS Biology <https://doi.org/10.1371/journal.pcbi.1007809>
+[**OA**, [Preprint](https://doi.org/10.7287/peerj.preprints.27907v1)]
+
+Weinstein, B.G., S. Marconi, S.A. Bohlman, A. Zare, E.P. White. 2020.
+Cross-site learning in deep learning RGB tree crown detection. Ecological Informatics 56: 101061.
+<https://doi.org/10.1016/j.ecoinf.2020.101061>
+[[Website](http://tree.westus.cloudapp.azure.com/shiny/), [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/790071)]
+
+Taylor, S.D. and E.P. White. 2020. Automated data-intensive forecasting of
+plant phenology throughout the United States. Ecological Applications 30:e02025
+<https://doi.org/10.1002/eap.2025>
+[[Code](https://github.com/sdtaylor/phenology_forecasts), [Website](https://phenology.naturecast.org/), [Preprint](https://doi.org/10.1101/634568)]
+
+Brown, P., RELISH Consortium (including E.P. White), and Y. Zhou. 2019.
+Large expert-curated database for benchmarking document similarity
+detection in biomedical literature
+search. Database: baz085. <https://doi.org/10.1093/database/baz085>
+
 Weinstein B., S. Marconi, S. Bohlman, A. Zare, E.P.  White. In press. Individual
 tree-crown detection in RGB imagery using self-supervised deep learning neural
-networks. Remote Sensing. [[Code](https://github.com/weecology/TreeSegmentation), [Preprint](https://doi.org/10.1101/532952)]
+networks. Remote Sensing 11: 1309. <https://doi.org/10.3390/rs11111309> [**OA**,
+[Code](https://github.com/weecology/TreeSegmentation), [Preprint](https://doi.org/10.1101/532952)]
 
 Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
 S.K.M. Ernest. 2019. Developing a modern data workflow for evolving data. PLOS
@@ -484,18 +515,25 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Norman, K.E.A. and E.P. White. 2019. Hotspot prioritizations show sensitivity to
-data
-type. bioRxiv 685735. [https://doi.org/10.1101/685735](https://doi.org/10.1101/685735)
+Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. 2020.
+A simulation study of the use of temporal occupancy for identifying core and transient species.
+bioRxiv 2020.08.06.240135 [https://doi.org/10.1101/2020.08.06.240135](https://doi.org/10.1101/2020.08.06.240135)
 
-Taylor, S.D. and E.P. White. 2019. Automated data-intensive forecasting of plant
-phenology throughout the United States. bioRxiv 634568
-[https://doi.org/10.1101/634568](https://doi.org/10.1101/634568)
+Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2020.
+NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns.
+bioRxiv: 2020.09.08.287839 [https://doi.org/10.1101/2020.09.08.287839](https://doi.org/10.1101/2020.09.08.287839)
 
-Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and
-E.P. White. 2019. Rethinking the fundamental unit of ecological remote sensing:
-Estimating individual level plant traits at scale. bioRxiv 556472
-[https://doi.org/10.1101/556472](https://doi.org/10.1101/556472)
+Taylor, S.D. and E.P. White. 2020.
+Influence of climate forecasts, data assimilation, and uncertainty propagation on the performance of near-term phenology forecasts
+bioRxiv 2020.08.18.256057 [https://doi.org/10.1101/2020.08.18.256057](https://doi.org/10.1101/2020.08.18.256057)
+
+Norman, K.E.A. and E.P. White. 2019.
+Hotspot prioritizations show sensitivity to data type.
+bioRxiv 685735. [https://doi.org/10.1101/685735](https://doi.org/10.1101/685735)
+
+Choi, H., A. Sadeghian, S. Marconi, E.P. White, Daisy Zhe Wang. 2019.
+Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data.
+ArXiv:1910.04932 https://arxiv.org/abs/1910.04932
 
 ### Other publications
 
@@ -519,11 +557,19 @@ Discovery Grant. Research Ideas and Outcomes 2:
 e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10708)
 
 
-### Publications by lab members
+### Publications (and preprints) by lab members
 
 Members of my lab are encouraged to lead and participate in projects on which I
 am not an author. This is a list of this work done at least in part while the
 scientists were members of my group. Lab members' names are in **bold**.
+
+https://doi.org/10.1101/794396 
+
+Taylor, S., 2018. NEON NIST data science evaluation challenge: methods and results of team Shawn. PeerJ Preprints, 6, p.e26967v1.
+
+Taylor, S.D. and Marconi, S., 2019. Rethinking global carbon storage potential of trees. A comment on Bastin et. al 2019. bioRxiv, p.730325.
+
+Taylor, S.D., 2019. Estimating flowering transition dates from status-based phenological observations: a test of methods. PeerJ, 7, p.e7720.
 
 Christensen, E., Harris, D. and Ernest, M., 2017. Repeated regime shifts in a
 desert rodent community. bioRxiv, p.163931. https://doi.org/10.1101/163931
