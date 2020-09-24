@@ -1291,17 +1291,17 @@ observation platform and field data *in* NEON Resources for Your Research. 102nd
 Annual Meeting of the Ecological Society of America. New Orleans, LA.
 [*Invited*]
 
-*Riemer, K., B. Narayani, B. Stucky, S.J. Mayor, R.P. Guralnick and E.P. White.
-1.    2: Weak impacts of climatic factors on intraspecific body size variation in
+*Riemer, K., B. Narayani, B. Stucky, S.J. Mayor, R.P. Guralnick and E.P. White. 2018.
+Weak impacts of climatic factors on intraspecific body size variation in
 endothermic species. 102nd Annual Meeting of the Ecological Society of America.
 New Orleans, LA.
 
-<sup>+</sup>Ye, H., E. Christensen, S.K.M. Ernest, J.L. Simonis, and E.P. White.
-1.    Dynamic indicators of ecosystem resilience. 102nd Annual Meeting of the
+<sup>+</sup>Ye, H., E. Christensen, S.K.M. Ernest, J.L. Simonis, and E.P. White. 2018.
+Dynamic indicators of ecosystem resilience. 102nd Annual Meeting of the
 Ecological Society of America. New Orleans, LA.
 
-*Marconi, S., S.J. Graves, S.A. Bohlman, J.W. Lichstein, A. Singh, and E.P. White.
-1.    Scaling up remote sensing fundamental unit: from pixel to crowns. Inferring
+*Marconi, S., S.J. Graves, S.A. Bohlman, J.W. Lichstein, A. Singh, and E.P. White. 2018.
+Scaling up remote sensing fundamental unit: from pixel to crowns. Inferring
 forest structure and traits syndromes for each individual tree within NEON forest
 sites. 102nd Annual Meeting of the Ecological Society of America. New Orleans, LA.
 
