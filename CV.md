@@ -639,8 +639,16 @@ pp.1835-1841.
 
 ## Grants and Contracts
 
+National Science Foundation. LTREB: Using forecasting and long-term experiments
+to understand ecological dynamics under novel conditions. PI: S.K. Morgan
+Ernest. Co-PI: Ethan P. White. 2019-2024.
+
+National Science Foundation. MRA: Disentangling cross-scale influences on tree
+species, traits, and diversity from individual trees to continental
+scales. PI: E.P. White. Co-PIs: S. Bohlman, A. Singh, D. Wang, A. Zare 2019-2022.
+
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
-E.P. White. 2014-2019. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
+E.P. White. 2014-2021. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
 Microsoft AI for Earth. Tree Detection API for the National Ecological
 Observatory Network. PIs B. Weinstein and E.P. White. 2019-2020. [https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0](https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0)
