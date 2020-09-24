@@ -27,7 +27,7 @@ University
 
 ## Fellowships and Awards
 
-Moore Foundation Investigator in Data-Driven Discovery 2014-2019  
+Moore Foundation Investigator in Data-Driven Discovery 2014-2021  
 NSF CAREER 'Young Investigators' Award 2010-2015  
 NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
 NSF Graduate Research Fellowship 2000-2005  
@@ -806,6 +806,9 @@ Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 
 ## Invited Seminars
 
+Marconi S, White E. "Big not just data: NEON as the trans-disciplinary, open community to unlock
+ecology across space, taxa, and time.”, Plenary talk at the first NEON Science Summit, 2019.
+
 "From pixels to plants to (hopefully) the planet". National Ecological
 Observatory Network. May 28th, 2019.
 
@@ -1248,6 +1251,31 @@ Amazon.
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+White. E.P. Data Science and Forecasting Competitions in
+Ecology. 2020. Ecological Forecasting Initiative 2020 Virtual Workshop:
+Coordinating the NEON-enabled forecasting challenge. Remote. [*Invited*]
+
+Bohlman, S., B. Weinstein, S. Marconi, S. Graves, A. Singh, A. Zare, D. Wang,
+E.P. White. Cross-Site Remote Sensing Algorithms Produce Continental-Scale
+Observations on Density and Allometry for 180 Million Trees. Society of American
+Foresters Convention, 2020.
+
+Adler, P.B., E.P. White, M. Cortez. 2020. Developing theory about the
+predictability of nature: what, where, when and how? Ecological Society of
+America Annual Meeting, 2020. [*Invited*]
+
+Marconi S., Weinstein B., Bohlman S., White EP. “Disentangling the role of phylogeny and climate on joint leaf traits distribution across Eastern United States", American Geophysical Union Fall Meeting, 2019.
+
+Marconi S. Ethan White. Big Data in Ecology: Using HiPerGator to Disentangle the Effects of Climate on Millions of Trees. 2nd Annual HiperGator Symposium, 2019 
+
+Choi, H., Sadeghian, A., Marconi, S., White, E. and Wang, D.Z., 2019. Measuring
+Impact of Climate Change on Tree Species: analysis of JSDM on FIA data. NeurIPS
+2019 Workshop: Tackling Climate Change with Machine Learning.
+
+Sandboxing the pipeline: developing automated forecasting systems that facilitate model development
+Juniper L. Simonis, Glenda M. Yenni, Shawn Taylor, Erica Christensen, Ellen
+K. Bledsoe, Hao Ye, Ethan P. White, and S. K. Morgan Ernest [*Invited*]
+
 Senyondo H. and E.P. White. 2019. The Data Weaver, A Package Manager for
 Integrated Datasets. SciPy.
 
@@ -1264,16 +1292,16 @@ Annual Meeting of the Ecological Society of America. New Orleans, LA.
 [*Invited*]
 
 *Riemer, K., B. Narayani, B. Stucky, S.J. Mayor, R.P. Guralnick and E.P. White.
-2018. 2: Weak impacts of climatic factors on intraspecific body size variation in
+1.    2: Weak impacts of climatic factors on intraspecific body size variation in
 endothermic species. 102nd Annual Meeting of the Ecological Society of America.
 New Orleans, LA.
 
 <sup>+</sup>Ye, H., E. Christensen, S.K.M. Ernest, J.L. Simonis, and E.P. White.
-2018. Dynamic indicators of ecosystem resilience. 102nd Annual Meeting of the
+1.    Dynamic indicators of ecosystem resilience. 102nd Annual Meeting of the
 Ecological Society of America. New Orleans, LA.
 
 *Marconi, S., S.J. Graves, S.A. Bohlman, J.W. Lichstein, A. Singh, and E.P. White.
-2018. Scaling up remote sensing fundamental unit: from pixel to crowns. Inferring
+1.    Scaling up remote sensing fundamental unit: from pixel to crowns. Inferring
 forest structure and traits syndromes for each individual tree within NEON forest
 sites. 102nd Annual Meeting of the Ecological Society of America. New Orleans, LA.
 
