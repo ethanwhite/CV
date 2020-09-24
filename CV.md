@@ -1142,7 +1142,7 @@ Elita Baldridge (PhD; 2010-2015)
   * After graduating: Independent scientist
   * Currently: [Small Business Owner - Goat Breeder](http://tanglebriar.com/)
 
-Kristina Riemer (PhD; 2013-present)
+Kristina Riemer (PhD; 2013-2018)
 
   * Outstanding Graduate Student in Wildlife Ecology and Conservation
     (2018-2019)
@@ -1156,7 +1156,7 @@ Sergio Marconi (PhD; 2015-present)
   * Fulbright Fellow, UF Biodiversity Institute Fellow, UF Informatics Institute
     Fellow
 
-Shawn Taylor (PhD; 2015-present)
+Shawn Taylor (PhD; 2015-2019)
 
   * NSF Graduate Research Fellowship Honorable Mention
 
