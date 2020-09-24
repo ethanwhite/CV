@@ -1041,6 +1041,8 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
 University of Florida (2019-present)__
+Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation,
+University of Florida (2019-present)__
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
 of Florida (2016-2017)  
 Biodiversity Symposium Participant, University of Florida (2016)  
