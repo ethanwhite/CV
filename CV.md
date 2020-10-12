@@ -66,7 +66,7 @@ with the relevant ecological processes. Ecography 43:1-11.
 [[Code](https://doi.org/10.5281/zenodo.3936096), [Preprint](https://doi.org/10.1101/807057)]
 
 Burgio, K.R., C.M. MacKenzie, S.B. Borrelle, S.K.M. Ernest, J.L. Gill, K.E.
-Ingeman, A.K. Teffer and E.P. White. 2019. Ten simple rules for a successful
+Ingeman, A.K. Teffer and E.P. White. 2020. Ten simple rules for a successful
 remote postdoc. PLOS Biology <https://doi.org/10.1371/journal.pcbi.1007809>
 [**OA**, [Preprint](https://doi.org/10.7287/peerj.preprints.27907v1)]
 
