@@ -47,10 +47,18 @@ Publication Impact:
 
 ### Journal Articles
 
-Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and
-E.P. White. In press. Rethinking the fundamental unit of ecological remote sensing:
+Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. In press.
+DeepForest: A Python package for RGB deep learning tree crown delineation.
+Methods in Ecology and Evolution. [**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
+
+Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. In press.
+A simulation study of the use of temporal occupancy for identifying core and transient species.
+PLOS ONE. [**OA**, [Preprint](https://doi.org/10.1101/2020.08.06.240135)]
+
+Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and E.P. White. In press.
+Rethinking the fundamental unit of ecological remote sensing:
 Estimating individual level plant traits at scale. Ecological Applications.
-[[Preprint](https://doi.org/10.1101/556472)]
+[**OA**, [Preprint](https://doi.org/10.1101/556472)]
 
 Adler, P.B., E.P. White, M.H. Cortez. 2020. Matching the forecast horizon
 with the relevant ecological processes. Ecography 43:1-11.
@@ -514,10 +522,6 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. 2020.
-A simulation study of the use of temporal occupancy for identifying core and transient species.
-bioRxiv 2020.08.06.240135 [https://doi.org/10.1101/2020.08.06.240135](https://doi.org/10.1101/2020.08.06.240135)
 
 Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2020.
 NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns.
