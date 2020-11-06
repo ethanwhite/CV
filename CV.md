@@ -47,9 +47,9 @@ Publication Impact:
 
 ### Journal Articles
 
-Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. In press.
+Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. 2020.
 DeepForest: A Python package for RGB deep learning tree crown delineation.
-Methods in Ecology and Evolution. [**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
+Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210X.13472> [**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
 
 Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. In press.
 A simulation study of the use of temporal occupancy for identifying core and transient species.
@@ -61,7 +61,7 @@ Estimating individual level plant traits at scale. Ecological Applications.
 [**OA**, [Preprint](https://doi.org/10.1101/556472)]
 
 Adler, P.B., E.P. White, M.H. Cortez. 2020. Matching the forecast horizon
-with the relevant ecological processes. Ecography 43:1-11.
+with the relevant ecological processes. Ecography 43:1729–1739.
 [https://doi.org/10.1111/ecog.05271](https://doi.org/10.1111/ecog.05271)
 [[Code](https://doi.org/10.5281/zenodo.3936096), [Preprint](https://doi.org/10.1101/807057)]
 
@@ -1257,7 +1257,8 @@ Amazon.
 
 White. E.P. Data Science and Forecasting Competitions in
 Ecology. 2020. Ecological Forecasting Initiative 2020 Virtual Workshop:
-Coordinating the NEON-enabled forecasting challenge. Remote. [*Invited*]
+Coordinating the NEON-enabled forecasting challenge. Remote.
+[[Video](https://www.youtube.com/watch?v=6VtXndmqjww), *Invited*]
 
 Bohlman, S., B. Weinstein, S. Marconi, S. Graves, A. Singh, A. Zare, D. Wang,
 E.P. White. Cross-Site Remote Sensing Algorithms Produce Continental-Scale
