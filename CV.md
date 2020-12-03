@@ -49,7 +49,8 @@ Publication Impact:
 
 Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. 2020.
 DeepForest: A Python package for RGB deep learning tree crown delineation.
-Methods in Ecology and Evolution. <https://doi.org/10.1111/2041-210X.13472> [**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
+Methods in Ecology and Evolution 11:1743–1751. <https://doi.org/10.1111/2041-210X.13472>
+[**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
 
 Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. In press.
 A simulation study of the use of temporal occupancy for identifying core and transient species.
