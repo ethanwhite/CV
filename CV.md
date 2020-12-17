@@ -818,6 +818,10 @@ Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 
 ## Invited Seminars
 
+"Data science and foresting competitions in ecology".
+Ecological Foresting Initiative Research Coordination Network (EFI-RCN) Virtual Workshop.
+May 12th, 2020.
+
 Marconi S, White E. "Big not just data: NEON as the trans-disciplinary, open community to unlock
 ecology across space, taxa, and time.”, Plenary talk at the first NEON Science Summit, 2019.
 
