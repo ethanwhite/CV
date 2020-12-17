@@ -47,49 +47,52 @@ Publication Impact:
 
 ### Journal Articles
 
-Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. 2020.
-DeepForest: A Python package for RGB deep learning tree crown delineation.
-Methods in Ecology and Evolution 11:1743–1751. <https://doi.org/10.1111/2041-210X.13472>
-[**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
-
-Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. In press.
-A simulation study of the use of temporal occupancy for identifying core and transient species.
-PLOS ONE. [**OA**, [Preprint](https://doi.org/10.1101/2020.08.06.240135)]
-
 Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and E.P. White. In press.
 Rethinking the fundamental unit of ecological remote sensing:
 Estimating individual level plant traits at scale. Ecological Applications.
 [**OA**, [Preprint](https://doi.org/10.1101/556472)]
 
+Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. 2020.
+DeepForest: A Python package for RGB deep learning tree crown delineation.
+Methods in Ecology and Evolution 11:1743–1751. <https://doi.org/10.1111/2041-210X.13472>
+[**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
+
+Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. 2020.
+A simulation study of the use of temporal occupancy for identifying core and transient species.
+PLOS ONE. <https://doi.org/10.1371/journal.pone.0241198>
+[**OA**, [Code](https://github.com/ssnell6/CT-sim), [Preprint](https://doi.org/10.1101/2020.08.06.240135)]
+
 Adler, P.B., E.P. White, M.H. Cortez. 2020. Matching the forecast horizon
-with the relevant ecological processes. Ecography 43:1729–1739.
-[https://doi.org/10.1111/ecog.05271](https://doi.org/10.1111/ecog.05271)
+with the relevant ecological processes.
+Ecography 43:1729–1739. <https://doi.org/10.1111/ecog.05271)>
 [[Code](https://doi.org/10.5281/zenodo.3936096), [Preprint](https://doi.org/10.1101/807057)]
 
 Burgio, K.R., C.M. MacKenzie, S.B. Borrelle, S.K.M. Ernest, J.L. Gill, K.E.
 Ingeman, A.K. Teffer and E.P. White. 2020. Ten simple rules for a successful
-remote postdoc. PLOS Biology <https://doi.org/10.1371/journal.pcbi.1007809>
+remote postdoc.
+PLOS Biology 16:e1007809 <https://doi.org/10.1371/journal.pcbi.1007809>
 [**OA**, [Preprint](https://doi.org/10.7287/peerj.preprints.27907v1)]
 
 Weinstein, B.G., S. Marconi, S.A. Bohlman, A. Zare, E.P. White. 2020.
-Cross-site learning in deep learning RGB tree crown detection. Ecological Informatics 56: 101061.
+Cross-site learning in deep learning RGB tree crown detection. Ecological Informatics 56:101061.
 <https://doi.org/10.1016/j.ecoinf.2020.101061>
-[[Website](http://tree.westus.cloudapp.azure.com/shiny/), [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/790071)]
+[**OA**, [Website](http://tree.westus.cloudapp.azure.com/shiny/), [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/790071)]
 
 Taylor, S.D. and E.P. White. 2020. Automated data-intensive forecasting of
 plant phenology throughout the United States. Ecological Applications 30:e02025
 <https://doi.org/10.1002/eap.2025>
-[[Code](https://github.com/sdtaylor/phenology_forecasts), [Website](https://phenology.naturecast.org/), [Preprint](https://doi.org/10.1101/634568)]
+[**OA**, [Code](https://github.com/sdtaylor/phenology_forecasts), [Website](https://phenology.naturecast.org/), [Preprint](https://doi.org/10.1101/634568)]
 
 Brown, P., RELISH Consortium (including E.P. White), and Y. Zhou. 2019.
 Large expert-curated database for benchmarking document similarity
 detection in biomedical literature
 search. Database: baz085. <https://doi.org/10.1093/database/baz085>
+[**OA**]
 
-Weinstein B., S. Marconi, S. Bohlman, A. Zare, E.P.  White. In press. Individual
+Weinstein B., S. Marconi, S. Bohlman, A. Zare, E.P.  White. 2019. Individual
 tree-crown detection in RGB imagery using self-supervised deep learning neural
-networks. Remote Sensing 11: 1309. <https://doi.org/10.3390/rs11111309> [**OA**,
-[Code](https://github.com/weecology/TreeSegmentation), [Preprint](https://doi.org/10.1101/532952)]
+networks. Remote Sensing 11: 1309. <https://doi.org/10.3390/rs11111309>
+[**OA**, [Code](https://github.com/weecology/TreeSegmentation), [Preprint](https://doi.org/10.1101/532952)]
 
 Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
 S.K.M. Ernest. 2019. Developing a modern data workflow for evolving data. PLOS
