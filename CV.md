@@ -527,6 +527,10 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Weinstein, B.G., S.J. Graves, S. Marconi, A. Singh, A. Zare, D. Stewart, S.A. Bohlman, E.P. White. 2020.
+A benchmark dataset for individual tree crown delineation in co-registered airborne RGB, LiDAR and hyperspectral imagery from the National Ecological Observation Network.
+bioRxiv: 2020.11.16.385088 <https://doi.org/10.1101/2020.11.16.385088>
+
 Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2020.
 NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns.
 bioRxiv: 2020.09.08.287839 [https://doi.org/10.1101/2020.09.08.287839](https://doi.org/10.1101/2020.09.08.287839)
