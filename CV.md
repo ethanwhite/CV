@@ -48,7 +48,6 @@ Publication Impact:
 ### Journal Articles
 
 Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and E.P. White. In press.
-Rethinking the fundamental unit of ecological remote sensing:
 Estimating individual level plant traits at scale. Ecological Applications.
 [**OA**, [Preprint](https://doi.org/10.1101/556472)]
 
