@@ -48,6 +48,13 @@ Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and E.P. White. In press.
 Estimating individual level plant traits at scale. Ecological Applications.
 [**OA**, [Preprint](https://doi.org/10.1101/556472)]
 
+Senyondo, H., D.J. McGlinn, P. Sharma, D.J. Harris, H. Ye, S.D. Taylor, J. Ooms, F. Rodríguez-Sánchez, K. Ram, A. Pandey, H. Bansal, M. Pohlman, and E.P. White. 2021.
+Rdataretriever: R Interface to the Data Retriever. Journal of Open Source Software 6:2800 <https://doi.org/10.21105/joss.02800> [**OA**, [Code](https://github.com/ropensci/rdataretriever/)]
+
+Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2021.
+NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns. eLife 10:62922 <https://doi.org/10.7554/eLife.62922>
+[**OA**, [Data](https://zenodo.org/record/3765872), [Preprint](https://doi.org/10.1101/2020.09.08.287839)]]
+
 Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. 2020.
 DeepForest: A Python package for RGB deep learning tree crown delineation.
 Methods in Ecology and Evolution 11:1743–1751. <https://doi.org/10.1111/2041-210X.13472>
@@ -526,10 +533,6 @@ Sunderland, MA.
 Weinstein, B.G., S.J. Graves, S. Marconi, A. Singh, A. Zare, D. Stewart, S.A. Bohlman, E.P. White. 2020.
 A benchmark dataset for individual tree crown delineation in co-registered airborne RGB, LiDAR and hyperspectral imagery from the National Ecological Observation Network.
 bioRxiv: 2020.11.16.385088 <https://doi.org/10.1101/2020.11.16.385088>
-
-Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2020.
-NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns.
-bioRxiv: 2020.09.08.287839 [https://doi.org/10.1101/2020.09.08.287839](https://doi.org/10.1101/2020.09.08.287839)
 
 Taylor, S.D. and E.P. White. 2020.
 Influence of climate forecasts, data assimilation, and uncertainty propagation on the performance of near-term phenology forecasts
