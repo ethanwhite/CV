@@ -530,6 +530,8 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Stewart D., A. Zare, S. Marconi, B.G. Weinstein, E.P. White, S.J. Graves, S. Bohlman, A. Singh. 20221. Addressing annotation imprecision for tree crown delineation using the RandCrowns index. arXiv: 2105.02186 <https://arxiv.org/abs/2105.02186>
+
 Weinstein, B.G., S.J. Graves, S. Marconi, A. Singh, A. Zare, D. Stewart, S.A. Bohlman, E.P. White. 2020.
 A benchmark dataset for individual tree crown delineation in co-registered airborne RGB, LiDAR and hyperspectral imagery from the National Ecological Observation Network.
 bioRxiv: 2020.11.16.385088 <https://doi.org/10.1101/2020.11.16.385088>
