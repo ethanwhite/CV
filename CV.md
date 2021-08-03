@@ -44,12 +44,20 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and E.P. White. In press.
-Estimating individual level plant traits at scale. Ecological Applications.
-[**OA**, [Preprint](https://doi.org/10.1101/556472)]
+Simonis, J.L., E.P. White, S.K. Morgan Ernest. 2021.
+Evaluating probabilistic ecological forecasts.
+Ecology 102:e03431.
+<https://doi.org/10.1002/ecy.3431> [[Code](https://doi.org/10.5281/zenodo.4660608)]
+
+Marconi, S. S.J. Graves, B.G. Weinstein, S. Bohlman, and E.P. White. 2021.
+Estimating individual level plant traits at scale.
+Ecological Applications 31:302300 <https://doi.org/10.1002/eap.2300>
+[**OA**, [Code](https://doi.org/10.5281/zenodo.3991797), [Data](https://doi.org/10.5281/zenodo.4434481), [Preprint](https://doi.org/10.1101/556472)]
 
 Senyondo, H., D.J. McGlinn, P. Sharma, D.J. Harris, H. Ye, S.D. Taylor, J. Ooms, F. Rodríguez-Sánchez, K. Ram, A. Pandey, H. Bansal, M. Pohlman, and E.P. White. 2021.
-Rdataretriever: R Interface to the Data Retriever. Journal of Open Source Software 6:2800 <https://doi.org/10.21105/joss.02800> [**OA**, [Code](https://github.com/ropensci/rdataretriever/)]
+Rdataretriever: R Interface to the Data Retriever.
+Journal of Open Source Software 6:2800 <https://doi.org/10.21105/joss.02800>
+[**OA**, [Code](https://github.com/ropensci/rdataretriever/), [Website](https://retriever.readthedocs.io/en/latest/rdataretriever.html)]
 
 Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2021.
 NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns. eLife 10:62922 <https://doi.org/10.7554/eLife.62922>
@@ -1028,17 +1036,20 @@ Computing in Computational and Data-Enabled Science and Engineering, Program Com
 
 ### Board Memberships & Affiliations
 
-Ecological Forecasting Initiative, Founding Board (2018-present)  
-Biology and Environmental Data Education Network, Steering Committee (2018-present)  
+Ecological Forecasting Initiative, Diversity, Equity, and Inclusion Working Group (2021-present)
+Ecological Forecasting Initiative, Steering Committee (2021-2022)  
+OurResearch, Board of Directors (2014-present)  
+Ecological Forecasting Initiative, Founding Board (2018-2021)  
+EarthLife Consortium, Board of Directors (2018-2021)
+Biology and Environmental Data Education Network, Steering Committee (2018-2020)  
 The Carpentries, Executive Council (2018-2019)  
-Impactstory, Board of Directors (2014-present)  
-Public Library of Science, Data Guidelines Board (2015-present)  
-University of Florida Informatics & Analytics Task Force (2017-present)  
 University of Florida Biodiversity Institute, Advisory Board (2015-present)  
-Hypothesis, User Advisory Team (2015-present)  
+Public Library of Science, Data Guidelines Board (2015-2018)  
+University of Florida Informatics & Analytics Task Force (2017-2019)  
+Hypothesis, User Advisory Team (2015-2020)  
 Software Carpentry Foundation, Advisory Council (2015-2017)  
 Data Carpentry, Steering Committee (2015-2017)  
-Data Carpentry, Board of Directors (2014-2015)  
+Data Carpentry, Co-founder and Board of Directors (2014-2015)  
 Software Carpentry, Advisory Board (2012-2014)
 
 ### Editorial Boards
