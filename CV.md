@@ -1279,6 +1279,8 @@ Amazon.
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+Simonis, J.L., E.P White, S.K. Morgan Ernest. 2021. Evaluating probabilistic ecological forecasts. Ecological Society of America Annual Meeting.
+
 White. E.P. Data Science and Forecasting Competitions in
 Ecology. 2020. Ecological Forecasting Initiative 2020 Virtual Workshop:
 Coordinating the NEON-enabled forecasting challenge. Remote.
