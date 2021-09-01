@@ -1003,7 +1003,7 @@ W.K. Lauenroth.
 and Synthesis Working Group. 2001. Organizers: R.Waide, S. Andelman,
 M.R. Willig.
 
-## Interviews
+## Interviews & Press
 
 "Collaborative software development made easy" by Andrew Silver. October
 4, 2017. [https://doi.org/10.1038/550143a](https://doi.org/10.1038/550143a)
@@ -1018,6 +1018,9 @@ Baker. Nature. January 2017. [https://doi.org/10.1038/nj7638-563a](https://doi.o
 "Beyond the Lab: Ethan White, Ph.D." by Aditi Risbud. Gordon and Betty Moore
 Foundation. April
 15, 2016. [https://www.moore.org/article-detail?newsUrlName=beyond-the-lab](https://www.moore.org/article-detail?newsUrlName=beyond-the-lab)
+
+"USU Ecologist Ethan White Explores Tech Tools to Tame Data" by Mary-Ann Muffoletto.
+October 2nd, 2014. [https://www.usu.edu/today/story/usu-ecologist-ethan-white-explores-tech-tools-to-tame-data](https://www.usu.edu/today/story/usu-ecologist-ethan-white-explores-tech-tools-to-tame-data)
 
 "My digital toolbox: Ecologist Ethan White on interactive notebooks" by Richard
 Van Noorden. Nature. September
