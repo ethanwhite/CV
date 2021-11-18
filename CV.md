@@ -69,7 +69,7 @@ Journal of Open Source Software 6:2800 <https://doi.org/10.21105/joss.02800>
 [**OA**, [Code](https://github.com/ropensci/rdataretriever/), [Website](https://retriever.readthedocs.io/en/latest/rdataretriever.html)]
 
 Weinstein, B.G., S. Marconi, S. Bohlman, A. Zare, A. Singh, S.J. Graves, E.P. White. 2021.
-NEON Crowns: a remote sensing derived dataset of 100 million individual tree crowns. eLife 10:62922 <https://doi.org/10.7554/eLife.62922>
+A remote sensing derived data set of 100 million individual tree crowns for the National Ecological Observatory Network. eLife 10:62922 <https://doi.org/10.7554/eLife.62922>
 [**OA**, [Data](https://zenodo.org/record/3765872), [Preprint](https://doi.org/10.1101/2020.09.08.287839)]]
 
 Weinstein, B.G., S. Marconi, M. Aubry-Kientz, G. Vincent, H. Senyondo, E.P. White. 2020.
