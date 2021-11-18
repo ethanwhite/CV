@@ -44,9 +44,14 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
+Stewart D., A. Zare, S. Marconi, B.G. Weinstein, E.P. White, S.J. Graves, S. Bohlman, A. Singh. 2021.
+Addressing annotation imprecision for tree crown delineation using the RandCrowns index.
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 14:11229-11239 <https://doi.org/10.1109/JSTARS.2021.3122345>
+[**OA**, [Preprint](https://arxiv.org/abs/2105.02186)]
+
 Weinstein, B.G., S.J. Graves, S. Marconi, A. Singh, A. Zare, D. Stewart, S.A. Bohlman, E.P. White. 2021.
 A benchmark dataset for individual tree crown delineation in co-registered airborne RGB, LiDAR and hyperspectral imagery from the National Ecological Observation Network.
-PLOS Computational Biology 17:e1009180 <https://doi.org/10.1371/journal.pcbi.1009180> [[Code](https://github.com/weecology/NeonTreeEvaluation), [Data (Benchmark)](https://doi.org/10.5281/zenodo.3723356), [Data (Training)](https://doi.org/10.5281/zenodo.3459802), [[Preprint](https://doi.org/10.1101/2020.11.16.385088)]
+PLOS Computational Biology 17:e1009180 <https://doi.org/10.1371/journal.pcbi.1009180> [**OA**, [Code](https://github.com/weecology/NeonTreeEvaluation), [Data (Benchmark)](https://doi.org/10.5281/zenodo.3723356), [Data (Training)](https://doi.org/10.5281/zenodo.3459802), [Preprint](https://doi.org/10.1101/2020.11.16.385088)]
 
 Simonis, J.L., E.P. White, S.K. Morgan Ernest. 2021.
 Evaluating probabilistic ecological forecasts.
@@ -542,9 +547,11 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2021.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data bioRxiv 2021.08.06.453503 <https://doi.org/10.1101/2021.08.06.453503>
+Marconi, S. B.G. Weinstein, J.W. Lichstein, S.A. Bohlman, A. Singh, E.P. White. 2021.
+Disentangling the roles of inter and intraspecific variation on leaf trait distributions across the eastern United States
+bioRxiv 2021.04.01.438064; <https://doi.org/10.1101/2021.04.01.438064>
 
-Stewart D., A. Zare, S. Marconi, B.G. Weinstein, E.P. White, S.J. Graves, S. Bohlman, A. Singh. 20221. Addressing annotation imprecision for tree crown delineation using the RandCrowns index. arXiv: 2105.02186 <https://arxiv.org/abs/2105.02186>
+Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2021.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data bioRxiv 2021.08.06.453503 <https://doi.org/10.1101/2021.08.06.453503>
 
 Taylor, S.D. and E.P. White. 2020.
 Influence of climate forecasts, data assimilation, and uncertainty propagation on the performance of near-term phenology forecasts
