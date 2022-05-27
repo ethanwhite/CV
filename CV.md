@@ -44,6 +44,18 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
+Di Cecco, G.J., S.J. Snell Taylor, E.P. White, A.H. Hurlbert. In press. More individuals or specialized niches? Distinguishing support for hypotheses explaining positive species-energy relationships. Journal of Biogeography.
+
+Simonis J.L., G.M. Yenni, E.K. Bledsoe, E.M. Christensen, H. Senyondo, S.D. Taylor, H. Ye, E.P. White, and S.K.M. Ernest. 2022.
+portalcasting: Supporting automated forecasting of rodent populations.
+Journal of Open Source Software 7:3220 <https://doi.org/10.21105/joss.03220>
+[**OA**, [Code](https://github.com/weecology/portalcasting/), [Documentation](https://weecology.github.io/portalcasting/)]
+
+White, E.P., Brym, Z.T., Marx, A.J., Riemer, K., Marconi, S., Harris, D.J., Cruz, V. and Ernest, S.K.M., 2022.
+Data Carpentry for Biologists: A semester long Data Carpentry course using ecological and other biological examples.
+Journal of Open Source Education 5:139 <https://doi.org/10.21105/jose.00139>
+[**OA**, [Code](https://github.com/datacarpentry/semester-biology/), [Website](https://datacarpentry.org/semester-biology/)]
+
 Stewart D., A. Zare, S. Marconi, B.G. Weinstein, E.P. White, S.J. Graves, S. Bohlman, A. Singh. 2021.
 Addressing annotation imprecision for tree crown delineation using the RandCrowns index.
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 14:11229-11239 <https://doi.org/10.1109/JSTARS.2021.3122345>
@@ -77,7 +89,7 @@ DeepForest: A Python package for RGB deep learning tree crown delineation.
 Methods in Ecology and Evolution 11:1743–1751. <https://doi.org/10.1111/2041-210X.13472>
 [**OA**, [Code](https://github.com/weecology/DeepForest), [Preprint](https://doi.org/10.1101/2020.07.07.191551)]
 
-Taylor, S.S., J.R. Coyle, E.P. White, and A.H. Hurlbert. 2020.
+Snell Taylor, S., J.R. Coyle, E.P. White, and A.H. Hurlbert. 2020.
 A simulation study of the use of temporal occupancy for identifying core and transient species.
 PLOS ONE. <https://doi.org/10.1371/journal.pone.0241198>
 [**OA**, [Code](https://github.com/ssnell6/CT-sim), [Preprint](https://doi.org/10.1101/2020.08.06.240135)]
@@ -932,6 +944,8 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
 
+Ecological Forecasting Initiative, Diversity, Equity, and Inclusion Working Group. Remote. 2021.
+
 "Ecological Forecasting Initiative 2020 Virtual Workshop: Coordinating the
 NEON-enabled forecasting challenge". Remote. May 12-13, 2020. Organizers: Quinn
 Thomas and Jody Peters.
@@ -1048,7 +1062,7 @@ Computing in Computational and Data-Enabled Science and Engineering, Program Com
 
 ### Board Memberships & Affiliations
 
-Ecological Forecasting Initiative, Diversity, Equity, and Inclusion Working Group (2021-present)
+Ecological Forecasting Initiative Elections Subcommittee (2021-2022)
 Ecological Forecasting Initiative, Steering Committee (2021-2022)  
 OurResearch, Board of Directors (2014-present)  
 Ecological Forecasting Initiative, Founding Board (2018-2021)  
