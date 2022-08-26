@@ -44,7 +44,7 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Di Cecco, G.J., S.J. Snell Taylor, E.P. White, A.H. Hurlbert. In press. More individuals or specialized niches? Distinguishing support for hypotheses explaining positive species-energy relationships. Journal of Biogeography.
+Di Cecco, G.J., S.J. Snell Taylor, E.P. White, A.H. Hurlbert. 2022. More individuals or specialized niches? Distinguishing support for hypotheses explaining positive species-energy relationships. Journal of Biogeography 49:1629-1639 <https://doi.org/10.1111/jbi.14459>
 
 Simonis J.L., G.M. Yenni, E.K. Bledsoe, E.M. Christensen, H. Senyondo, S.D. Taylor, H. Ye, E.P. White, and S.K.M. Ernest. 2022.
 portalcasting: Supporting automated forecasting of rodent populations.
