@@ -3,7 +3,7 @@
 ## Contact
 
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
-Twitter: [@](https://twitter.com/ethanwhite)[ethanwhite](https://twitter.com/ethanwhite)  
+Twitter: [\@ethanwhite](https://twitter.com/ethanwhite)  
 Website: [ethanwhite.org](http://ethanwhite.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
@@ -559,8 +559,10 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Harmon, I., S. Marconi, B.G. Weinstein, S.J. Graves, D.Z. Wang, S.A. Bohlman, A. Zare, A. Singh, and E.P. White. 2022. Injecting Domain Knowledge Into Deep Neural Networks for Tree Crown Delineation. TechRXiv 10.36227/techrxiv.20323698.v1 <https://doi.org/10.36227/techrxiv.20323698.v1>
+
 Marconi, S. B.G. Weinstein, J.W. Lichstein, S.A. Bohlman, A. Singh, E.P. White. 2021.
-Disentangling the roles of inter and intraspecific variation on leaf trait distributions across the eastern United States
+Disentangling the roles of inter and intraspecific variation on leaf trait distributions across the eastern United States.
 bioRxiv 2021.04.01.438064; <https://doi.org/10.1101/2021.04.01.438064>
 
 Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2021.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data bioRxiv 2021.08.06.453503 <https://doi.org/10.1101/2021.08.06.453503>
@@ -1304,6 +1306,8 @@ Amazon.
 ## Presentations
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+Bohlman S.A. et al. 2022. Individual tree characterization across diverse forest types of the US National Ecological Observatory Network: cross-site approaches yield information about multi-scale drivers. ForestSAT conference.
 
 Simonis, J.L., E.P White, S.K. Morgan Ernest. 2021. Evaluating probabilistic ecological forecasts. Ecological Society of America Annual Meeting.
 
