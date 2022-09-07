@@ -1280,7 +1280,10 @@ Apoorva Pandey
 
 ### Graduate Student Committees
 
-Lauren Gonzalez (PhD), Philippe Desjardins-Proulx (PhD), Erica Christensen
+Renata Diaz (PhD), Dylan Steward (PhD), Dylan Sinnickson (PhD),
+Pablo Moreno (PhD), Anthony Melton (PhD), Leo Ohyama (PhD; partial),
+Ellen Bledsoe (PhD), Alicia McGrew (PhD), Sara Snell (PhD),
+Prabha Amarasinghe (PhD), Philippe Desjardins-Proulx (PhD), Erica Christensen
 (PhD), Martin Schilling (PhD, Utah State University), Zachary Brym (PhD, 2016,
 Utah State University), Jonathan Cardwell (PhD), Amy
 Croft (PhD), Jonathan Koch (PhD), Peter Mahoney (PhD), Sarah Supp (PhD, 2013,
