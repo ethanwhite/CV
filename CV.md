@@ -4,7 +4,7 @@
 
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
 Twitter: [\@ethanwhite](https://twitter.com/ethanwhite)  
-Website: [ethanwhite.org](http://ethanwhite.org)  
+Website: [ethanwhite.org](https://www.weecology.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
 
@@ -17,8 +17,6 @@ Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
 
 2015- \hspace{10mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
 University of Florida  
-2012- \hspace{10mm} Senior Scientist, Sevilleta Long-Term Ecological Research
-Station  
 2012-2015 \hspace{2mm} Associate Professor, Dept. of Biology and Ecology
 Center, Utah State University  
 2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
@@ -27,8 +25,8 @@ University
 
 ## Fellowships and Awards
 
-Moore Foundation Investigator in Data-Driven Discovery 2014-2021  
-NSF CAREER 'Young Investigators' Award 2010-2015  
+Moore Foundation Investigator in Data-Driven Discovery 2014-2023  
+NSF CAREER 'Young Investigators' Award 2010-2016  
 NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
 NSF Graduate Research Fellowship 2000-2005  
 University of New Mexico Biocomplexity Fellowship 2002-2004  
@@ -44,14 +42,18 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Di Cecco, G.J., S.J. Snell Taylor, E.P. White, A.H. Hurlbert. 2022. More individuals or specialized niches? Distinguishing support for hypotheses explaining positive species-energy relationships. Journal of Biogeography 49:1629-1639 <https://doi.org/10.1111/jbi.14459>
+Harmon, I., S. Marconi, B.G. Weinstein, S.J. Graves, D.Z. Wang, S.A. Bohlman, A. Zare, A. Singh, and E.P. White. In press. Injecting Domain Knowledge Into Deep Neural Networks for Tree Crown Delineation. IEEE Transactions on Geoscience and Remote Sensing [[Preprint](https://doi.org/10.36227/techrxiv.20323698.v1)]
+
+Marconi, S., B.G. Weinstein, S. Zou, S.A. Bohlman, A. Zare, A. Singh, D. Stewart, I. Harmon, A. Steinkraus, and E.P. White. 2022. Continental-scale hyperspectral tree species classification in the United States National Ecological Observatory Network. Remote Sensing of Environment 282:113264 <https://doi.org/10.1016/j.rse.2022.113264> [[OA Version](https://doi.org/10.1101/2021.12.22.473714), [Code](https://github.com/MarconiS/Continental-scale-Hyperspectral-tree-species-classification-in-the-National-Ecological-Observatory-N), [Data](https://doi.org/10.5281/zenodo.5796143)]
+
+Di Cecco, G.J., S.J. Snell Taylor, E.P. White, A.H. Hurlbert. 2022. More individuals or specialized niches? Distinguishing support for hypotheses explaining positive species-energy relationships. Journal of Biogeography 49:1629-1639 <https://doi.org/10.1111/jbi.14459> [[Code](https://zenodo.org/record/6622132#.Y0xo1WzMKXI), [Data](https://zenodo.org/record/6622132#.Y0xo1WzMKXI), [Data](https://doi.org/10.5281/zenodo.4776709)]
 
 Simonis J.L., G.M. Yenni, E.K. Bledsoe, E.M. Christensen, H. Senyondo, S.D. Taylor, H. Ye, E.P. White, and S.K.M. Ernest. 2022.
 portalcasting: Supporting automated forecasting of rodent populations.
 Journal of Open Source Software 7:3220 <https://doi.org/10.21105/joss.03220>
 [**OA**, [Code](https://github.com/weecology/portalcasting/), [Documentation](https://weecology.github.io/portalcasting/)]
 
-White, E.P., Brym, Z.T., Marx, A.J., Riemer, K., Marconi, S., Harris, D.J., Cruz, V. and Ernest, S.K.M., 2022.
+White, E.P., Z.T. Brym, A.J. Marx, K. Riemer, S. Marconi, D.J. Harris, V. Cruz and S.K.M. Ernest. 2022.
 Data Carpentry for Biologists: A semester long Data Carpentry course using ecological and other biological examples.
 Journal of Open Source Education 5:139 <https://doi.org/10.21105/jose.00139>
 [**OA**, [Code](https://github.com/datacarpentry/semester-biology/), [Website](https://datacarpentry.org/semester-biology/)]
@@ -127,7 +129,7 @@ networks. Remote Sensing 11: 1309. <https://doi.org/10.3390/rs11111309>
 [**OA**, [Code](https://github.com/weecology/TreeSegmentation), [Preprint](https://doi.org/10.1101/532952)]
 
 Yenni, G.M., E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, E.P. White,
-S.K.M. Ernest. 2019. Developing a modern data workflow for evolving data. PLOS
+S.K.M. Ernest. 2019. Developing a modern data workflow for regularly updating data. PLOS
 Biology 17:e3000125. [https://doi.org/10.1371/journal.pbio.3000125](https://doi.org/10.1371/journal.pbio.3000125)
 [**OA**, [Website](https://www.updatingdata.org/),
 [Code](https://github.com/weecology/PortalData),
@@ -559,8 +561,6 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Harmon, I., S. Marconi, B.G. Weinstein, S.J. Graves, D.Z. Wang, S.A. Bohlman, A. Zare, A. Singh, and E.P. White. 2022. Injecting Domain Knowledge Into Deep Neural Networks for Tree Crown Delineation. TechRXiv 10.36227/techrxiv.20323698.v1 <https://doi.org/10.36227/techrxiv.20323698.v1>
-
 Marconi, S. B.G. Weinstein, J.W. Lichstein, S.A. Bohlman, A. Singh, E.P. White. 2021.
 Disentangling the roles of inter and intraspecific variation on leaf trait distributions across the eastern United States.
 bioRxiv 2021.04.01.438064; <https://doi.org/10.1101/2021.04.01.438064>
@@ -689,10 +689,10 @@ Ernest. Co-PI: Ethan P. White. 2019-2024.
 
 National Science Foundation. MRA: Disentangling cross-scale influences on tree
 species, traits, and diversity from individual trees to continental
-scales. PI: E.P. White. Co-PIs: S. Bohlman, A. Singh, D. Wang, A. Zare 2019-2022.
+scales. PI: E.P. White. Co-PIs: S. Bohlman, A. Singh, D. Wang, A. Zare 2019-2023.
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
-E.P. White. 2014-2021. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
+E.P. White. 2014-2023. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
 
 Microsoft AI for Earth. Tree Detection API for the National Ecological
 Observatory Network. PIs B. Weinstein and E.P. White. 2019-2020. [https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0](https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0)
@@ -738,6 +738,18 @@ workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
 
 ## Software
 
+Marconi, S., N. Bansal, H. Senyondo, E.P. White. 2022-present. neonvegwrangler: A Python package for integrating the NEON Vegetation Structure (VST) and Airborne Observation Platform (AOP) Data. <https://github.com/weecology/neonwranglerpy>
+
+Simonis J.L., G.M. Yenni, E.K. Bledsoe, E.M. Christensen, H. Senyondo, S.D. Taylor, H. Ye, E.P. White, and S.K.M. Ernest. 2020-present. portalcasting: Supporting automated forecasting of rodent populations.
+Journal of Open Source Software <https://github.com/weecology/portalcasting/>
+
+Weinstein, B.G., S. Marconi, H. Senyondo, E.P. White. 2019-present.
+DeepForest: A Python package for RGB deep learning tree crown delineation. <https://github.com/weecology/DeepForest>
+
+Christensen, E.M., G.M. Yenni, H. Ye, J.L. Simonis, E.K. Bledsoe, R. Diaz,
+S.D. Taylor, E.P. White, S.K.M. Ernest. 2017-present. portalr: an R package for
+summarizing and using the Portal Project data. <https://github.com/weecology/portalr>
+
 Senyondo, H., B.D. Morris, A. Goel, A. Zhang, A. Narasimha, S. Negi,
 D.J. Harris, D.G. Digges, K. Kumar, A. Jain, K. Pal, K. Amipara, and
 E.P. White. 2013-present. Data Retriever: tool for easy acquisition of public
@@ -750,11 +762,11 @@ Negi, S., H. Senyondo, and E.P. White. 2017-present. Retriever.jl: Julia
 Interface to the Data Retriever. https://github.com/weecology/Retriever.jl
 
 X. Xiao, K.M. Thibault, D.J. Harris, E. Baldridge, and
-E.P. White. 2016-present. macroecotools:
+E.P. White. 2016-2019. macroecotools:
 v0.3. Zenodo. [https://doi.org/10.5281/zenodo.60207](https://doi.org/10.5281/zenodo.60207)
 
 White, E.P., K.M. Thibault, X. Xiao, D.J. McGlinn and
-S. Supp. 2014-present. METE - Software for Analyzing the Maximum Entropy Theory
+S. Supp. 2014-2019. METE - Software for Analyzing the Maximum Entropy Theory
 of Ecology. figshare.  https://dx.doi.org/10.6084/m9.figshare.815905.v4
 [[GitHub](https://github.com/weecology/METE)]
 
@@ -762,15 +774,12 @@ of Ecology. figshare.  https://dx.doi.org/10.6084/m9.figshare.815905.v4
 
 ### University Courses
 
-Zack Brym (author), David J. Harris (author), Andrew Marx (contributor), Greg
-Wilson, (contributor) and Ethan P. White (author). 2016. Data Carpentry for
-Biologists. Zenodo. http://doi.org/10.5281/zenodo.209511
-[[Website](http://www.datacarpentry.org/semester-biology/),
-[GitHub Repository](https://github.com/datacarpentry/semester-biology)]
+White, E.P., Z.T. Brym, A.J. Marx, K. Riemer, S. Marconi, D.J. Harris, V. Cruz and S.K.M. Ernest. 2022.
+Data Carpentry for Biologists: A semester long Data Carpentry course using ecological and other biological examples. [Website](https://datacarpentry.org/semester-biology/)], [GitHub Repository](https://github.com/datacarpentry/semester-biology/)
 
 Ernest, S.K.M. and E.P. White. 2016. Ecological Dynamics and
-Forecasting. [[Website](https://weecology.github.io/forecasting-dynamics-course/),
-[GitHub Repository](https://github.com/weecology/forecasting-dynamics-course)]
+Forecasting. [[Website](https://course.naturecast.org),
+[GitHub Repository](https://github.com/weecology/forecasting-course)]
 
 White, E.P. 2012. Programming for
 Biologists. [[Website](https://weecology.github.io/forecasting-dynamics-course/),
@@ -847,6 +856,12 @@ Pipitone; Karen Cranston; Maxim Belkin; Michael Hansen; Nick Young; evanwill;
 Adam Obeng; Bill Mills; Gabriel A. Devenyi; Ian Carroll; Jeffrey W. Hollister;
 Jonah Duckles; Timothée Poisot; W. Trevor King (2017, April). Data Carpentry
 Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
+
+### Other OER
+
+Yenni, G.M., A.Y. Kim, E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, S.K.M. Ernest, and E.P. White. 2019. UpdatingData: A step by step guide for using continuous integration to automate QA/QC, data archiving, and data access. <https://www.updatingdata.org/>
+
+Ernest, S.K.M., J.H. Brown, T. Valone, and E.P. White. 2015-2020. Portal Project Teaching Database: a simplified version of the Portal Project Database designed for teaching. <https://doi.org/10.6084/m9.figshare.1314459>
 
 ## Invited Seminars
 
@@ -1126,6 +1141,7 @@ Biogeography (2008, 2009)
 
 ### Workshops run (organized and/or taught)
 
+Introduction to Geospatial Data Analysis in R and Application to Remote Sensing Based Tree Inventories from Neon Sites, Ecological Soceity of America Annual Meeting, August 14 2022
 Ally Skills Workshop, University of Florida, February 21 2017  
 Data Carpentry, University of Florida, October 17-18 2016  
 Software Carpentry, University of Florida, August 17-18 2016  
