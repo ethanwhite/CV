@@ -42,7 +42,9 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Harmon, I., S. Marconi, B.G. Weinstein, S.J. Graves, D.Z. Wang, S.A. Bohlman, A. Zare, A. Singh, and E.P. White. In press. Injecting Domain Knowledge Into Deep Neural Networks for Tree Crown Delineation. IEEE Transactions on Geoscience and Remote Sensing [[Preprint](https://doi.org/10.36227/techrxiv.20323698.v1)]
+Weinstein, B.G., L. Garner, V.R. Saccomanno, A. Steinkraus, A. Ortega, K. Brush, G.M. Yenni, A.E. McKellar, R. Converse, C.D. Lippitt, A. Wegmann, N.D. Holmes, A.J. Edney, T. Hart, M.J. Jessopp, R.H. Clarke, D. Marchowski, H. Senyondo, R. Dotson, E.P. White, P. Frederick, S.K.M. Ernest. 2022. A general deep learning model for bird detection in high‐resolution airborne imagery. Ecological Applications: e2694 <https://doi.org/10.1002/eap.2694> [[Code](https://github.com/weecology/BirdDetector), [Data](https://doi.org/10.5281/zenodo.5033174), [Model](https://github.com/weecology/BirdDetector/releases/download/1.1/bird.pt), [Preprint](https://doi.org/10.1101/2021.08.05.455311)]
+
+Harmon, I., S. Marconi, B.G. Weinstein, S.J. Graves, D.Z. Wang, S.A. Bohlman, A. Zare, A. Singh, and E.P. White. 2022. Injecting Domain Knowledge Into Deep Neural Networks for Tree Crown Delineation. IEEE Transactions on Geoscience and Remote Sensing 60:1-19 <https://doi.org/10.1109/TGRS.2022.3216622> [[Preprint](https://doi.org/10.36227/techrxiv.20323698.v1)]
 
 Marconi, S., B.G. Weinstein, S. Zou, S.A. Bohlman, A. Zare, A. Singh, D. Stewart, I. Harmon, A. Steinkraus, and E.P. White. 2022. Continental-scale hyperspectral tree species classification in the United States National Ecological Observatory Network. Remote Sensing of Environment 282:113264 <https://doi.org/10.1016/j.rse.2022.113264> [[OA Version](https://doi.org/10.1101/2021.12.22.473714), [Code](https://github.com/MarconiS/Continental-scale-Hyperspectral-tree-species-classification-in-the-National-Ecological-Observatory-N), [Data](https://doi.org/10.5281/zenodo.5796143)]
 
@@ -560,6 +562,8 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
+
+Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
 
 Marconi, S. B.G. Weinstein, J.W. Lichstein, S.A. Bohlman, A. Singh, E.P. White. 2021.
 Disentangling the roles of inter and intraspecific variation on leaf trait distributions across the eastern United States.
