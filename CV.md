@@ -563,6 +563,12 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Ernest, S.K., H. Ye, and E.P. White. 2022. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. EcoEvoRxiv <https://doi.org/10.32942/X2B88H>
+
+Weinstein, B.G., S. Marconi, S.J. Graves, A. Zare, A. Singh, S.A. Bohlman, L. Magee, D.J. Johnson, P.A. Townsend, and E.P. White. 2022. Capturing long-tailed individual tree diversity using an airborne multi-temporal hierarchical model. bioRxiv <https://doi.org/10.1101/2022.12.07.519493 >
+
+Harmon, I., S. Marconi, B. Weinstein, Y. Bai, D. Wang, E.P. White, and S. Bohlman. 2022 Improving Rare Tree Species Classification using Domain Knowledge. TechRxiv <https://doi.org/10.36227/techrxiv.21760670.v1>
+
 Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
 
 Marconi, S. B.G. Weinstein, J.W. Lichstein, S.A. Bohlman, A. Singh, E.P. White. 2021.
@@ -587,7 +593,7 @@ ArXiv:1910.04932 https://arxiv.org/abs/1910.04932
 
 Dietze, M. and E.P. White. 2019. Facilitating NASA Ecological Forecasts through
 shared cyberinfrastructure NASA Biological Diversity and Ecological Forecasting
-Programs: White Papers on Important Questions
+Programs: White Papers on Important Questions.
 
 Dietze, M., E.P. White, and R.Q. Thomas. 2019. Can we predict nature? NASA
 Biological Diversity and Ecological Forecasting Programs: White Papers on
