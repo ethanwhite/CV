@@ -3,7 +3,7 @@
 ## Contact
 
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
-Twitter: [\@ethanwhite](https://twitter.com/ethanwhite)  
+Mastodon: [\@ethanwhite\@hachyderm.io](https://hachyderm.io/@ethanwhite)  
 Website: [ethanwhite.org](https://www.weecology.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
