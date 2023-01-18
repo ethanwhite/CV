@@ -1336,6 +1336,8 @@ Amazon.
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+Ernest, S.K.M. and E.P. White. 2022. Monitoring Wading Birds at Scale Using Drones & Artificial Intelligence. University of Florida National History Museum. [[Video](https://www.youtube.com/watch?v=9HXZEaxdbUo), *Invited*]
+
 Bohlman S.A. et al. 2022. Individual tree characterization across diverse forest types of the US National Ecological Observatory Network: cross-site approaches yield information about multi-scale drivers. ForestSAT conference.
 
 Simonis, J.L., E.P White, S.K. Morgan Ernest. 2021. Evaluating probabilistic ecological forecasts. Ecological Society of America Annual Meeting.
