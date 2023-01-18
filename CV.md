@@ -875,6 +875,8 @@ Ernest, S.K.M., J.H. Brown, T. Valone, and E.P. White. 2015-2020. Portal Project
 
 ## Invited Seminars
 
+Ernest, S.K.M. and E.P. White. 2022. "Monitoring Wading Birds at Scale Using Drones & Artificial Intelligence". University of Florida National History Museum. [[Video](https://www.youtube.com/watch?v=9HXZEaxdbUo)]
+
 "Data science and foresting competitions in ecology".
 Ecological Foresting Initiative Research Coordination Network (EFI-RCN) Virtual Workshop.
 May 12th, 2020.
@@ -1335,8 +1337,6 @@ Amazon.
 ## Presentations
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
-
-Ernest, S.K.M. and E.P. White. 2022. Monitoring Wading Birds at Scale Using Drones & Artificial Intelligence. University of Florida National History Museum. [[Video](https://www.youtube.com/watch?v=9HXZEaxdbUo), *Invited*]
 
 Bohlman S.A. et al. 2022. Individual tree characterization across diverse forest types of the US National Ecological Observatory Network: cross-site approaches yield information about multi-scale drivers. ForestSAT conference.
 
