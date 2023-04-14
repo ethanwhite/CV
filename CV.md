@@ -42,6 +42,8 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
+Weinstein, B.G., S. Marconi, S.J. Graves, A. Zare, A. Singh, S.A. Bohlman, L. Magee, D.J. Johnson, P.A. Townsend, and E.P. White. In press. Capturing long-tailed individual tree diversity using an airborne multi-temporal hierarchical model. Remote Sensing in Ecology and Conservation. [[Preprint](https://doi.org/10.1101/2022.12.07.519493)]
+
 Weinstein, B.G., L. Garner, V.R. Saccomanno, A. Steinkraus, A. Ortega, K. Brush, G.M. Yenni, A.E. McKellar, R. Converse, C.D. Lippitt, A. Wegmann, N.D. Holmes, A.J. Edney, T. Hart, M.J. Jessopp, R.H. Clarke, D. Marchowski, H. Senyondo, R. Dotson, E.P. White, P. Frederick, S.K.M. Ernest. 2022. A general deep learning model for bird detection in high‐resolution airborne imagery. Ecological Applications: e2694 <https://doi.org/10.1002/eap.2694> [[**OA version**](https://doi.org/10.1101/2021.08.05.455311), [Code](https://github.com/weecology/BirdDetector), [Data](https://doi.org/10.5281/zenodo.5033174), [Model](https://github.com/weecology/BirdDetector/releases/download/1.1/bird.pt), [Preprint](https://doi.org/10.1101/2021.08.05.455311)]
 
 Harmon, I., S. Marconi, B.G. Weinstein, S.J. Graves, D.Z. Wang, S.A. Bohlman, A. Zare, A. Singh, and E.P. White. 2022. Injecting Domain Knowledge Into Deep Neural Networks for Tree Crown Delineation. IEEE Transactions on Geoscience and Remote Sensing 60:1-19 <https://doi.org/10.1109/TGRS.2022.3216622> [[**OA version**](https://doi.org/10.36227/techrxiv.20323698.v1), [Preprint](https://doi.org/10.36227/techrxiv.20323698.v1)]
@@ -564,8 +566,6 @@ Sunderland, MA.
 ### Preprints (not yet formally published)
 
 Ernest, S.K., H. Ye, and E.P. White. 2022. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. EcoEvoRxiv <https://doi.org/10.32942/X2B88H>
-
-Weinstein, B.G., S. Marconi, S.J. Graves, A. Zare, A. Singh, S.A. Bohlman, L. Magee, D.J. Johnson, P.A. Townsend, and E.P. White. 2022. Capturing long-tailed individual tree diversity using an airborne multi-temporal hierarchical model. bioRxiv <https://doi.org/10.1101/2022.12.07.519493 >
 
 Harmon, I., S. Marconi, B. Weinstein, Y. Bai, D. Wang, E.P. White, and S. Bohlman. 2022 Improving Rare Tree Species Classification using Domain Knowledge. TechRxiv <https://doi.org/10.36227/techrxiv.21760670.v1>
 
