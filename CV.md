@@ -875,6 +875,10 @@ Ernest, S.K.M., J.H. Brown, T. Valone, and E.P. White. 2015-2020. Portal Project
 
 ## Invited Seminars
 
+White, E.P. 2023. "Monitoring Ecosystems at Scale Using Airborne Remote Sensing & Computer Vision". The Ohio State University. [[Video](https://youtu.be/LJdwPnukm0k)]
+
+White, E.P., S.K.M. Ernest, B. Weinstein, L. Garner, A. Ortega, H. Senyondo, G.M. Yenni, and P. Frederick. 2023. "Monitoring Wading Birds at Scale Using Drones & Computer Vision". Everglades National Park (to delegation from the Cambodian government)
+
 Ernest, S.K.M. and E.P. White. 2022. "Monitoring Wading Birds at Scale Using Drones & Artificial Intelligence". University of Florida National History Museum. [[Video](https://www.youtube.com/watch?v=9HXZEaxdbUo)]
 
 "Data science and foresting competitions in ecology".
