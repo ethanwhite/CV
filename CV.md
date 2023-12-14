@@ -4,7 +4,7 @@
 
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
 Mastodon: [\@ethanwhite\@hachyderm.io](https://hachyderm.io/@ethanwhite)  
-Website: [ethanwhite.org](https://www.weecology.org)  
+Website: [weecology.org](https://www.weecology.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
 
@@ -42,7 +42,13 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Weinstein, B.G., S. Marconi, S.J. Graves, A. Zare, A. Singh, S.A. Bohlman, L. Magee, D.J. Johnson, P.A. Townsend, and E.P. White. In press. Capturing long-tailed individual tree diversity using an airborne multi-temporal hierarchical model. Remote Sensing in Ecology and Conservation. [[Preprint](https://doi.org/10.1101/2022.12.07.519493)]
+Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. In press.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. PeerJ. [[Preprint](https://doi.org/10.1101/2021.08.06.453503)]
+
+Ernest, S.K., H. Ye, and E.P. White. 2023. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. Journal of Open Source Education 6: 198 <https://doi.org/10.21105/jose.00198> [[Preprint](https://doi.org/10.32942/X2B88H)]
+
+Harmon, I., S. Marconi, B. Weinstein, Y. Bai, D. Wang, E.P. White, and S. Bohlman. 2023 Improving Rare Tree Species Classification using Domain Knowledge. IEEE Geoscience and Remote Sensing Letters 20: 8500305 <https://doi.org/10.1109/LGRS.2023.3278170> [[Preprint](https://doi.org/10.36227/techrxiv.21760670.v1)]
+
+Weinstein, B.G., S. Marconi, S.J. Graves, A. Zare, A. Singh, S.A. Bohlman, L. Magee, D.J. Johnson, P.A. Townsend, and E.P. White. 2023. Capturing long-tailed individual tree diversity using an airborne multi-temporal hierarchical model. Remote Sensing in Ecology and Conservation 9:656-670 <https://doi.org/10.1002/rse2.335>. [[Code](https://github.com/weecology/DeepTreeAttention/), [Data](https://doi.org/10.5281/zenodo.7301868), [Preprint](https://doi.org/10.1101/2022.12.07.519493)]
 
 Weinstein, B.G., L. Garner, V.R. Saccomanno, A. Steinkraus, A. Ortega, K. Brush, G.M. Yenni, A.E. McKellar, R. Converse, C.D. Lippitt, A. Wegmann, N.D. Holmes, A.J. Edney, T. Hart, M.J. Jessopp, R.H. Clarke, D. Marchowski, H. Senyondo, R. Dotson, E.P. White, P. Frederick, S.K.M. Ernest. 2022. A general deep learning model for bird detection in high‐resolution airborne imagery. Ecological Applications: e2694 <https://doi.org/10.1002/eap.2694> [[**OA version**](https://doi.org/10.1101/2021.08.05.455311), [Code](https://github.com/weecology/BirdDetector), [Data](https://doi.org/10.5281/zenodo.5033174), [Model](https://github.com/weecology/BirdDetector/releases/download/1.1/bird.pt), [Preprint](https://doi.org/10.1101/2021.08.05.455311)]
 
@@ -565,17 +571,17 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
-Ernest, S.K., H. Ye, and E.P. White. 2022. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. EcoEvoRxiv <https://doi.org/10.32942/X2B88H>
+Weinstein, B.G., S. Marconi, A. Zare, S.A. Bohlman, A.Singh, S.J. Graves, L. Magee, D.J. Johnson, S. Record, V.E. Rubio, N.G. Swenson, P. Townsend, T.T. Veblen, R.A. Andrus, E.P. White. 2023. Individual tree crown maps for the National Ecological Observatory Network. bioRxiv <https://doi.org/10.1101/2023.10.25.563626>
 
-Harmon, I., S. Marconi, B. Weinstein, Y. Bai, D. Wang, E.P. White, and S. Bohlman. 2022 Improving Rare Tree Species Classification using Domain Knowledge. TechRxiv <https://doi.org/10.36227/techrxiv.21760670.v1>
+Dumandan, P.K.T., J. Simonis, G.M. Yenni, S.K.M. Ernest, and E.P. White. 2023. Transferability of ecological forecasting models to novel biotic conditions in a long-term experimental study. bioRxiv <https://doi.org/10.1101/2023.11.01.565145>
+
+Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. 2023. Forecasting rodent population dynamics and community transitions with dynamic nonlinear models. EcoEvoRxiv <https://doi.org/10.32942/X2TS34> [[Code](https://github.com/nicholasjclark/portal_VAR)]
 
 Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
 
 Marconi, S. B.G. Weinstein, J.W. Lichstein, S.A. Bohlman, A. Singh, E.P. White. 2021.
 Disentangling the roles of inter and intraspecific variation on leaf trait distributions across the eastern United States.
 bioRxiv 2021.04.01.438064; <https://doi.org/10.1101/2021.04.01.438064>
-
-Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2021.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data bioRxiv 2021.08.06.453503 <https://doi.org/10.1101/2021.08.06.453503>
 
 Taylor, S.D. and E.P. White. 2020.
 Influence of climate forecasts, data assimilation, and uncertainty propagation on the performance of near-term phenology forecasts
@@ -587,7 +593,9 @@ bioRxiv 685735. [https://doi.org/10.1101/685735](https://doi.org/10.1101/685735)
 
 Choi, H., A. Sadeghian, S. Marconi, E.P. White, Daisy Zhe Wang. 2019.
 Measuring Impact of Climate Change on Tree Species: analysis of JSDM on FIA data.
-ArXiv:1910.04932 https://arxiv.org/abs/1910.04932
+ArXiv:1910.04932 <https://arxiv.org/abs/1910.04932>
+
+Tennant, J.P., T. Poisot... E.P. White... P. Murray-Rust. 2015. Open Letter to The American Association for the Advancement of Science. The Winnower <https://doi.org/10.15200/winn.140813.35294>
 
 ### Other publications
 
@@ -693,55 +701,59 @@ pp.1835-1841.
 
 ## Grants and Contracts
 
+National Science Foundation. Cross-scale forecasting of Everglades wading bird dynamics.
+PI: Ethan P. White. Co-PI: S.K. Morgan Ernest. 2024-2028. $749,988.
+
 National Science Foundation. LTREB: Using forecasting and long-term experiments
 to understand ecological dynamics under novel conditions. PI: S.K. Morgan
-Ernest. Co-PI: Ethan P. White. 2019-2024.
+Ernest. Co-PI: Ethan P. White. 2019-2024. $637,157
 
 National Science Foundation. MRA: Disentangling cross-scale influences on tree
 species, traits, and diversity from individual trees to continental
-scales. PI: E.P. White. Co-PIs: S. Bohlman, A. Singh, D. Wang, A. Zare 2019-2023.
+scales. PI: E.P. White. Co-PIs: S. Bohlman, A. Singh, D. Wang, A. Zare 2019-2023. $1,313,135.00
 
 Moore Foundation. Investigator in Data-Driven Discovery. PI:
-E.P. White. 2014-2023. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330)
+E.P. White. 2014-2023. [http://dx.doi.org/10.6084/m9.figshare.1189330](http://dx.doi.org/10.6084/m9.figshare.1189330) $1,859,920
 
 Microsoft AI for Earth. Tree Detection API for the National Ecological
-Observatory Network. PIs B. Weinstein and E.P. White. 2019-2020. [https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0](https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0)
+Observatory Network. PIs B. Weinstein and E.P. White. 2019-2020. 10,000 hours of cloud computing [https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0](https://www.dropbox.com/s/ykwck9txxqnn6i0/A%20deep%20learning%20tree%20detection%20API%20for%20the%20National%20Ecological%20Observation%20Network.docx?dl=0)
 
 National Institute of Standards and Technology (NIST). Data Science Evaluation
 for Tree Identification using NEON. PIs: Z. Wang, E.P. White,
-S. Bohlman. 2017-2018.
+S. Bohlman. 2017-2018. $49,982
 
 National Institute of Standards and Technology (NIST). Data Science for
 Multimodal Plant Identification Task. PIs: Z. Wang and E.P. White. Co PIs:
-S. Bohlman and P. Grader. 2016-2017.
+S. Bohlman and P. Grader. 2016-2017. $50,000
 
 National Science Foundation (DEB-1354563). SG: Distinguishing between core and
 transient species: new insights into the determinants of species richness. PIs:
-A.H. Hurlbert and E.P.White. 2014-2018.
+A.H. Hurlbert and E.P.White. 2014-2018. $154,843
 
 University of Florida Creative Campus Catalyst Fund. Turning Scientific Data
 Into Digital SoundScapes. PIs: E.M. Bruna, J.C. Oliverio, and
-E.P. White. 2015-2016.
+E.P. White. 2015-2016. $20,000
 
 National Science Foundation (DEB-0953694). CAREER: Advancing macroecology using
 informatics and entropy maximization. PI:
-E.P. White. 2010-2016. [http://doi.org/10.6084/m9.figshare.93937](http://doi.org/10.6084/m9.figshare.93937)
+E.P. White. 2010-2016. $657,499
+[http://doi.org/10.6084/m9.figshare.93937](http://doi.org/10.6084/m9.figshare.93937)
 
 Amazon Web Services (AWS in Education Research Grant). Synthesizing molecular
 and ecological neutral theories via genome based simulation. PIs: E.P. White and
-K.J. Locey. 2011-2013.
+K.J. Locey. 2011-2013. 10,000 hours of cloud computing
 
 National Ecological Observatory Network. Existing terrestrial organismal data
-survey and secure database interface development. PI: E.P. White. 2012.
+survey and secure database interface development. PI: E.P. White. 2012. $65,896
 
 National Science Foundation (DEB-0827826). Understanding multimodality in animal
 size distributions (Research Starter Grant). PI:
-E.P. White. 2008-2010. [http://doi.org/10.6084/m9.figshare.93939](http://doi.org/10.6084/m9.figshare.93939)
+E.P. White. 2008-2010. $50,000 [http://doi.org/10.6084/m9.figshare.93939](http://doi.org/10.6084/m9.figshare.93939)
 
 National Science Foundation (DBI-0532847). Broad-scale patterns of the
 distribution of body sizes of individuals in ecological communities
 (Postdoctoral Fellowship in Biological Informatics). PI: E.P. White.
-2005-2007. [http://doi.org/10.6084/m9.figshare.93938](http://doi.org/10.6084/m9.figshare.93938)
+2005-2007. $120,000 [http://doi.org/10.6084/m9.figshare.93938](http://doi.org/10.6084/m9.figshare.93938)
 
 LTER Network Office workshop grant. Species richness in space and time
 workshop. PIs: W.K. Lauenroth, E.P. White and P.B. Adler. 2004.
@@ -1128,11 +1140,13 @@ Folia Geobotanica, Research Letters in Ecology, Geological Society of America
 External examiner of Ph.D. Theses: Macquarie University (2008)
 
 ## University Service
-
+WEC For All Committee, Department of Wildlife Ecology and Conservation,
+University of Florida (2019-2023)__
+Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation__
+University of Florida (2019-2023)__
 Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
-University of Florida (2019-present)__
-Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation,
-University of Florida (2019-present)__
+University of Florida (2019-2021)__
+
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
 of Florida (2016-2017)  
 Biodiversity Symposium Participant, University of Florida (2016)  
