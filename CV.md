@@ -42,7 +42,7 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. In press.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. PeerJ. [[Preprint](https://doi.org/10.1101/2021.08.06.453503)]
+Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2023.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. PeerJ 11:e16578. <https://doi.org/10.7717/peerj.16578> [[Code](https://zenodo.org/doi/10.5281/zenodo.3833215), [Data](https://doi.org/10.5281/zenodo.3934932), [Preprint](https://doi.org/10.1101/2021.08.06.453503)]
 
 Ernest, S.K., H. Ye, and E.P. White. 2023. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. Journal of Open Source Education 6: 198 <https://doi.org/10.21105/jose.00198> [[Preprint](https://doi.org/10.32942/X2B88H)]
 
