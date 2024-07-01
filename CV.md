@@ -3,7 +3,6 @@
 ## Contact
 
 Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
-Mastodon: [\@ethanwhite\@hachyderm.io](https://hachyderm.io/@ethanwhite)  
 Website: [weecology.org](https://www.weecology.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
@@ -15,7 +14,8 @@ Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
 
 ## Research and Professional Experience
 
-2015- \hspace{10mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
+2024- \hspace{10mm} Professor, Dept. Wildlife Ecology & Conservation, University of Florida  
+2015-2024 \hspace{2mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
 University of Florida  
 2012-2015 \hspace{2mm} Associate Professor, Dept. of Biology and Ecology
 Center, Utah State University  
@@ -147,7 +147,7 @@ Biology 17:e3000125. [https://doi.org/10.1371/journal.pbio.3000125](https://doi.
 
 Marconi, S., S.J. Graves, D. Gong, M. Shahriari Nia, M. Le Bras, B.J. Dorr,
 P. Fontana, J. Gearhart, C. Greenberg, D.J.  Harris, S.A. Kumar, A. Nishant,
-J. Prarabdh, S.U. Rege, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A data
+J. Prarabdh, S.U. Rege, S.A. Bohlman, E.P. White, D.Z. Wang. 2019. A data
 science challenge for converting airborne remote sensing data into ecological
 information. PeerJ 6:e5843. [https://doi.org/10.7717/peerj.5843](https://doi.org/10.7717/peerj.5843)
 [**OA**, [Website](https://www.ecodse.org/),
@@ -1098,6 +1098,7 @@ Van Noorden. Nature. September
 
 ### Grant Panels and Reviewing
 National Science Foundation Panelist
+Black Women in Computational Biology
 Review of grant applications for NSF (United States), NSERC (Canada), NRF (South Africa), rOpenSci
 
 ## Conference Reviewing
