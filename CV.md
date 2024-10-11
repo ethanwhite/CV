@@ -42,6 +42,12 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
+Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K.M. Ernest, R.J. Figueiredo, M.D. Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.Ch. Paschalidis, J.A. Peters, C. R. Rollinson, J. Simonis, K. Sullivan-Wiley, R. Q. Thomas, G. M. Wardle, A. M. Willson, and J. Zwart. In press. Near-term Ecological Forecasting for Climate Change Action. Nature Climate Change.
+
+White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. In press. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945)], [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
+
+Dumandan, P.K.T., J.L. Simonis, G.M Yenni, S.K.M. Ernest, and E.P. White. 2024. Transferability of ecological forecasting models to novel biotic conditions in a long‐term experimental study. Ecology. <https://doi.org/10.1002/ecy.4406> [[Code](https://doi.org/10.5281/zenodo.11053744), [Data](https://doi.org/10.5281/zenodo.8436468)], [Preprint](https://doi.org/10.1101/2023.11.01.565145)]
+
 Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2023.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. PeerJ 11:e16578. <https://doi.org/10.7717/peerj.16578> [[Code](https://zenodo.org/doi/10.5281/zenodo.3833215), [Data](https://doi.org/10.5281/zenodo.3934932), [Preprint](https://doi.org/10.1101/2021.08.06.453503)]
 
 Ernest, S.K., H. Ye, and E.P. White. 2023. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. Journal of Open Source Education 6: 198 <https://doi.org/10.21105/jose.00198> [[Preprint](https://doi.org/10.32942/X2B88H)]
@@ -1108,9 +1114,10 @@ Computing in Computational and Data-Enabled Science and Engineering, Program Com
 
 ### Board Memberships & Affiliations
 
+OurResearch, Board of Directors (2014-present)
+Ecological Forecasting Initiative, Fiscal Sponsorship Taskforce (2024)
 Ecological Forecasting Initiative Elections Subcommittee (2021-2022)
 Ecological Forecasting Initiative, Steering Committee (2021-2022)  
-OurResearch, Board of Directors (2014-present)  
 Ecological Forecasting Initiative, Founding Board (2018-2021)  
 EarthLife Consortium, Board of Directors (2018-2021)
 Biology and Environmental Data Education Network, Steering Committee (2018-2020)  
@@ -1142,12 +1149,12 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 ## University Service
 WEC For All Committee, Department of Wildlife Ecology and Conservation,
-University of Florida (2019-2023)__
-Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation__
-University of Florida (2019-2023)__
+University of Florida (2023-present)
+Seminar Committee, Department of Wildlife Ecology and Conservation, University
+of Florida (2023-2024)
+Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation University of Florida (2019-2023)
 Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
-University of Florida (2019-2021)__
-
+University of Florida (2019-2021)
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
 of Florida (2016-2017)  
 Biodiversity Symposium Participant, University of Florida (2016)  
