@@ -48,6 +48,8 @@ White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G
 
 Dumandan, P.K.T., J.L. Simonis, G.M Yenni, S.K.M. Ernest, and E.P. White. 2024. Transferability of ecological forecasting models to novel biotic conditions in a long‐term experimental study. Ecology. <https://doi.org/10.1002/ecy.4406> [[Code](https://doi.org/10.5281/zenodo.11053744), [Data](https://doi.org/10.5281/zenodo.8436468)], [Preprint](https://doi.org/10.1101/2023.11.01.565145)]
 
+Weinstein, B.G., S. Marconi, A. Zare, S.A. Bohlman, A.Singh, S.J. Graves, L. Magee, D.J. Johnson, S. Record, V.E. Rubio, N.G. Swenson, P. Townsend, T.T. Veblen, R.A. Andrus, E.P. White. 2023. Individual tree crown maps for the National Ecological Observatory Network. PLOS Biology 22:e3002700 <https://doi.org/10.1371/journal.pbio.3002700> [[Data](https://zenodo.org/records/10926344), [Code](https://zenodo.org/records/10689811), [Website](https://visualize.idtrees.org/), [Preprint](https://doi.org/10.1101/2023.10.25.563626)]
+
 Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2023.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. PeerJ 11:e16578. <https://doi.org/10.7717/peerj.16578> [[Code](https://zenodo.org/doi/10.5281/zenodo.3833215), [Data](https://doi.org/10.5281/zenodo.3934932), [Preprint](https://doi.org/10.1101/2021.08.06.453503)]
 
 Ernest, S.K., H. Ye, and E.P. White. 2023. Ecological Forecasting and Dynamics: A graduate course on the fundamentals of time series and forecasting in ecology. Journal of Open Source Education 6: 198 <https://doi.org/10.21105/jose.00198> [[Preprint](https://doi.org/10.32942/X2B88H)]
@@ -576,10 +578,6 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Weinstein, B.G., S. Marconi, A. Zare, S.A. Bohlman, A.Singh, S.J. Graves, L. Magee, D.J. Johnson, S. Record, V.E. Rubio, N.G. Swenson, P. Townsend, T.T. Veblen, R.A. Andrus, E.P. White. 2023. Individual tree crown maps for the National Ecological Observatory Network. bioRxiv <https://doi.org/10.1101/2023.10.25.563626>
-
-Dumandan, P.K.T., J. Simonis, G.M. Yenni, S.K.M. Ernest, and E.P. White. 2023. Transferability of ecological forecasting models to novel biotic conditions in a long-term experimental study. bioRxiv <https://doi.org/10.1101/2023.11.01.565145>
 
 Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. 2023. Forecasting rodent population dynamics and community transitions with dynamic nonlinear models. EcoEvoRxiv <https://doi.org/10.32942/X2TS34> [[Code](https://github.com/nicholasjclark/portal_VAR)]
 
