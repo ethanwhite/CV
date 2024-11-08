@@ -42,13 +42,13 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K.M. Ernest, R.J. Figueiredo, M.D. Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.Ch. Paschalidis, J.A. Peters, C. R. Rollinson, J. Simonis, K. Sullivan-Wiley, R. Q. Thomas, G. M. Wardle, A. M. Willson, and J. Zwart. In press. Near-term Ecological Forecasting for Climate Change Action. Nature Climate Change.
+White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2024. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945)], [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
 
-White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. In press. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945)], [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
+Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K.M. Ernest, R.J. Figueiredo, M.D. Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.Ch. Paschalidis, J.A. Peters, C. R. Rollinson, J. Simonis, K. Sullivan-Wiley, R. Q. Thomas, G. M. Wardle, A. M. Willson, and J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. Nature Climate Change <https://doi.org/10.1038/s41558-024-02182-0>
 
-Dumandan, P.K.T., J.L. Simonis, G.M Yenni, S.K.M. Ernest, and E.P. White. 2024. Transferability of ecological forecasting models to novel biotic conditions in a long‐term experimental study. Ecology. <https://doi.org/10.1002/ecy.4406> [[Code](https://doi.org/10.5281/zenodo.11053744), [Data](https://doi.org/10.5281/zenodo.8436468)], [Preprint](https://doi.org/10.1101/2023.11.01.565145)]
+Dumandan, P.K.T., J.L. Simonis, G.M Yenni, S.K.M. Ernest, and E.P. White. 2024. Transferability of ecological forecasting models to novel biotic conditions in a long‐term experimental study. Ecology: 105:e4406 <https://doi.org/10.1002/ecy.4406> [[Code](https://doi.org/10.5281/zenodo.11053744), [Data](https://doi.org/10.5281/zenodo.8436468), [Preprint](https://doi.org/10.1101/2023.11.01.565145)]
 
-Weinstein, B.G., S. Marconi, A. Zare, S.A. Bohlman, A.Singh, S.J. Graves, L. Magee, D.J. Johnson, S. Record, V.E. Rubio, N.G. Swenson, P. Townsend, T.T. Veblen, R.A. Andrus, E.P. White. 2023. Individual tree crown maps for the National Ecological Observatory Network. PLOS Biology 22:e3002700 <https://doi.org/10.1371/journal.pbio.3002700> [[Data](https://zenodo.org/records/10926344), [Code](https://zenodo.org/records/10689811), [Website](https://visualize.idtrees.org/), [Preprint](https://doi.org/10.1101/2023.10.25.563626)]
+Weinstein, B.G., S. Marconi, A. Zare, S.A. Bohlman, A.Singh, S.J. Graves, L. Magee, D.J. Johnson, S. Record, V.E. Rubio, N.G. Swenson, P. Townsend, T.T. Veblen, R.A. Andrus, E.P. White. 2024. Individual tree crown maps for the National Ecological Observatory Network. PLOS Biology 22:e3002700 <https://doi.org/10.1371/journal.pbio.3002700> [[Data](https://zenodo.org/records/10926344), [Code](https://zenodo.org/records/10689811), [Website](https://visualize.idtrees.org/), [Preprint](https://doi.org/10.1101/2023.10.25.563626)]
 
 Graves, S.J., S. Marconi, D. Stewart, I. Harmon, B.G. Weinstein, Y. Kanazawa, V.M. Scholl, M.B. Joseph, J. McClinchy, L. Browne, M.K. Sullivan, S. Estrada-Villegas, E. Tusa, D.Z. Wang, A. Singh, S.A. Bohlman, A. Zare, E.P. White. 2023.  Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. PeerJ 11:e16578. <https://doi.org/10.7717/peerj.16578> [[Code](https://zenodo.org/doi/10.5281/zenodo.3833215), [Data](https://doi.org/10.5281/zenodo.3934932), [Preprint](https://doi.org/10.1101/2021.08.06.453503)]
 
@@ -704,6 +704,14 @@ pp.1835-1841.
 
 
 ## Grants and Contracts
+
+Bureau of Ocean Energy Management.
+Artificial intelligence, open data, and accessible visualization for monitoring protected birds in the Northern Gulf of Mexico.
+PI: Ethan P. White. 2024-2029. $349,897
+
+World Resources Institute.
+Improving tree detection from remote sensing through benchmark and software development.
+PI: Ethan P. White. 2024-2026. $499,818
 
 National Science Foundation. Cross-scale forecasting of Everglades wading bird dynamics.
 PI: Ethan P. White. Co-PI: S.K. Morgan Ernest. 2024-2028. $749,988.
