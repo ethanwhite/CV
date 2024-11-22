@@ -42,7 +42,7 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing.
+Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing. <https://doi.org/10.3390/rs16234365> [[Code](https://github.com/ihmn02/forest_ecology_neuro_symbolic_framework), [Data](https://zenodo.org/records/14194555)]
 
 White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2024. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
 
