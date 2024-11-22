@@ -42,9 +42,9 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. In press. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing. <https://doi.org/10.3390/rs16234365> [[Code](https://github.com/ihmn02/forest_ecology_neuro_symbolic_framework), [Data](https://zenodo.org/records/14194555)]
-
 White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2024. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
+
+Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. 2024. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing 16:4365 <https://doi.org/10.3390/rs16234365> [[Code](https://github.com/ihmn02/forest_ecology_neuro_symbolic_framework), [Data](https://zenodo.org/records/14194555)]
 
 Dietze, M., E.P. White, A. Abeyta, C. Boettiger, N. Bueno Watts, C.C. Carey, R. Chaplin-Kramer, R.E. Emanuel, S.K.M. Ernest, R.J. Figueiredo, M.D. Gerst, L.R. Johnson, M.A. Kenney, J.S. McLachlan, I.Ch. Paschalidis, J.A. Peters, C. R. Rollinson, J. Simonis, K. Sullivan-Wiley, R. Q. Thomas, G. M. Wardle, A. M. Willson, and J. Zwart. 2024. Near-term Ecological Forecasting for Climate Change Action. Nature Climate Change <https://doi.org/10.1038/s41558-024-02182-0>
 
