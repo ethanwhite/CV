@@ -707,6 +707,10 @@ pp.1835-1841.
 
 ## Grants and Contracts
 
+National Science Foundation.
+LTREB Renewal: Using forecasting and long-term experiments to understand ecological dynamics under novel conditions.
+PI: S.K. Morgan Ernest. Co-PI: Ethan P. White. 2024-2029. $643,550
+
 Bureau of Ocean Energy Management.
 Artificial intelligence, open data, and accessible visualization for monitoring protected birds in the Northern Gulf of Mexico.
 PI: Ethan P. White. 2024-2029. $349,897
@@ -715,8 +719,13 @@ World Resources Institute.
 Improving tree detection from remote sensing through benchmark and software development.
 PI: Ethan P. White. 2024-2026. $499,818
 
-National Science Foundation. Cross-scale forecasting of Everglades wading bird dynamics.
+National Science Foundation.
+Cross-scale forecasting of Everglades wading bird dynamics.
 PI: Ethan P. White. Co-PI: S.K. Morgan Ernest. 2024-2028. $749,988.
+
+The Boring Fund (Fauna & Flora International).
+Artificial Intelligence for Ecological Monitoring in Latin America.
+PI: Ethan P. White. $12,449
 
 National Science Foundation. LTREB: Using forecasting and long-term experiments
 to understand ecological dynamics under novel conditions. PI: S.K. Morgan
