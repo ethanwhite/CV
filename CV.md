@@ -42,6 +42,8 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
+Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. In press. Beyond single-species models: leveraging multispecies forecasts to navigate the dynamics of ecological predictability. PeerJ [[Preprint](https://doi.org/10.32942/X2TS34), [Code](https://github.com/nicholasjclark/portal_VAR)]
+
 White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2024. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
 
 Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. 2024. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing 16:4365 <https://doi.org/10.3390/rs16234365> [[Code](https://github.com/ihmn02/forest_ecology_neuro_symbolic_framework), [Data](https://zenodo.org/records/14194555)]
@@ -580,8 +582,6 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
-
-Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. 2023. Forecasting rodent population dynamics and community transitions with dynamic nonlinear models. EcoEvoRxiv <https://doi.org/10.32942/X2TS34> [[Code](https://github.com/nicholasjclark/portal_VAR)]
 
 Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
 
