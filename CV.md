@@ -42,7 +42,7 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
-Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. In press. Beyond single-species models: leveraging multispecies forecasts to navigate the dynamics of ecological predictability. PeerJ [[Preprint](https://doi.org/10.32942/X2TS34), [Code](https://github.com/nicholasjclark/portal_VAR)]
+Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. In press. Beyond single-species models: leveraging multispecies forecasts to navigate the dynamics of ecological predictability. PeerJ 13:e18929 <https://doi.org/10.7717/peerj.18929> [[Preprint](https://doi.org/10.32942/X2TS34), [Code](https://github.com/nicholasjclark/portal_VAR)]
 
 White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2024. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
 
@@ -582,6 +582,9 @@ Invasions: Insights to Ecology, Evolution and Biogeography. Sinauer Associates,
 Sunderland, MA.
 
 ### Preprints (not yet formally published)
+
+
+Ernest, S.K.M., L.A. Garner, B.G. Weinstein, P. Frederick, H. Senyondo, G.M. Yenni, and E.P. White. Using time-series remote sensing to identify and track individual bird nests at large scales. bioRxiv <https://doi.org/10.1101/2025.02.21.639546>
 
 Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
 
