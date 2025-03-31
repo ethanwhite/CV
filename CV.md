@@ -1132,11 +1132,11 @@ Computing in Computational and Data-Enabled Science and Engineering, Program Com
 ### Board Memberships & Affiliations
 
 OurResearch, Board of Directors (2014-present)
+EarthLife Consortium, Board of Directors (2018-2025)
 Ecological Forecasting Initiative, Fiscal Sponsorship Taskforce (2024)
 Ecological Forecasting Initiative Elections Subcommittee (2021-2022)
 Ecological Forecasting Initiative, Steering Committee (2021-2022)  
 Ecological Forecasting Initiative, Founding Board (2018-2021)  
-EarthLife Consortium, Board of Directors (2018-2021)
 Biology and Environmental Data Education Network, Steering Committee (2018-2020)  
 The Carpentries, Executive Council (2018-2019)  
 University of Florida Biodiversity Institute, Advisory Board (2015-present)  
@@ -1149,6 +1149,8 @@ Data Carpentry, Co-founder and Board of Directors (2014-2015)
 Software Carpentry, Advisory Board (2012-2014)
 
 ### Editorial Boards
+
+Journal of Open Source Software (2025-present)
 PeerJ (2012-present)  
 PLoS ONE (2011-2015)
 
