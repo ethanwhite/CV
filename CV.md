@@ -1138,7 +1138,7 @@ Computing in Computational and Data-Enabled Science and Engineering, Program Com
 
 ### Board Memberships & Affiliations
 
-OurResearch, Board of Directors (2014-present)
+OpenAlex (formerly ImpactStory & OurResearch) Board of Directors (2014-present)
 EarthLife Consortium, Board of Directors (2018-2025)
 Ecological Forecasting Initiative, Fiscal Sponsorship Taskforce (2024)
 Ecological Forecasting Initiative Elections Subcommittee (2021-2022)
