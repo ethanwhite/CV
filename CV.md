@@ -2,41 +2,41 @@
 
 ## Contact
 
-Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
-Website: [weecology.org](https://www.weecology.org)  
+Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)
+Website: [weecology.org](https://www.weecology.org)
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
 
 ## Education
 
-2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico  
+2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico
 1998 \hspace{4mm} BA Biology (*magna cum laude*), Colorado College
 
 ## Research and Professional Experience
 
-2024- \hspace{10mm} Professor, Dept. Wildlife Ecology & Conservation, University of Florida  
+2024- \hspace{10mm} Professor, Dept. Wildlife Ecology & Conservation, University of Florida
 2015-2024 \hspace{2mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
-University of Florida  
+University of Florida
 2012-2015 \hspace{2mm} Associate Professor, Dept. of Biology and Ecology
-Center, Utah State University  
+Center, Utah State University
 2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
-University  
+University
 2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
 
 ## Fellowships and Awards
 
-Moore Foundation Investigator in Data-Driven Discovery 2014-2023  
-NSF CAREER 'Young Investigators' Award 2010-2016  
-NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
-NSF Graduate Research Fellowship 2000-2005  
-University of New Mexico Biocomplexity Fellowship 2002-2004  
-Richard G. Beidleman Award 1998 (Colorado College)  
+Moore Foundation Investigator in Data-Driven Discovery 2014-2023
+NSF CAREER 'Young Investigators' Award 2010-2016
+NSF Postdoctoral Fellowship in Biological Informatics 2005-2007
+NSF Graduate Research Fellowship 2000-2005
+University of New Mexico Biocomplexity Fellowship 2002-2004
+Richard G. Beidleman Award 1998 (Colorado College)
 Phi Beta Kappa 1998
 
 ## Publications
 
-[**OA**]: The published paper is open access (or at least free to read)  
-[**OA version**]: Link to an open or free version of the paper if the published version is not open access  
+[**OA**]: The published paper is open access (or at least free to read)
+[**OA version**]: Link to an open or free version of the paper if the published version is not open access
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
 
@@ -637,7 +637,7 @@ Members of my lab are encouraged to lead and participate in projects on which I
 am not an author. This is a list of this work done at least in part while the
 scientists were members of my group. Lab members' names are in **bold**.
 
-https://doi.org/10.1101/794396 
+https://doi.org/10.1101/794396
 
 Taylor, S., 2018. NEON NIST data science evaluation challenge: methods and results of team Shawn. PeerJ Preprints, 6, p.e26967v1.
 
@@ -1133,7 +1133,7 @@ Review of grant applications for NSF (United States), NSERC (Canada), NRF (South
 ## Conference Reviewing
 
 2025 Ecological Forecasting Initiative Annual Conference, EFI Futures Outstanding
-Student Presentation Award Judge  
+Student Presentation Award Judge
 2017 International Workshop on Software Engineering for High Performance
 Computing in Computational and Data-Enabled Science and Engineering, Program Committee
 
@@ -1143,23 +1143,23 @@ OpenAlex (formerly ImpactStory & OurResearch) Board of Directors (2014-present)
 EarthLife Consortium, Board of Directors (2018-2025)
 Ecological Forecasting Initiative, Fiscal Sponsorship Taskforce (2024)
 Ecological Forecasting Initiative Elections Subcommittee (2021-2022)
-Ecological Forecasting Initiative, Steering Committee (2021-2022)  
-Ecological Forecasting Initiative, Founding Board (2018-2021)  
-Biology and Environmental Data Education Network, Steering Committee (2018-2020)  
-The Carpentries, Executive Council (2018-2019)  
-University of Florida Biodiversity Institute, Advisory Board (2015-present)  
-Public Library of Science, Data Guidelines Board (2015-2018)  
-University of Florida Informatics & Analytics Task Force (2017-2019)  
-Hypothesis, User Advisory Team (2015-2020)  
-Software Carpentry Foundation, Advisory Council (2015-2017)  
-Data Carpentry, Steering Committee (2015-2017)  
-Data Carpentry, Co-founder and Board of Directors (2014-2015)  
+Ecological Forecasting Initiative, Steering Committee (2021-2022)
+Ecological Forecasting Initiative, Founding Board (2018-2021)
+Biology and Environmental Data Education Network, Steering Committee (2018-2020)
+The Carpentries, Executive Council (2018-2019)
+University of Florida Biodiversity Institute, Advisory Board (2015-present)
+Public Library of Science, Data Guidelines Board (2015-2018)
+University of Florida Informatics & Analytics Task Force (2017-2019)
+Hypothesis, User Advisory Team (2015-2020)
+Software Carpentry Foundation, Advisory Council (2015-2017)
+Data Carpentry, Steering Committee (2015-2017)
+Data Carpentry, Co-founder and Board of Directors (2014-2015)
 Software Carpentry, Advisory Board (2012-2014)
 
 ### Editorial Boards
 
 Journal of Open Source Software (2025-present)
-PeerJ (2012-present)  
+PeerJ (2012-present)
 PLoS ONE (2011-2015)
 
 ### Manuscript Reviewing
@@ -1184,50 +1184,50 @@ Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife E
 Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
 University of Florida (2019-2021)
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
-of Florida (2016-2017)  
-Biodiversity Symposium Participant, University of Florida (2016)  
-Commencement Marshal, University of Florida (2015)  
-Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)  
-Promotion and tenure committees (member), Utah State University (2012-2014)  
-Adjunct appointment committee (chair), Utah State University (2011)  
-Faculty search committee (member), Utah State University (2011)  
+of Florida (2016-2017)
+Biodiversity Symposium Participant, University of Florida (2016)
+Commencement Marshal, University of Florida (2015)
+Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)
+Promotion and tenure committees (member), Utah State University (2012-2014)
+Adjunct appointment committee (chair), Utah State University (2011)
+Faculty search committee (member), Utah State University (2011)
 Staff search committee (member), Utah State University (2011)
 
 ## Teaching
 
 ### Courses Taught
 
-Data Carpentry for Biologists (2015-present)  
-Ecological Dynamics and Forecasting (2016-present)  
-Advanced Programming and Database Management for Biologists (2011-2014)  
-Introduction to Programming and Database Management for Biologists (2010-2014)  
-Maximum Entropy in Ecology (2011)  
-Neutral Theories in Ecology (2010)  
+Data Carpentry for Biologists (2015-present)
+Ecological Dynamics and Forecasting (2016-present)
+Advanced Programming and Database Management for Biologists (2011-2014)
+Introduction to Programming and Database Management for Biologists (2010-2014)
+Maximum Entropy in Ecology (2011)
+Neutral Theories in Ecology (2010)
 Biogeography (2008, 2009)
 
 ### Workshops run (organized and/or taught)
 
 Introduction to Geospatial Data Analysis in R and Application to Remote Sensing Based Tree Inventories from Neon Sites, Ecological Soceity of America Annual Meeting, August 14 2022
-Ally Skills Workshop, University of Florida, February 21 2017  
-Data Carpentry, University of Florida, October 17-18 2016  
-Software Carpentry, University of Florida, August 17-18 2016  
-Software Carpentry, University of North Carolina, April 11-12 2016  
-Software Carpentry, University of Florida, March 23-24 2016  
-Software Carpentry, Utah State University, March 2015  
+Ally Skills Workshop, University of Florida, February 21 2017
+Data Carpentry, University of Florida, October 17-18 2016
+Software Carpentry, University of Florida, August 17-18 2016
+Software Carpentry, University of North Carolina, April 11-12 2016
+Software Carpentry, University of Florida, March 23-24 2016
+Software Carpentry, Utah State University, March 2015
 Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
-Across Scales, July 2014  
+Across Scales, July 2014
 Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
 2014
 Introduction to Git and GitHub, Gordon Research Conference on Unifying Ecology
-Across Scale, July 2014  
-Introduction to Git and GitHub, University of North Carolina, April 2014  
-Software Carpentry, University of Victoria, April 2014  
-Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
-Software Carpentry, CUAHSI Water Data Center, July 2013  
-Software Carpentry, Utah State University, March 2013  
-Software Carpentry, University of British Columbia, February 2013  
-Software Carpentry, University of North Carolina, October 2012  
-Software Carpentry, Utah State University, April 2012  
+Across Scale, July 2014
+Introduction to Git and GitHub, University of North Carolina, April 2014
+Software Carpentry, University of Victoria, April 2014
+Software Carpentry, Ecological Society of American Annual Meeting, August 2013
+Software Carpentry, CUAHSI Water Data Center, July 2013
+Software Carpentry, Utah State University, March 2013
+Software Carpentry, University of British Columbia, February 2013
+Software Carpentry, University of North Carolina, October 2012
+Software Carpentry, Utah State University, April 2012
 
 
 ## Research Mentoring
@@ -1266,11 +1266,11 @@ Ben Weinstein (2018-present)
 ### Graduate Students
 
 Kenneth Locey (PhD; 2008-2013)
-  
+
   * Utah State University Eccles Fellow
   * After graduating: Postdoctoral researcher at Indiana University
   * Currently: [Assistant Professor at Diné College](https://kenlocey.weecology.org/)
-  
+
 Xiao Xiao (PhD; 2008-2014)
 
   * Utah State University Diversity Fellow
@@ -1341,7 +1341,7 @@ Akash Goel (2016)
   * Google Summer of Code student
   * After graduating: Software developer at Amazon
   * Currently: Software developer at Amazon
-  
+
 Shivam Negi (2017)
 
   * Google Summer of Code student
@@ -1412,7 +1412,7 @@ America Annual Meeting, 2020. [*Invited*]
 
 Marconi S., Weinstein B., Bohlman S., White EP. “Disentangling the role of phylogeny and climate on joint leaf traits distribution across Eastern United States", American Geophysical Union Fall Meeting, 2019.
 
-Marconi S. Ethan White. Big Data in Ecology: Using HiPerGator to Disentangle the Effects of Climate on Millions of Trees. 2nd Annual HiperGator Symposium, 2019 
+Marconi S. Ethan White. Big Data in Ecology: Using HiPerGator to Disentangle the Effects of Climate on Millions of Trees. 2nd Annual HiperGator Symposium, 2019
 
 Choi, H., Sadeghian, A., Marconi, S., White, E. and Wang, D.Z., 2019. Measuring
 Impact of Climate Change on Tree Species: analysis of JSDM on FIA data. NeurIPS
