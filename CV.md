@@ -585,6 +585,7 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Littauer, R. G. Wilson, J. Ainali, E.A. AlOmar, S. Arabas, Y. Bellini Saibene, K. Bubendorfer, K. Champion, C. Dillon, J. Helske, P. Huybrechts, D.S. Katz, C. Liao, D. Lippert, F. Liu, P. Marshall, D.R. McCloy, I. McInerney, M.W. Mkaouer, P. Ojha, C. Treude, E.P White. 2025. 10 quick tips for making your software outlive your job. arXiv <https://arxiv.org/abs/2505.06484>
 
 Ernest, S.K.M., L.A. Garner, B.G. Weinstein, P. Frederick, H. Senyondo, G.M. Yenni, and E.P. White. Using time-series remote sensing to identify and track individual bird nests at large scales. bioRxiv <https://doi.org/10.1101/2025.02.21.639546>
 
