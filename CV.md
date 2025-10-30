@@ -1175,6 +1175,14 @@ pyOpenSci
 
 External examiner of Ph.D. Theses: Macquarie University (2008)
 
+### Memberships
+
+Ecological Society of America (1999-present; Open Science section; Long-term Ecology section; Inclusive Ecology section)  
+American Society of Naturalists (2000-present)  
+Ecological Forecasting Initiative (2018-present)  
+American Association for the Advancement of Science (2020-present)  
+Sigma Xi (2025-present)
+
 ## University Service
 WEC For All Committee, Department of Wildlife Ecology and Conservation,
 University of Florida (2023-present)
