@@ -1400,6 +1400,12 @@ Amazon.
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
 
+White, E.P. and S.K.M. Ernest. 2025. Challenges & opportunities of scale in ecological forecasting. Ecological Forecasting Initiative Annual Meeting.
+
+White, E.P. 2025. Overcoming Limited Labels in Airborne Biodiversity Monitoring. AI in Biodiversity Mini-Symposium. UF Artificial Intelligence and Informatics Research Institute. [*Invited*]
+
+White, E.P. 2024. Airborne Monitoring of Nature Using AI. University of Florida HiperGator 3.0 Symposium. [*Invited*]
+
 Bohlman S.A. et al. 2022. Individual tree characterization across diverse forest types of the US National Ecological Observatory Network: cross-site approaches yield information about multi-scale drivers. ForestSAT conference.
 
 Simonis, J.L., E.P White, S.K. Morgan Ernest. 2021. Evaluating probabilistic ecological forecasts. Ecological Society of America Annual Meeting.
