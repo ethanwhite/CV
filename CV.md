@@ -1141,26 +1141,26 @@ Biogeography (2008, 2009)
 
 ### Workshops run (organized and/or taught)
 
-Introduction to Geospatial Data Analysis in R and Application to Remote Sensing Based Tree Inventories from Neon Sites, Ecological Soceity of America Annual Meeting, August 14 2022
-Ally Skills Workshop, University of Florida, February 21 2017
-Data Carpentry, University of Florida, October 17-18 2016
-Software Carpentry, University of Florida, August 17-18 2016
-Software Carpentry, University of North Carolina, April 11-12 2016
-Software Carpentry, University of Florida, March 23-24 2016
-Software Carpentry, Utah State University, March 2015
+Introduction to Geospatial Data Analysis in R and Application to Remote Sensing Based Tree Inventories from Neon Sites, Ecological Soceity of America Annual Meeting, August 14 2022  
+Ally Skills Workshop, University of Florida, February 21 2017  
+Data Carpentry, University of Florida, October 17-18 2016  
+Software Carpentry, University of Florida, August 17-18 2016  
+Software Carpentry, University of North Carolina, April 11-12 2016  
+Software Carpentry, University of Florida, March 23-24 2016  
+Software Carpentry, Utah State University, March 2015  
 Introduction to Git and Github, Gordon Research Conference on Unifying Ecology
-Across Scales, July 2014
+Across Scales, July 2014  
 Data Carpentry, National Evolutionary Synthesis Center at Duke University, May
-2014
+2014  
 Introduction to Git and GitHub, Gordon Research Conference on Unifying Ecology
-Across Scale, July 2014
-Introduction to Git and GitHub, University of North Carolina, April 2014
-Software Carpentry, University of Victoria, April 2014
-Software Carpentry, Ecological Society of American Annual Meeting, August 2013
-Software Carpentry, CUAHSI Water Data Center, July 2013
-Software Carpentry, Utah State University, March 2013
-Software Carpentry, University of British Columbia, February 2013
-Software Carpentry, University of North Carolina, October 2012
+Across Scale, July 2014  
+Introduction to Git and GitHub, University of North Carolina, April 2014  
+Software Carpentry, University of Victoria, April 2014  
+Software Carpentry, Ecological Society of American Annual Meeting, August 2013  
+Software Carpentry, CUAHSI Water Data Center, July 2013  
+Software Carpentry, Utah State University, March 2013  
+Software Carpentry, University of British Columbia, February 2013  
+Software Carpentry, University of North Carolina, October 2012  
 Software Carpentry, Utah State University, April 2012
 
 
