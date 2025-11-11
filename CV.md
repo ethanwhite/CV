@@ -1045,34 +1045,35 @@ Van Noorden. Nature. September
 ## Professional and Community Service
 
 ### Grant Panels and Reviewing
-National Science Foundation Panelist
-Black Women in Computational Biology
+
+National Science Foundation Panelist  
+Black Women in Computational Biology Panelist  
 Review of grant applications for NSF (United States), NSERC (Canada), NRF (South Africa), rOpenSci
 
 ## Conference Reviewing
 
 2025 Ecological Forecasting Initiative Annual Conference, EFI Futures Outstanding
-Student Presentation Award Judge
+Student Presentation Award Judge  
 2017 International Workshop on Software Engineering for High Performance
 Computing in Computational and Data-Enabled Science and Engineering, Program Committee
 
 ### Board Memberships & Affiliations
 
-OpenAlex (formerly ImpactStory & OurResearch) Board of Directors (2014-present)
-EarthLife Consortium, Board of Directors (2018-2025)
-Ecological Forecasting Initiative, Fiscal Sponsorship Taskforce (2024)
-Ecological Forecasting Initiative Elections Subcommittee (2021-2022)
-Ecological Forecasting Initiative, Steering Committee (2021-2022)
-Ecological Forecasting Initiative, Founding Board (2018-2021)
-Biology and Environmental Data Education Network, Steering Committee (2018-2020)
-The Carpentries, Executive Council (2018-2019)
-University of Florida Biodiversity Institute, Advisory Board (2015-present)
-Public Library of Science, Data Guidelines Board (2015-2018)
-University of Florida Informatics & Analytics Task Force (2017-2019)
-Hypothesis, User Advisory Team (2015-2020)
-Software Carpentry Foundation, Advisory Council (2015-2017)
-Data Carpentry, Steering Committee (2015-2017)
-Data Carpentry, Co-founder and Board of Directors (2014-2015)
+OpenAlex (formerly ImpactStory & OurResearch) Board of Directors (2014-present)  
+EarthLife Consortium, Board of Directors (2018-2025)  
+Ecological Forecasting Initiative, Fiscal Sponsorship Taskforce (2024)  
+Ecological Forecasting Initiative Elections Subcommittee (2021-2022)  
+Ecological Forecasting Initiative, Steering Committee (2021-2022)  
+Ecological Forecasting Initiative, Founding Board (2018-2021)  
+Biology and Environmental Data Education Network, Steering Committee (2018-2020)  
+The Carpentries, Executive Council (2018-2019)  
+University of Florida Biodiversity Institute, Advisory Board (2015-2023)  
+Public Library of Science, Data Guidelines Board (2015-2018)  
+University of Florida Informatics & Analytics Task Force (2017-2019)  
+Hypothesis, User Advisory Team (2015-2020)  
+Software Carpentry Foundation, Advisory Council (2015-2017)  
+Data Carpentry, Steering Committee (2015-2017)  
+Data Carpentry, Co-founder and Board of Directors (2014-2015)  
 Software Carpentry, Advisory Board (2012-2014)
 
 ### Editorial Boards
@@ -1105,20 +1106,20 @@ Sigma Xi (2025-present)
 
 ## University Service
 WEC For All Committee, Department of Wildlife Ecology and Conservation,
-University of Florida (2023-present)
+University of Florida (2023-present)  
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
-of Florida (2023-2024)
+of Florida (2023-2024)  
 Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation University of Florida (2019-2023)
 Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
 University of Florida (2019-2021)
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
-of Florida (2016-2017)
-Biodiversity Symposium Participant, University of Florida (2016)
-Commencement Marshal, University of Florida (2015)
-Advisory Board Member for Biodiversity Institute, University of Florida (2015-present)
-Promotion and tenure committees (member), Utah State University (2012-2014)
-Adjunct appointment committee (chair), Utah State University (2011)
-Faculty search committee (member), Utah State University (2011)
+of Florida (2016-2017)  
+Biodiversity Symposium Participant, University of Florida (2016)  
+Commencement Marshal, University of Florida (2015)  
+Advisory Board Member for Biodiversity Institute, University of Florida (2015-2023)  
+Promotion and tenure committees (member), Utah State University (2012-2014)  
+Adjunct appointment committee (chair), Utah State University (2011)  
+Faculty search committee (member), Utah State University (2011)  
 Staff search committee (member), Utah State University (2011)
 
 ## Teaching
