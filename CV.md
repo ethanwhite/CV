@@ -1106,13 +1106,17 @@ American Association for the Advancement of Science (2020-present)
 Sigma Xi (2025-present)
 
 ## University Service
+
+Advisory Board for UF Artificial Intelligence and Informatics Research Institute (2025-present)  
 WEC For All Committee, Department of Wildlife Ecology and Conservation,
 University of Florida (2023-present)  
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
 of Florida (2023-2024)  
 Inclusion, Diversity, Equity & Access (IDEA) Committee, Department of Wildlife Ecology and Conservation University of Florida (2019-2023)
 Diversity and Inclusion Committee, Institute of Food and Agricultural Sciences,
-University of Florida (2019-2021)
+University of Florida (2019-2021)  
+Informatics & Analytics Task Force, University of Florida (2017-2019)  
+Ally Skills training organizer (2018-2019)  
 Seminar Committee, Department of Wildlife Ecology and Conservation, University
 of Florida (2016-2017)  
 Biodiversity Symposium Participant, University of Florida (2016)  
