@@ -1092,7 +1092,7 @@ the Environment, PLOS One, Bioscience, Bulletin of Mathematical Biology,
 Functional Ecology, Journal of Biogeography, Journal of Theoretical Biology,
 Theoretical Population Biology, Cambridge University Press, Acta Oecologica,
 Folia Geobotanica, Research Letters in Ecology, Geological Society of America,
-pyOpenSci
+pyOpenSci, Journal of Open Source Software
 
 External examiner of Ph.D. Theses: Macquarie University (2008)
 
