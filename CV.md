@@ -1189,9 +1189,11 @@ Hao Ye (2017-present)
 
   * Moore Data Fellow
 
-Ben Weinstein (2018-present)
+Ben Weinstein (2018-2020)
 
-  * Moore Data Fellow
+  * Moore Foundation Data Fellow
+
+Josh Veitch-Michaelis (2025-present)
 
 ### Graduate Students
 
@@ -1290,9 +1292,36 @@ Pranita Sharma (2018)
   * After graduating: MS student in Computer Science at North Carolina State
     University
 
-Apoorva Pandey
+Apoorva Pandey (2020)
 
   * Google Summer of Code student
+  * After Graduating: Software Engineer at Datapane
+  * Currently: Senior Software Engineer at Prospeo.io
+
+Alexis Irvin (2020-2021)
+
+* NSF Research Experience for Undergraduates student
+* After Graduating: PhD Student at Cornell
+* Currently: PhD Student at Cornell
+
+Brandon Grandison (2020-2021)
+
+* NSF Research Experience for Undergraduates student
+* After Graduating: PhD Student at University of Chicago
+* Currently: PhD Student at University of Chicago
+
+Marina Marquis (2022-2023)
+
+* NSF Research Experience for Undergraduates student
+* After Graduating: MS Student at University of Florida
+* Currently: MS Student at University of Florida
+
+Maya Gonzalez (2022-2023)
+
+* NSF Research Experience for Undergraduates student
+* After Graduating: PhD Student at University of Georgia
+* Currently: PhD Student at University of Georgia
+
 
 ### Graduate Student Committees
 
