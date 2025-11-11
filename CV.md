@@ -1127,12 +1127,12 @@ Staff search committee (member), Utah State University (2011)
 
 ### Courses Taught
 
-Data Carpentry for Biologists (2015-present)
-Ecological Dynamics and Forecasting (2016-present)
-Advanced Programming and Database Management for Biologists (2011-2014)
-Introduction to Programming and Database Management for Biologists (2010-2014)
-Maximum Entropy in Ecology (2011)
-Neutral Theories in Ecology (2010)
+[Data Carpentry for Biologists](https://datacarpentry.github.io/semester-biology/) (2015-present)  
+[Ecological Forecasting and Dynamics](https://course.naturecast.org/) (2016-present)  
+[Advanced Programming and Database Management for Biologists](https://www.programmingforbiologists.org/advanced/) (2011-2014)  
+[Introduction to Programming and Database Management for Biologists](https://www.programmingforbiologists.org/) (2010-2014)  
+Maximum Entropy in Ecology (2011)  
+Neutral Theories in Ecology (2010)  
 Biogeography (2008, 2009)
 
 ### Workshops run (organized and/or taught)
