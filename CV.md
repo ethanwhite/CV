@@ -1224,9 +1224,13 @@ Shawn Taylor (PhD; 2015-2019)
 
   * NSF Graduate Research Fellowship Honorable Mention
 
-Virnaliz Cruz (MS; 2018-present)
+Virnaliz Cruz (PhD; 2018-2024)
 
   * NSF Graduate Research Fellow
+  
+Alexander Blochel (PhD; 2025-present)
+
+  * UF CALS Deans Award
 
 ### Undergraduate Researchers
 
@@ -1307,9 +1311,7 @@ Organization Administrator for NumFocus umbrella organization. 2015. Helped
 develop proposal for new NumFocus Google Summer of Code organization and helped
 run the organization during 2015.
 
-Mentor. 2016. Mentored a Google Summer of Code student, Akash Goel, working on
-the Data Retriever software project. This student is now a software developer at
-Amazon.
+Mentor. 2016-2026. Mentored more than a dozen Google Summer of Code students including students who are now employed at Amazon, Goldman Sachs, Deutsche Bank, and MathWorks.
 
 ## Presentations
 
