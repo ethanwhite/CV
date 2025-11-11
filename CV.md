@@ -833,8 +833,8 @@ Forecasting. [[Website](https://course.naturecast.org),
 [GitHub Repository](https://github.com/weecology/forecasting-course)]
 
 White, E.P. 2012. Programming for
-Biologists. [[Website](https://weecology.github.io/forecasting-dynamics-course/),
-[GitHub Repository](https://weecology.github.io/forecasting-dynamics-course/)]
+Biologists. [[Website](https://www.programmingforbiologists.org/),
+[GitHub Repository](https://github.com/ethanwhite/progbio)]
 
 
 ### Workshop Lessons
