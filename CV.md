@@ -42,11 +42,13 @@ Phi Beta Kappa 1998
 
 ### Journal Articles
 
+Ernest, S.K.M., L.A. Garner, B.G. Weinstein, P. Frederick, H. Senyondo, G.M. Yenni, and E.P. White. In press. Using time-series remote sensing to identify and track individual bird nests at large scales. Remote Sensing in Ecology and Conservation. [[Preprint](https://doi.org/10.1101/2025.02.21.639546), [Code (analysis)](https://doi.org/10.5281/zenodo.14871558), [Code (annotation)](https://doi.org/10.5281/zenodo.14871820), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010)]
+
+White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2025. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
+
 Dornelas, M., L.H. Antão, A.E. Bates, V. Brambilla, J.M. Chase, C.F.Y. Chow, A. Fontrodona-Eslava, A.E. Magurran, I.S. Martins, F. Moyes, A. Sagouis... E.P. White... et al. 2025. BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series. Global Ecology and Biogeography 34:370003. <https://doi.org/10.1111/geb.70003> [[Data](https://doi.org/10.5281/zenodo.10932823), [Website](https://biotime.st-andrews.ac.uk/)]
 
 Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. 2025. Beyond single-species models: leveraging multispecies forecasts to navigate the dynamics of ecological predictability. PeerJ 13:e18929 <https://doi.org/10.7717/peerj.18929> [[Preprint](https://doi.org/10.32942/X2TS34), [Code](https://github.com/nicholasjclark/portal_VAR)]
-
-White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2024. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
 
 Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. 2024. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing 16:4365 <https://doi.org/10.3390/rs16234365> [[Code](https://github.com/ihmn02/forest_ecology_neuro_symbolic_framework), [Data](https://zenodo.org/records/14194555)]
 
@@ -586,8 +588,6 @@ Sunderland, MA.
 ### Preprints (not yet formally published)
 
 Littauer, R. G. Wilson, J. Ainali, E.A. AlOmar, S. Arabas, Y. Bellini Saibene, K. Bubendorfer, K. Champion, C. Dillon, J. Helske, P. Huybrechts, D.S. Katz, C. Liao, D. Lippert, F. Liu, P. Marshall, D.R. McCloy, I. McInerney, M.W. Mkaouer, P. Ojha, C. Treude, E.P White. 2025. 10 quick tips for making your software outlive your job. arXiv <https://arxiv.org/abs/2505.06484>
-
-Ernest, S.K.M., L.A. Garner, B.G. Weinstein, P. Frederick, H. Senyondo, G.M. Yenni, and E.P. White. Using time-series remote sensing to identify and track individual bird nests at large scales. bioRxiv <https://doi.org/10.1101/2025.02.21.639546>
 
 Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
 
