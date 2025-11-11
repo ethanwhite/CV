@@ -1179,6 +1179,7 @@ External examiner of Ph.D. Theses: Macquarie University (2008)
 
 Ecological Society of America (1999-present; Open Science section; Long-term Ecology section; Inclusive Ecology section)  
 American Society of Naturalists (2000-present)  
+The Carpentries (2018-present)  
 Ecological Forecasting Initiative (2018-present)  
 American Association for the Advancement of Science (2020-present)  
 Sigma Xi (2025-present)
