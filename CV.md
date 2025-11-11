@@ -908,7 +908,7 @@ Adam Obeng; Bill Mills; Gabriel A. Devenyi; Ian Carroll; Jeffrey W. Hollister;
 Jonah Duckles; Timothée Poisot; W. Trevor King (2017, April). Data Carpentry
 Ecology Workshop v2017.04.1. Zenodo. http://doi.org/10.5281/zenodo.570167
 
-### Other OER
+### Other Open Educational Resources (OER)
 
 Yenni, G.M., A.Y. Kim, E.M. Christensen, E.K. Bledsoe, S.R. Supp, R.M. Diaz, S.K.M. Ernest, and E.P. White. 2019. UpdatingData: A step by step guide for using continuous integration to automate QA/QC, data archiving, and data access. <https://www.updatingdata.org/>
 
