@@ -2,35 +2,35 @@
 
 ## Contact
 
-Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)
-Website: [weecology.org](https://www.weecology.org)
+Email: [ethanwhite@ufl.edu](mailto:ethanwhite@ufl.edu)  
+Website: [weecology.org](https://www.weecology.org)  
 Mail: Department of Wildlife Ecology & Conservation, University of Florida, 110
       Newins-Ziegler Hall, PO Box 110430, Gainesville, FL 32603
 
 ## Education
 
-2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico
+2005 \hspace{4mm} PhD Biology (with distinction), University of New Mexico  
 1998 \hspace{4mm} BA Biology (*magna cum laude*), Colorado College
 
 ## Research and Professional Experience
 
-2024- \hspace{10mm} Professor, Dept. Wildlife Ecology & Conservation, University of Florida
+2024- \hspace{10mm} Professor, Dept. Wildlife Ecology & Conservation, University of Florida  
 2015-2024 \hspace{2mm} Associate Professor, Dept. Wildlife Ecology & Conservation,
-University of Florida
+University of Florida  
 2012-2015 \hspace{2mm} Associate Professor, Dept. of Biology and Ecology
-Center, Utah State University
+Center, Utah State University  
 2007-2012  \hspace{2mm} Assistant Professor, Dept. of Biology and Ecology Center, Utah State
-University
-2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced
+University  
+2005-2007 \hspace{2mm} NSF Postdoctoral Fellow in Biological Informatics, Univ. of AZ & U.C. Merced  
 
 ## Fellowships and Awards
 
-Moore Foundation Investigator in Data-Driven Discovery 2014-2023
-NSF CAREER 'Young Investigators' Award 2010-2016
-NSF Postdoctoral Fellowship in Biological Informatics 2005-2007
-NSF Graduate Research Fellowship 2000-2005
-University of New Mexico Biocomplexity Fellowship 2002-2004
-Richard G. Beidleman Award 1998 (Colorado College)
+Moore Foundation Investigator in Data-Driven Discovery 2014-2023  
+NSF CAREER 'Young Investigators' Award 2010-2016  
+NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
+NSF Graduate Research Fellowship 2000-2005  
+University of New Mexico Biocomplexity Fellowship 2002-2004  
+Richard G. Beidleman Award 1998 (Colorado College)  
 Phi Beta Kappa 1998
 
 ## Publications
