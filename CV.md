@@ -35,11 +35,6 @@ Phi Beta Kappa 1998
 
 ## Publications
 
-[**OA**]: The published paper is open access (or at least free to read)
-[**OA version**]: Link to an open or free version of the paper if the published version is not open access
-**undergraduate, *graduate student, <sup>+</sup>postdoc
-
-
 ### Journal Articles
 
 Ernest, S.K.M., L.A. Garner, B.G. Weinstein, P. Frederick, H. Senyondo, G.M. Yenni, and E.P. White. In press. Using time-series remote sensing to identify and track individual bird nests at large scales. Remote Sensing in Ecology and Conservation. [[Preprint](https://doi.org/10.1101/2025.02.21.639546), [Code (analysis)](https://doi.org/10.5281/zenodo.14871558), [Code (annotation)](https://doi.org/10.5281/zenodo.14871820), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010)]
