@@ -932,6 +932,11 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 
 ## Invited Workshops, Symposia, Panels, and Working Groups
 
+"Environmental Data Science Summit: The Future of AI in Conservation & Management".
+National Center for Ecological Analysis and Synthesis. Feb 4-6, 2025.
+Organizers: Ben Halpern, Elizabeth Wolkovich, Noam Ross, Amanda Whitmire,
+Susan Shingledecker, Dawn Wright, Dorris Scott
+
 Ecological Forecasting Initiative, Diversity, Equity, and Inclusion Working Group. Remote. 2021.
 
 "Ecological Forecasting Initiative 2020 Virtual Workshop: Coordinating the
@@ -939,7 +944,7 @@ NEON-enabled forecasting challenge". Remote. May 12-13, 2020. Organizers: Quinn
 Thomas and Jody Peters.
 
 "UF/IFAS Faculty Forum: Living, Working, and Adapting to the New Normal of
-COVID-19". Unversity of Florida. April 23, 2020. Organizers: Rob Gilbert and
+COVID-19". University of Florida. April 23, 2020. Organizers: Rob Gilbert and
 Nick Place.
 
 "NSF Biology Directorate Advisory Committee Subcommittee on NEON Community
