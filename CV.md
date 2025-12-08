@@ -43,6 +43,8 @@ White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G
 
 Dornelas, M., L.H. Antão, A.E. Bates, V. Brambilla, J.M. Chase, C.F.Y. Chow, A. Fontrodona-Eslava, A.E. Magurran, I.S. Martins, F. Moyes, A. Sagouis... E.P. White... et al. 2025. BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series. Global Ecology and Biogeography 34:370003. <https://doi.org/10.1111/geb.70003> [[Data](https://doi.org/10.5281/zenodo.10932823), [Website](https://biotime.st-andrews.ac.uk/)]
 
+Graves, S.J., R. Chowdhry, M. Zhou, I. Harmon, B. Weinstein, S.K.M. Ernest, A. Zare, E.P. White, S.A. Bohlman. 2025. Facilitating macrosystem biology with organismal‐scale airborne remote sensing: Challenges and opportunities. Functional Ecology. <https://doi.org/10.1111/1365-2435.70083>
+
 Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. 2025. Beyond single-species models: leveraging multispecies forecasts to navigate the dynamics of ecological predictability. PeerJ 13:e18929 <https://doi.org/10.7717/peerj.18929> [[Preprint](https://doi.org/10.32942/X2TS34), [Code](https://github.com/nicholasjclark/portal_VAR)]
 
 Harmon I., B.G. Weinstein, S.A. Bohlman, E.P. White, D.Z. Wang. 2024. A Neuro-Symbolic Framework for Tree Crown Delineation and Tree Species Classification. Remote Sensing 16:4365 <https://doi.org/10.3390/rs16234365> [[Code](https://github.com/ihmn02/forest_ecology_neuro_symbolic_framework), [Data](https://zenodo.org/records/14194555)]
