@@ -27,6 +27,7 @@ University
 
 Moore Foundation Investigator in Data-Driven Discovery 2014-2023  
 NSF CAREER 'Young Investigators' Award 2010-2016  
+Kavli Frontiers of Science Fellow 2013  
 NSF Postdoctoral Fellowship in Biological Informatics 2005-2007  
 NSF Graduate Research Fellowship 2000-2005  
 University of New Mexico Biocomplexity Fellowship 2002-2004  
@@ -938,6 +939,8 @@ speaker at 21st Annual Colorado College Biology Day, Colorado Springs, Colorado.
 National Center for Ecological Analysis and Synthesis. Feb 4-6, 2025.
 Organizers: Ben Halpern, Elizabeth Wolkovich, Noam Ross, Amanda Whitmire,
 Susan Shingledecker, Dawn Wright, Dorris Scott
+
+“Generative AI and STEM education”. Alfred P. Sloan Foundation. October 15-17. Organizers: Lorena Barba.
 
 Ecological Forecasting Initiative, Diversity, Equity, and Inclusion Working Group. Remote. 2021.
 
