@@ -630,6 +630,10 @@ e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10
 
 ## Grants and Contracts
 
+University of Florida.
+SEEDIT/LIFT-AI: Automated AI solutions for airborne biodiversity monitoring using generative AI and cross-view training.
+PI: E.P. White. 2025-2027. $74,970
+
 National Science Foundation.
 LTREB Renewal: Using forecasting and long-term experiments to understand ecological dynamics under novel conditions.
 PI: S.K. Morgan Ernest. Co-PI: Ethan P. White. 2024-2029. $643,550
