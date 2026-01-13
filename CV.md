@@ -837,6 +837,8 @@ Ernest, S.K.M., J.H. Brown, T. Valone, and E.P. White. 2015-2020. Portal Project
 
 ## Invited Seminars
 
+White, E.P. 2026. "How we counted 100 million trees (and a whole lot of birds)". Florida State University Biological Science Colloquium Series.
+
 White, E.P. 2023. "Monitoring Ecosystems at Scale Using Airborne Remote Sensing & Computer Vision". The Ohio State University. [[Video](https://youtu.be/LJdwPnukm0k)]
 
 White, E.P., S.K.M. Ernest, B. Weinstein, L. Garner, A. Ortega, H. Senyondo, G.M. Yenni, and P. Frederick. 2023. "Monitoring Wading Birds at Scale Using Drones & Computer Vision". Everglades National Park (to delegation from the Cambodian government)
@@ -1365,6 +1367,8 @@ Mentor. 2016-2026. Mentored more than a dozen Google Summer of Code students inc
 ## Presentations
 
 **undergraduate, *graduate student, <sup>+</sup>postdoc
+
+White, E.P. 2026. The potential for cross-view generative AI to generalize airborne wildlife monitoring. UF/IFAS Artificial Intelligence Summit. [*Invited*]
 
 White, E.P. and S.K.M. Ernest. 2025. Challenges & opportunities of scale in ecological forecasting. Ecological Forecasting Initiative Annual Meeting.
 
