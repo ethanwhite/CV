@@ -1061,7 +1061,7 @@ National Science Foundation Panelist
 Black Women in Computational Biology Panelist  
 Review of grant applications for NSF (United States), NSERC (Canada), NRF (South Africa), rOpenSci
 
-## Conference Reviewing
+### Conference Reviewing
 
 2025 Ecological Forecasting Initiative Annual Conference, EFI Futures Outstanding
 Student Presentation Award Judge  
@@ -1115,6 +1115,10 @@ The Carpentries (2018-present)
 Ecological Forecasting Initiative (2018-present)  
 American Association for the Advancement of Science (2020-present)  
 Sigma Xi (2025-present)
+
+### Mentorship
+
+Journal of Open Source Software Editor Onboarding (2026-present): Mentor new editors for the journal  
 
 ## University Service
 
