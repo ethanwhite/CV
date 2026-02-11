@@ -1091,7 +1091,7 @@ Software Carpentry, Advisory Board (2012-2014)
 
 Journal of Open Source Software (2025-present)  
 Jourla of Open Source Education (2025-present)  
-PeerJ (2012-present)  
+PeerJ (2012-2026)  
 PLoS ONE (2011-2015)
 
 ### Manuscript Reviewing
