@@ -220,7 +220,7 @@ Dietze M.C., A. Fox, J.Betancourt, M.Hooten, C.Jarnevich, T. Keitt,
 M. A. Kenney, C. Laney, L. Larsen, H.W. Loescher, C.Lunch, B.Pijanowski,
 J.T. Randerson, E.Read, A.Tredennick, K.C. Weathers and E. P. White. 2018.
 Iterative near-term ecological forecasting: Needs, opportunities, and challenges.
-Proceedings of the National Academy of Sciences 201710231
+Proceedings of the National Academy of Sciences. 115:1424-1432.
 [https://doi.org/10.1073/pnas.1710231115](https://doi.org/10.1073/pnas.1710231115)
 
 Harris, D.J.<sup>+</sup>, S. Taylor\* and E.P. White. 2018. Forecasting biodiversity in
