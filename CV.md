@@ -1035,6 +1035,9 @@ M.R. Willig.
 "Got bugs? Here’s how to catch the errors in your scientific software" by Jeffrey M. Perkel.
 April 20, 2026. <https://doi.org/10.1038/d41586-026-01261-w>
 
+"Seven tips for sharing scientific data" by Jeffrey M. Perkel.
+June 29, 2023. <https://media.nature.com/original/magazine-assets/d41586-023-01929-7/d41586-023-01929-7.pdf>
+
 "Collaborative software development made easy" by Andrew Silver. October
 4, 2017. [https://doi.org/10.1038/550143a](https://doi.org/10.1038/550143a)
 
