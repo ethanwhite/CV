@@ -1032,6 +1032,9 @@ M.R. Willig.
 
 ## Interviews & Press
 
+"Got bugs? Here’s how to catch the errors in your scientific software" by Jeffrey M. Perkel.
+April 20, 2026. <https://doi.org/10.1038/d41586-026-01261-w>
+
 "Collaborative software development made easy" by Andrew Silver. October
 4, 2017. [https://doi.org/10.1038/550143a](https://doi.org/10.1038/550143a)
 
