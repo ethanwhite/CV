@@ -25,6 +25,7 @@ University
 
 ## Fellowships and Awards
 
+CALS Innovation in Teaching Award 2026  
 Moore Foundation Investigator in Data-Driven Discovery 2014-2023  
 NSF CAREER 'Young Investigators' Award 2010-2016  
 Kavli Frontiers of Science Fellow 2013  
