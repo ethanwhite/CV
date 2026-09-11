@@ -610,6 +610,8 @@ Tennant, J.P., T. Poisot... E.P. White... P. Murray-Rust. 2015. Open Letter to T
 
 ### Other publications
 
+White, E.P., K. Ram, T. Teal, C.T. Brown, N. Zimmerman, E.R. Boose. 2023. Recommendation on login-free vs login-based access to the NEON Data Portal. Zenodo. https://doi.org/10.5281/zenodo.10402902
+
 Dietze, M. and E.P. White. 2019. Facilitating NASA Ecological Forecasts through
 shared cyberinfrastructure NASA Biological Diversity and Ecological Forecasting
 Programs: White Papers on Important Questions.
