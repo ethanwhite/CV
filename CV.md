@@ -1060,6 +1060,22 @@ October 2nd, 2014. [https://www.usu.edu/today/story/usu-ecologist-ethan-white-ex
 Van Noorden. Nature. September
 30, 2014. [https://doi.org/10.1038/nature.2014.16015](https://doi.org/10.1038/nature.2014.16015)
 
+## Blog Posts
+
+White, E.P. 2023. "#Carpentries25 Testimonial Series: Ethan White". The Carpentries Blog. https://carpentries.org/blog/2023/12/carpentries25-testimonial-series-ethan-white/
+
+White, E.P. 2018. "The Structure of The Carpentries Executive Council". The Carpentries Blog. https://carpentries.org/blog/2018/09/executive-committee-structure/
+
+Cranston, K., E.P. White. 2018. "Request for Comment on Carpentries Mission and Vision". The Carpentries Blog. https://carpentries.org/blog/2018/08/mission-vision-rfc/
+
+Millar, J., S. Taylor, B.K. Toh, E.P. White. 2018. "An extended Data Carpentry Workshop over 7 weeks instead of 2 days". The Carpentries Blog. https://carpentries.org/blog/2018/04/dc-seven-weeks/
+
+Cranston, K., H. Lapp, A. Pawlik, K. Ram, T. Teal, E.P. White. "A Look Back and A Look Ahead from the Data Carpentry Steering Committee". The Carpentries Blog. https://carpentries.org/blog/2018/01/datacarpentry-looking-forward-looking-back/
+
+Collins, M., F. Michonneau, B. Stucky, E.P. White. 2017. "A Year to Build a Software and Data Carpentry Community at the University of Florida - The Impact of a Local Instructor Training Workshop on Building Computing Capacity". The Carpentries Blog. https://carpentries.org/blog/2017/02/uf-program/
+
+White, E.P. 2013. "A Short Report from Utah State". The Carpentries Blog. https://carpentries.org/blog/2013/02/a-short-report-from-utah-state/
+
 ## Professional and Community Service
 
 ### Grant Panels and Reviewing
