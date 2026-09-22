@@ -43,11 +43,11 @@ Garner, L.A., B.G. Weinstein, M. Rickershauser, M. Baldino, H. Coates, M. Commin
 
 Ernest, S.K.M., L.A. Garner, B.G. Weinstein, P. Frederick, H. Senyondo, G.M. Yenni, and E.P. White. 2026. Using time-series remote sensing to identify and track individual bird nests at large scales. Remote Sensing in Ecology and Conservation 12: 414-427. <https://doi.org/10.1002/rse2.70046> [[Preprint](https://doi.org/10.1101/2025.02.21.639546), [Code (analysis)](https://doi.org/10.5281/zenodo.14871558), [Code (annotation)](https://doi.org/10.5281/zenodo.14871820), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010)]
 
+Graves, S.J., R. Chowdhry, M. Zhou, I. Harmon, B. Weinstein, S.K.M. Ernest, A. Zare, E.P. White, S.A. Bohlman. 2026. Facilitating macrosystem biology with organismal‐scale airborne remote sensing: Challenges and opportunities. Functional Ecology 40:2760-2776. <https://doi.org/10.1111/1365-2435.70083>
+
 White, E.P., L. Garner, B.G. Weinstein, H. Senyondo, A. Ortega, A. Steinkraus, G.M. Yenni, P. Frederick, S.K.M. Ernest. 2025. Near real-time monitoring of wading birds using uncrewed aircraft systems and computer vision. Remote Sensing in Ecology and Conservation <http://doi.org/10.1002/rse2.421> [[Code (model training)](https://zenodo.org/doi/10.5281/zenodo.11187070), [Code (workflow)](https://zenodo.org/doi/10.5281/zenodo.11127010), [Code (visualization website)](https://zenodo.org/doi/10.5281/zenodo.7004056), [Data (training)](https://zenodo.org/doi/10.5281/zenodo.11165945), [Data (predictions)](https://zenodo.org/doi/10.5281/zenodo.11191295), [Preprint](https://doi.org/10.1101/2024.05.14.594154)]
 
 Dornelas, M., L.H. Antão, A.E. Bates, V. Brambilla, J.M. Chase, C.F.Y. Chow, A. Fontrodona-Eslava, A.E. Magurran, I.S. Martins, F. Moyes, A. Sagouis... E.P. White... et al. 2025. BioTIME 2.0: Expanding and Improving a Database of Biodiversity Time Series. Global Ecology and Biogeography 34:370003. <https://doi.org/10.1111/geb.70003> [[Data](https://doi.org/10.5281/zenodo.10932823), [Website](https://biotime.st-andrews.ac.uk/)]
-
-Graves, S.J., R. Chowdhry, M. Zhou, I. Harmon, B. Weinstein, S.K.M. Ernest, A. Zare, E.P. White, S.A. Bohlman. 2025. Facilitating macrosystem biology with organismal‐scale airborne remote sensing: Challenges and opportunities. Functional Ecology. <https://doi.org/10.1111/1365-2435.70083>
 
 Clark, N.J., S.K.M Ernest, H. Senyondo, J. Simonis, E.P. White, G.M. Yenni, K.A.N.K. Karunarathna. 2025. Beyond single-species models: leveraging multispecies forecasts to navigate the dynamics of ecological predictability. PeerJ 13:e18929 <https://doi.org/10.7717/peerj.18929> [[Preprint](https://doi.org/10.32942/X2TS34), [Code](https://github.com/nicholasjclark/portal_VAR)]
 
