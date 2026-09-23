@@ -635,25 +635,25 @@ e10708. [https://doi.org/10.3897/rio.2.e10708](https://doi.org/10.3897/rio.2.e10
 
 ## Grants and Contracts
 
-University of Florida.
-SEEDIT/LIFT-AI: Automated AI solutions for airborne biodiversity monitoring using generative AI and cross-view training.
-PI: E.P. White. 2025-2027. $74,970
-
 National Science Foundation.
 LTREB Renewal: Using forecasting and long-term experiments to understand ecological dynamics under novel conditions.
 PI: S.K. Morgan Ernest. Co-PI: Ethan P. White. 2024-2029. $643,550
 
 Bureau of Ocean Energy Management.
 Artificial intelligence, open data, and accessible visualization for monitoring protected birds in the Northern Gulf of Mexico.
-PI: Ethan P. White. 2024-2029. $349,897
-
-World Resources Institute.
-Improving tree detection from remote sensing through benchmark and software development.
-PI: Ethan P. White. 2024-2026. $499,818
+PI: Ethan P. White. 2024-2029. $691,052
 
 National Science Foundation.
 Cross-scale forecasting of Everglades wading bird dynamics.
 PI: Ethan P. White. Co-PI: S.K. Morgan Ernest. 2024-2028. $749,988.
+
+University of Florida.
+SEEDIT/LIFT-AI: Automated AI solutions for airborne biodiversity monitoring using generative AI and cross-view training.
+PI: E.P. White. 2025-2027. $74,970
+
+World Resources Institute.
+Improving tree detection from remote sensing through benchmark and software development.
+PI: Ethan P. White. 2024-2026. $499,818
 
 The Boring Fund (Fauna & Flora International).
 Artificial Intelligence for Ecological Monitoring in Latin America.
