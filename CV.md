@@ -588,6 +588,8 @@ Sunderland, MA.
 
 ### Preprints (not yet formally published)
 
+Weinstein, B.G., J. Veitch-Michaelis, M.J. Allen, A. Altamirano, S. Anacleto, R. Astrup, J.G. Ball, H. Baudchon, S. Beery, S.A. Bohlman, J. Brandt... and E.P White. 2026. MillionTrees: A global benchmark for tree detection across geography, sensor, and annotation geometry. bioRxiv <https://doi.org/10.64898/2026.10.30.762845>
+
 Littauer, R. G. Wilson, J. Ainali, E.A. AlOmar, S. Arabas, Y. Bellini Saibene, K. Bubendorfer, K. Champion, C. Dillon, J. Helske, P. Huybrechts, D.S. Katz, C. Liao, D. Lippert, F. Liu, P. Marshall, D.R. McCloy, I. McInerney, M.W. Mkaouer, P. Ojha, C. Treude, E.P White. 2025. 10 quick tips for making your software outlive your job. arXiv <https://arxiv.org/abs/2505.06484>
 
 Stewart, D., A. Zare, S. Marconi, B. Weinstein, E.P. White, S. Graves, S. Bohlman, and A. Singh. 2022. Sensor Fusion for Superpixel Oversegmentation. Authorea Preprints <https://doi.org/10.1002/essoar.10508293.1>
